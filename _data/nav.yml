@@ -1,0 +1,48 @@
+# header links
+header:
+  - title: "Our Work"
+    url: "our-work"
+    description: "Check out what Central Jersey DSA is working on!"
+  - title: "Statements"
+    url: "/statements/"
+    description: "Link to Central Jersey DSA's Chapter Statements"
+  - title: "Get Involved"
+    url: "/get-involved/"
+    description: "Join DSA!"
+  - title: "Events Calendar"
+    url: "/calendar/"
+    description: "Chapter Events Calendar"
+  - title: "Chapter Bylaws"
+    url: "/bylaws/"
+    description: "Here are the bylaws for Central Jersey DSA"
+
+# footer links
+footer:
+  - owner: "Central Jersey DSA"
+    url: # link if any
+    description: # tool tip for your url
+    bio: "This is your chapter of the Democratic Socialists of America" # short bio
+    address: "PO Box 1038 New York, NY 10272" # address or region
+  - social:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/CentralNJDSA"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/CentralNJDSA"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/centralnjdsa/"
+      #    - label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/peninsuladsa"
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:centralnj@dsanj.org"
+  - feed:
+    - label: "Sitemap"
+      icon: "fas fa-sitemap"
+      url: "/sitemap.xml"
+    - label: "RSS"
+      icon: "fas fa-fw fa-rss-square"
+      url: "/feed.xml"
