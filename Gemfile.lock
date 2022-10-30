@@ -103,7 +103,9 @@ GEM
     mercenary (0.3.6)
     minitest (5.15.0)
     multipart-post (2.1.1)
-    nokogiri (1.12.4-x86_64-linux)
+    nokogiri (1.13.9-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.9-x86_64-linux)
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
@@ -134,7 +136,7 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
-  ruby
+  x86_64-darwin-20
   x86_64-linux
 
 DEPENDENCIES
@@ -143,4 +145,4 @@ DEPENDENCIES
   rake (~> 10.0)
 
 BUNDLED WITH
-   2.2.27
+   2.3.24

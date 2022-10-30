@@ -4,6 +4,9 @@ title: "Our Work"
 permalink: /our-work/
 ---
 
+
+TODO: Get content from Birmingham DSA for this page
+
 Want to get involved with our work? Check out our [calendar](../calendar) to attend a meeting!
 
 ### Disability Solidarity
@@ -22,7 +25,7 @@ As workers, we must sell our labor power to survive-it determines our relation t
 
 * CNJ Labor Committee [Twitter](https://twitter.com/CNJDSALabor)
 * [Fill out this form](https://docs.google.com/forms/d/1zP4rgSRnYmxxhYlC7GgVKmVsdr55xRTKTHqKlFNyitU/edit?ts=62f097f2) for availability and planning upcoming meetings
-* Email [cnjdsalaborcommittee@gmail.com](mailto:cnjdsalaborcommittee@gmail.com) or reach out to the twitter to join. 
+* Email [cnjdsalaborcommittee@gmail.com](mailto:cnjdsalaborcommittee@gmail.com) or reach out to the twitter to join.
 
 We generally coordinate on Signal and Whatsapp between meetings.
 
@@ -42,13 +45,13 @@ Our meetings are 1st, 3rd, 5th Thursdays of each month, 6:30pm. We coordinate on
 
 We’re forming the Central Jersey Tenants Union, planning our outreach canvasses, and planning tenant organizing workshops. We still work in regards to forming local tenant association as well, and assist members and others on their housing struggles.
 
-Newcomers are always welcome! If you're interested in organizing your building or neighborhood, we can talk you through the first steps and support you along the way. Meetings vary timewise. 
+Newcomers are always welcome! If you're interested in organizing your building or neighborhood, we can talk you through the first steps and support you along the way. Meetings vary timewise.
 * [Next meeting is here](https://actionnetwork.org/events/central-jersey-dsa-housing-justice-meeting-37)
 * Reach out to [cnjdsahousingjustice@gmail.com](mailto:cnjdsahousingjustice@gmail.com) to join
 
 ### Political Education:
 
-We bring in speakers like Jenny Brown, speaking on relevant social and socialist concerns (recently abortion). We also sometimes have reading groups locally, have done ones on books like Hammer and Hoe, or Critique of the Gotha Programme. 
+We bring in speakers like Jenny Brown, speaking on relevant social and socialist concerns (recently abortion). We also sometimes have reading groups locally, have done ones on books like Hammer and Hoe, or Critique of the Gotha Programme.
 
 Meetings are irregular, reach out to Sudip on Band to join the discord.
 

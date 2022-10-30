@@ -2,10 +2,10 @@
 header:
   - title: "Our Work"
     url: "our-work"
-    description: "Check out what Central Jersey DSA is working on!"
+    description: "Check out what Birmingham DSA is working on!"
   - title: "Statements"
     url: "/statements/"
-    description: "Link to Central Jersey DSA's Chapter Statements"
+    description: "Link to Birmingham DSA's Chapter Statements"
   - title: "Get Involved"
     url: "/get-involved/"
     description: "Join DSA!"
@@ -14,11 +14,11 @@ header:
     description: "Chapter Events Calendar"
   - title: "Chapter Bylaws"
     url: "/bylaws/"
-    description: "Here are the bylaws for Central Jersey DSA"
+    description: "Here are the bylaws for Birmingham DSA"
 
 # footer links
 footer:
-  - owner: "Central Jersey DSA"
+  - owner: "Birmingham DSA"
     url: # link if any
     description: # tool tip for your url
     bio: "This is your chapter of the Democratic Socialists of America" # short bio
@@ -26,19 +26,19 @@ footer:
   - social:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/CentralNJDSA"
+      url: "https://www.facebook.com/BhamDSA"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/CentralNJDSA"
+      url: "https://twitter.com/bhamdsa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/centralnjdsa/"
+      url: "https://www.instagram.com/bhamdsa/"
       #    - label: "GitHub"
       #icon: "fab fa-fw fa-github"
-      #url: "https://github.com/peninsuladsa"
+      #url: "https://github.com/birminghamdsa-ntc"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:centralnj@dsanj.org"
+      url: "mailto:bhamdsa@gmail.com"
   - feed:
     - label: "Sitemap"
       icon: "fas fa-sitemap"

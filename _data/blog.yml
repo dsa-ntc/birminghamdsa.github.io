@@ -1,18 +1,18 @@
 # blog authors
 authors:
-  - name: "Central Jersey DSA"
-    headline: # byline? 
+  - name: "Birmingham DSA"
+    headline: # byline?
     avatar: #"awesome_author.svg" # display_picture.jpg
     follow:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "ihttps://www.facebook.com/CentralNJDSA"
+      url: "https://www.facebook.com/BhamDSA/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/CentralNJDSA"
+      url: "https://twitter.com/bhamdsa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/centralnjdsa/"
+      url: "https://instagram.com/bhamdsa"
 
 # blog post share links
 share:

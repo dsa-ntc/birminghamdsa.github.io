@@ -13,8 +13,8 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
-title: "Central Jersey DSA"
-description: "Homepage for the Central New Jersey Democratic Socialists of America"
+title: "Birmingham DSA"
+description: "Homepage for the Birmingham Democratic Socialists of America"
 url: # site url e.g. "https://manid2.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 author: mani_d2
@@ -177,4 +177,4 @@ defaults:
     values:
       # for SEO and social sharing
       image: assets/images/smalllogo.png
-      image_alt: Central New Jersey Democratic Socialists of America logo
+      image_alt: Birmingham Democratic Socialists of America logo
