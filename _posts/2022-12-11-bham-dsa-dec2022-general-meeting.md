@@ -2,7 +2,7 @@
 layout: post
 title: "RSVP for Bham DSA's December general meeting!"
 permalink: /bham-dsa-dec2022-general-meeting
-tag: general meeting
+tag: general meeting, labor, mutual aid, housing, afrosocialism, socialist feminism
 short_description: "RSVP here for the Zoom info for Bham DSA's December general meeting on Sunday, December 11 at 7:00PM CT."
 ---
 
