@@ -6,7 +6,7 @@ tag: general meeting, labor, mutual aid, housing, afrosocialism, socialist femin
 short_description: "RSVP here for the Zoom info for Bham DSA's December general meeting on Sunday, December 11 at 7:00PM CT."
 ---
 
-Our December general meeting is now on Sunday, December 11 at 7:00PM CT!
+Our December general meeting is on Sunday, December 11 at 7:00PM CT!
 
 Get updates from all our chapter organizing, including labor solidarity, mutual aid and socialist feminist organizing, our AfroSocialists section, and much more! <i>This is a great meeting for those who are DSA-curious.</i>
 
