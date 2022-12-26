@@ -1,0 +1,71 @@
+.mainContainer {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    max-width: 1080px;
+}
+
+
+.scrollableSections {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    overflow: scroll;
+    width: 40%;
+    height: 33.33%;
+
+    margin: 1em;
+    border: 1px solid red;
+    border-radius: .5em;
+    padding: 1em;
+}
+
+
+.scrollableSections a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    margin: .25em;
+}
+
+
+.scrollableSections a.levelOneLink {
+    font-weight: 900;
+}
+
+
+.scrollableSections a.levelTwoLink {
+    font-weight: 400;
+    margin-left: 2em;
+}
+
+
+.sectionedContent {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    max-width: 60%;
+}
+
+
+.contentSection {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.contentSection h1 {
+    font-size: 3em;
+    font-weight: 600;
+}
+
+
+.contentSection h2 {
+    font-size: 2em;
+    font-weight: 600;
+}
+
+
+.contentSection p {
+    font-size: 1.125em;
+}
