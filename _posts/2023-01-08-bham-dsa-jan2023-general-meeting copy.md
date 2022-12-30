@@ -9,7 +9,7 @@ image_alt: "Birmingham DSA JANUARY GENERAL MEETING. Get updates from all our cha
 image_caption: "Birmingham DSA JANUARY GENERAL MEETING. Get updates from all our chapter organizing, including labor solidarity, mutual aid and socialist feminist organizing! We'll also discuss important chapter business for the new year. This is a great Zoom meeting for those who are DSA-curious. Sunday, January 8, 2023, 7:00PM CT. RSVP for the Zoom info at linktr.ee/bhamdsa"
 ---
 
-Our January general meeting is on Sunday, January 8 at 7:00PM CT!
+Our January general meeting is on Sunday, January 8 at 7:00PM CT! 
 
 Get updates from all our chapter organizing, including labor solidarity, mutual aid and socialist feminist organizing! We'll also discuss important chapter business for the new year. <i>This is a great meeting for those who are DSA-curious.</i>
 
