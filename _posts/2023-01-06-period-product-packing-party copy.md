@@ -9,7 +9,7 @@ image_alt: "BIRMINGHAM DSA JANUARY PERIOD PRODUCT PACKING PARTY. Bring pads, tam
 image_caption: "BIRMINGHAM DSA JANUARY PERIOD PRODUCT PACKING PARTY. Bring pads, tampons, sanitary wipes and/or diva cups! Help us pack these products into individualized bags to distribute during public Bham DSA events and other times of need. Friday, January 6, 2023, 6:00PM CT. RSVP at linktr.ee/bhamdsa"
 ---
 
-Our January Period Product Packing Party is on Friday, January 6 at 6:00PM CT!
+Our January Period Product Packing Party is on Friday, January 6 at 6:00PM CT! 
 
 Help us pack these products into individualized bags to distribute during public Bham DSA events and other times of need! Bring pads, tampons, sanitary wipes and/or diva cups, if you can.
 
