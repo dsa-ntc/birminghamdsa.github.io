@@ -32,8 +32,15 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="housingJusticeCommittee">
             <h2>Housing Justice Committee</h2>
+            <h3>Chair: Greer M.</h3>
             <hr>
-            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
+            <!-- <p>As Birmingham DSA's Housing Justice Committee, we aim to organize tenants in and around Birmingham, with the goal of building support for tenants' rights and advocating into existence local ordinances that establish stronger tenant protections.
+            
+            <p>To do this, we canvass apartment complexes and other housing developments with high rates of evictions and tenant complaints, connect with tenant unions and other housing-related organizations, and more.
+            
+            <p>We hold monthly meetings.
+            
+            <p>Interested? E-mail us at <a href="mailto:housing@bhamdsa.org?subject=Housing Justice Committee">housing@bhamdsa.org</a>.</p> -->
         </div>
         <div class="contentSection" id="laborCommittee">
             <h2>Labor Committee</h2>
