@@ -32,7 +32,7 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="housingJusticeCommittee">
             <h2>Housing Justice Committee</h2>
-            <h5>Chair: Greer M. (he/him)</h5>
+            <h5>Chair: Jane D. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Housing Justice Committee, we aim to organize tenants in and around Birmingham, with the goal of building support for tenants' rights and advocating into existence local ordinances that establish stronger tenant protections.
             
@@ -43,7 +43,7 @@ permalink: /our-work/
             <p>Interested? E-mail us at <a href="mailto:housing@bhamdsa.org?subject=Housing Justice Committee">housing@bhamdsa.org</a>.</p>
         <div class="contentSection" id="laborCommittee">
             <h2>Labor Committee</h2>
-            <h5>Co-Chairs: Haley C. (she/they), Chris I. (he/him)</h5>
+            <h5>Co-Chairs: Jane D. (she/they), Jane D. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Labor Committee, we aim to guide labor organizing within Birmingham DSA, educate Birmingham DSA members on workplace organizing strategies and history, strengthen relationships with existing labor organizations, and build worker power within the greater Birmingham area.
 
@@ -54,7 +54,7 @@ permalink: /our-work/
             <p>Interested? E-mail us at <a href="mailto:info@bhamdsa.org?subject=Labor Committee">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="mutualAidCommittee">
             <h2>Mutual Aid Committee</h2>
-            <h5>Co-Chairs: Jason K. (he/him), Theo L. (he/him)</h5>
+            <h5>Co-Chairs: Jane D. (he/him), Jane D. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Mutual Aid Committee, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
             
