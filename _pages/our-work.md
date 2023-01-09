@@ -63,9 +63,9 @@ permalink: /our-work/
             <p>We organize mutual aid events at least once a month. We hold committee meetings every 2-3 months.
             
             <p>Interested? E-mail us at <a href="mailto:mutualaid@bhamdsa.org?subject=Interested in Mutual Aid Committee">mutualaid@bhamdsa.org</a>.
-        </div>
         <div class="contentSection" id="socFemWG">
             <h2>Socialist Feminist Working Group</h2>
+            <h5>Facilitator: Jane D. (she/her)</h5>
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
@@ -78,6 +78,7 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="AFROSOC">
             <h2>AfroSocialists and Socialists of Color (AFROSOC)</h2>
+            <h5>Facilitator: Jane D. (he/him)</h5>
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
@@ -90,19 +91,24 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="steeringCommittee">
             <h2>Steering Committee</h2>
+            <h5>Co-Chair: Jane D. (he/him)
+            Co-Chair: Jane D. (she/her)
+            Treasurer: Jane D. (he/him)
+            Secretary: Jane D. (she/her)
+            Communications Officer: Currently vacant
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
         <div class="contentSection" id="communicationsCommittee">
             <h2>Communications Committee</h2>
+            <h5>Chair: Jane D. (he/him)</h5>
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
         <div class="contentSection" id="membershipEngagementCommittee">
             <h2>Membership Engagement Committee</h2>
+            <h5>Chair: Jane D. (he/him)</h5>
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
-        </div>
-    </div>
 
 </div>
