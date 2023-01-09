@@ -32,20 +32,27 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="housingJusticeCommittee">
             <h2>Housing Justice Committee</h2>
-            <h3>Chair: Greer M.</h3>
+            <h3>Chair: Greer M. (he/him)</h3>
             <hr>
-            <!-- <p>As Birmingham DSA's Housing Justice Committee, we aim to organize tenants in and around Birmingham, with the goal of building support for tenants' rights and advocating into existence local ordinances that establish stronger tenant protections.
+            <p>As Birmingham DSA's Housing Justice Committee, we aim to organize tenants in and around Birmingham, with the goal of building support for tenants' rights and advocating into existence local ordinances that establish stronger tenant protections.
             
             <p>To do this, we canvass apartment complexes and other housing developments with high rates of evictions and tenant complaints, connect with tenant unions and other housing-related organizations, and more.
             
             <p>We hold monthly meetings.
             
-            <p>Interested? E-mail us at <a href="mailto:housing@bhamdsa.org?subject=Housing Justice Committee">housing@bhamdsa.org</a>.</p> -->
+            <p>Interested? E-mail us at <a href="mailto:housing@bhamdsa.org?subject=Housing Justice Committee">housing@bhamdsa.org</a>.</p>
         </div>
         <div class="contentSection" id="laborCommittee">
             <h2>Labor Committee</h2>
+            <h3>Co-Chairs: Haley C. (she/they), Chris I. (he/him)</h3>
             <hr>
-            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
+            <p>As Birmingham DSA's Labor Committee, we aim to guide labor organizing within Birmingham DSA, educate Birmingham DSA members on workplace organizing strategies and history, strengthen relationships with existing labor organizations, and build worker power within the greater Birmingham area.
+
+            <p>To do this, we build relationships with existing unions and other worker organizations in our region -- including <a href="https://umwa.org/about/district-20/">District 20 locals of the United Mine Workers of America (UMWA)</a> and their auxiliaries, <a href="https://sbworkersunited.org/">Starbucks Workers United (SBWU)</a>, and <a href="https://bamazonunion.org/">BAmazonUnion</a> -- through strike support and community organizing. We also support new workplace organizing efforts with support from the <a href="https://workerorganizing.org/">Emergency Workplace Organizing Committee (EWOC)</a>, develop labor-related educational opportunities for both our membership and the community, and much more.
+            
+            <p>We hold monthly meetings.
+            
+            <p>Interested? E-mail us at <a href="mailto:info@bhamdsa.org?subject=Labor Committee">info@bhamdsa.org</a>.</p>
         </div>
         <div class="contentSection" id="mutualAidCommittee">
             <h2>Mutual Aid Committee</h2>
