@@ -41,7 +41,6 @@ permalink: /our-work/
             <p>We hold monthly meetings.
             
             <p>Interested? E-mail us at <a href="mailto:housing@bhamdsa.org?subject=Housing Justice Committee">housing@bhamdsa.org</a>.</p>
-        </div>
         <div class="contentSection" id="laborCommittee">
             <h2>Labor Committee</h2>
             <h5>Co-Chairs: Haley C. (she/they), Chris I. (he/him)</h5>
@@ -53,11 +52,17 @@ permalink: /our-work/
             <p>We hold monthly meetings.
             
             <p>Interested? E-mail us at <a href="mailto:info@bhamdsa.org?subject=Labor Committee">info@bhamdsa.org</a>.</p>
-        </div>
         <div class="contentSection" id="mutualAidCommittee">
             <h2>Mutual Aid Committee</h2>
+            <h5>Co-Chairs: Jason K. (he/him), Theo L. (he/him)</h5>
             <hr>
-            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
+            <p>As Birmingham DSA's Mutual Aid Committee, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
+            
+            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, Direct Snacktion hot meal program. We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a> and <a href="https://marginsw4bw.weebly.com/">Margins</a>; and much more.
+            
+            <p>We organize mutual aid events at least once a month. We hold committee meetings every 2-3 months.
+            
+            <p>Interested? E-mail us at <a href="mailto:mutualaid@bhamdsa.org?subject=Interested in Mutual Aid Committee">mutualaid@bhamdsa.org</a>.
         </div>
         <div class="contentSection" id="socFemWG">
             <h2>Socialist Feminist Working Group</h2>
