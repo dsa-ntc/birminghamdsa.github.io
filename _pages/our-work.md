@@ -38,7 +38,7 @@ permalink: /our-work/
             
             <p>To do this, we canvass apartment complexes and other housing developments with high rates of evictions and tenant complaints, connect with tenant unions and other housing-related organizations, and more.
             
-            <p>We hold monthly meetings.
+            <p>We hold meetings as needed.
             
             <p>Interested? E-mail us at <a href="mailto:housing@bhamdsa.org?subject=Housing Justice Committee">housing@bhamdsa.org</a>.</p>
         <div class="contentSection" id="laborCommittee">
