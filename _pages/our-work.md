@@ -32,7 +32,7 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="housingJusticeCommittee">
             <h2>Housing Justice Committee</h2>
-            <h4>Chair: Greer M. (he/him)</h4>
+            <h5>Chair: Greer M. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Housing Justice Committee, we aim to organize tenants in and around Birmingham, with the goal of building support for tenants' rights and advocating into existence local ordinances that establish stronger tenant protections.
             
@@ -44,7 +44,7 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="laborCommittee">
             <h2>Labor Committee</h2>
-            <h4>Co-Chairs: Haley C. (she/they), Chris I. (he/him)</h4>
+            <h5>Co-Chairs: Haley C. (she/they), Chris I. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Labor Committee, we aim to guide labor organizing within Birmingham DSA, educate Birmingham DSA members on workplace organizing strategies and history, strengthen relationships with existing labor organizations, and build worker power within the greater Birmingham area.
 
