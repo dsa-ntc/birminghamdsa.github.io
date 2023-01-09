@@ -91,11 +91,11 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="steeringCommittee">
             <h2>Steering Committee</h2>
-            <h5>Co-Chair: Jane D. (he/him)
-            <p>Co-Chair: Jane D. (she/her)
-            <p>Treasurer: Jane D. (he/him)
-            <p>Secretary: Jane D. (she/her)
-            <p>Communications Officer: Currently vacant</h5>
+            <h5>Co-Chair: Jane D. (he/him)</h5>
+            <h5>Co-Chair: Jane D. (she/her)</h5>
+            <h5>Treasurer: Jane D. (he/him)</h5>
+            <h5>Secretary: Jane D. (she/her)</h5>
+            <h5>Communications Officer: Currently vacant</h5>
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         <div class="contentSection" id="communicationsCommittee">
