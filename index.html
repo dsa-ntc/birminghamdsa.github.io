@@ -7,37 +7,6 @@ layout: default
 
 <div class="container my-5">
   <div class="row">
-    <div class="col-md-6 col-sm-12">
-      <h1>{{ welcome.welcome }}</h1>
-      <hr class="large" />
-      <p>{{ about.about }}</p>
-      <a href="/about" class="btn btn-secondary">Read More <i class="fa fa-arrow-right"></i></a>
-    </div>
-    <div class="col-md-6 col-sm-12 text-right">
-      <a href="https://drive.google.com/uc?export=view&id=1W_Sv9NhEzTJJvElQ1IMJThk_QC3CTwsj">
-        <img src="assets/images/frontpage-thumb.jpeg" width="90%" height="auto"
-          alt="Several Birmingham DSA members standing holding a Vote Unition sign" />
-      </a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-12 text-center">
-      <i class="fa fa-arrow-down my-5 text-red"></i>
-    </div>
-  </div>
-
-  <!-- Action Network Biweekly Bulletin Subscription Form -->
-  <div class="col-6">
-    <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' />
-    <script
-      src='https://actionnetwork.org/widgets/v5/form/birmingham-dsa-biweekly-bulletin-subscription-form?format=js&source=widget'></script>
-    <div id='can-form-area-birmingham-dsa-biweekly-bulletin-subscription-form' style='width: 100%'>
-      <!-- this div is the target for our HTML insertion -->
-    </div>
-  </div>
-  <!-- END: Action Network Biweekly Bulletin Subscription Form -->
-
-  <div class="row">
     <div class="col-12">
       <h2 class="my-5">Recent Statements</h2>
     </div>
@@ -50,6 +19,41 @@ layout: default
       </div>
       {% endfor %}
     </div>
+  </div>
+  <div class="row">
+    <div class="col-12 text-center">
+      <i class="fa fa-arrow-down my-5 text-red"></i>
+    </div>
+  </div>
+
+  <div class="row">
+    <!-- BEGIN WELCOME -->
+    <div class="col-md-6 col-sm-12">
+      <h1>{{ welcome.welcome }}</h1>
+      <hr class="large" />
+      <p>{{ about.about }}</p>
+      <a href="/about" class="btn btn-secondary">Read More <i class="fa fa-arrow-right"></i></a>
+    </div>
+    <div class="col-md-6 col-sm-12 text-right">
+      <a href="https://drive.google.com/uc?export=view&id=1W_Sv9NhEzTJJvElQ1IMJThk_QC3CTwsj">
+        <img src="assets/images/frontpage-thumb.jpeg" width="90%" height="auto"
+          alt="Several Birmingham DSA members standing holding a Vote Unition sign" />
+      </a>
+    </div>
+    <!-- END WELCOME -->
+  </div>
+
+  <div class="row">
+    <!-- Action Network Biweekly Bulletin Subscription Form -->
+    <div class="col-6">
+      <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' />
+      <script
+        src='https://actionnetwork.org/widgets/v5/form/birmingham-dsa-biweekly-bulletin-subscription-form?format=js&source=widget'></script>
+      <div id='can-form-area-birmingham-dsa-biweekly-bulletin-subscription-form' style='width: 100%'>
+        <!-- this div is the target for our HTML insertion -->
+      </div>
+    </div>
+    <!-- END: Action Network Biweekly Bulletin Subscription Form -->    
 
     <div class="col-md-6 col-sm-12 text-right">
       <!-- Instagram Profile Embed -->
