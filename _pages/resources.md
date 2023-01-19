@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## For New Members
 
-[Frequently Asked Questions (coming soon!)]
+[Frequently Asked Questions (coming soon)]
 
 [Biweekly bulletin subscription form](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
 
