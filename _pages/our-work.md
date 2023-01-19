@@ -40,7 +40,7 @@ permalink: /our-work/
             
             <p>We hold meetings as needed.
             
-            <p>Interested? E-mail us at <a href="mailto:housing@bhamdsa.org?subject=Housing Justice Committee">housing@bhamdsa.org</a>.</p>
+            <p>To contact the Housing Justice Committee, e-mail <a href="mailto:housing@bhamdsa.org?subject=Question for Housing Justice Committee">housing@bhamdsa.org</a>.</p>
         <div class="contentSection" id="laborCommittee">
             <h2>Labor Committee</h2>
             <h5>Co-Chairs: Jane D. (she/they), Jane D. (he/him)</h5>
@@ -51,7 +51,7 @@ permalink: /our-work/
             
             <p>We hold monthly meetings.
             
-            <p>Interested? E-mail us at <a href="mailto:info@bhamdsa.org?subject=Labor Committee">info@bhamdsa.org</a>.</p>
+            <p>To contact the Labor Committee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Labor Committee">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="mutualAidCommittee">
             <h2>Mutual Aid Committee</h2>
             <h5>Co-Chairs: Jane D. (he/him), Jason K. (he/him)</h5>
@@ -62,7 +62,7 @@ permalink: /our-work/
             
             <p>We organize mutual aid events at least once a month. We hold committee meetings every 2-3 months.
             
-            <p>Interested? E-mail us at <a href="mailto:mutualaid@bhamdsa.org?subject=Interested in Mutual Aid Committee">mutualaid@bhamdsa.org</a>.
+            <p>To contact the Mutual Aid Committee, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Committee">mutualaid@bhamdsa.org</a>.
         <div class="contentSection" id="socFemWG">
             <h2>Socialist Feminist Working Group</h2>
             <h5>Facilitator: Jane D. (she/her)</h5>
@@ -80,7 +80,7 @@ permalink: /our-work/
             <h2>AfroSocialists and Socialists of Color (AFROSOC)</h2>
             <h5>Facilitator: Jason K. (he/him)</h5>
             <hr>
-            <p>Birmingham DSA's AfroSocialists and Socialists of Color (AFROSOC) Section advocates for and builds power with socialists who self-identify as Black, Indigenous, or Persons of Color (BIPOC) and their communities. 
+            <p>Birmingham DSA's AfroSocialists and Socialists of Color (Bham DSA AFROSOC) Section advocates for and builds power with socialists who self-identify as Black, Indigenous, or Persons of Color (BIPOC) and their communities. 
             
             <p>Our goal is to affirm a space and network for BIPOC comrades to gain support, develop as leaders in DSA and in their communities, and take action.
             
@@ -88,7 +88,7 @@ permalink: /our-work/
             
             <p>Any person in the Birmingham and Tuscaloosa metropolitan areas who self-identify as BIPOC can become a voting member of AFROSOC. Birmingham DSA and/or DSA membership is not required to be a voting member of AFROSOC.
 
-            <p>Interested? E-mail us at <a href="mailto:afrosoc@bhamdsa.org?subject=Interested in AFROSOC">afrosoc@bhamdsa.org</a>.
+            <p>To contact Birmingham DSA's AFROSOC Section, e-mail <a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">afrosoc@bhamdsa.org</a>.
 
         <!-- INTERNAL COMMITTEES -->
         <div class="contentSection" id="internalCommittees">
@@ -116,15 +116,14 @@ permalink: /our-work/
             
             <p>All members of Bham DSA in good standing may observe Steering Committee meetings, which are held monthly.
 
-            <p>To contact the Birmingham DSA Steering Committee, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question about Steering">steering@bhamdsa.org</a>.
+            <p>To contact the Birmingham DSA Steering Committee, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question for Steering">steering@bhamdsa.org</a>.
         <div class="contentSection" id="communicationsCommittee">
             <h2>Communications Committee</h2>
             <h5>Facilitator: Jason K (he/him)</h5>
             <hr>
            <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. 
 
-           <p>Want to learn more about the Communications Committee? E-mail <a href="mailto:info@bhamdsa.org?subject=Question about Comms Committee">info@bhamdsa.org</a>.
-        </div>
+           <p>To contact the Communications Committee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Comms Committee">info@bhamdsa.org</a>.
         <div class="contentSection" id="membershipEngagementCommittee">
             <h2>Membership Committee</h2>
             <h5>Chair: Jane D. (he/him)</h5>
@@ -133,4 +132,4 @@ permalink: /our-work/
 
             <p>Application to the Membership Committee is open to all Bham DSA members in good standing.
 
-            <p>Want to learn more about the Membership Committee? E-mail <a href="mailto:info@bhamdsa.org?subject=Question about Membership Committee">info@bhamdsa.org</a>.
+            <p>To contact the Membership Committee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Membership Committee">info@bhamdsa.org</a>.
