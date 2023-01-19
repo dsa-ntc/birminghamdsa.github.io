@@ -58,7 +58,7 @@ permalink: /our-work/
             <hr>
             <p>As Birmingham DSA's Mutual Aid Committee, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
             
-            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, Direct Snacktion hot meal program. We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a> and <a href="https://marginsw4bw.weebly.com/">Margins</a>; and much more.
+            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, where we repair the brake light bulbs and covers of our neighbors to minimize their interactions with police, and our Direct Snacktion hot meal program. We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a> and <a href="https://marginsw4bw.weebly.com/">Margins</a>; and much more.
             
             <p>We organize mutual aid events at least once a month. We hold committee meetings every 2-3 months.
             
@@ -89,7 +89,6 @@ permalink: /our-work/
             <p>Any person in the Birmingham and Tuscaloosa metropolitan areas who self-identify as BIPOC can become a voting member of AFROSOC. Birmingham DSA and/or DSA membership is not required to be a voting member of AFROSOC.
 
             <p>Interested? E-mail us at <a href="mailto:afrosoc@bhamdsa.org?subject=Interested in AFROSOC">afrosoc@bhamdsa.org</a>.
-        </div>
 
         <!-- INTERNAL COMMITTEES -->
         <div class="contentSection" id="internalCommittees">
@@ -113,11 +112,11 @@ permalink: /our-work/
 
             <p>The <b>Secretary</b> is entrusted with the care and custody of all Bham DSA records. They also ensure that the minutes of general meetings are kept and distributed to members.
 
-            <p>The <b>Communications Officer</b> is responsible for all external and internal chapter communications. External chapter communications are public-facing communications, including this website, social media, and agitprop. Internal communications are communications used only by Bham DSA members, including our regular chapter bulletin and electronic workspace. 
+            <p>The <b>Communications Officer</b> is responsible for all external and internal chapter communications. External chapter communications are public-facing communications, including this website, social media, and agitprop. Internal communications are communications intended only for Bham DSA members, including our regular chapter bulletin and electronic workspace. 
             
             <p>All members of Bham DSA in good standing may observe Steering Committee meetings, which are held monthly.
 
-            <p>To contact the Birmingham DSA Steering Committee, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question about Steering">steering@bhamdsa.org</a>
+            <p>To contact the Birmingham DSA Steering Committee, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question about Steering">steering@bhamdsa.org</a>.
         <div class="contentSection" id="communicationsCommittee">
             <h2>Communications Committee</h2>
             <h5>Chair: Jane D. (he/him)</h5>
@@ -125,9 +124,11 @@ permalink: /our-work/
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
         <div class="contentSection" id="membershipEngagementCommittee">
-            <h2>Membership Engagement Committee</h2>
+            <h2>Membership Committee</h2>
             <h5>Chair: Jane D. (he/him)</h5>
             <hr>
-            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
+            <p>Birmingham DSA's Membership Committee manages internal member outreach, leads member onboarding and retention efforts, and develops the chapter's most involved organizers.
 
-</div>
+            <p>Application to the Membership Committee is open to all Bham DSA members in good standing.
+
+            <p>Want to learn more about the Membership Committee? E-mail <a href="mailto:info@bhamdsa.org?subject=Question about Membership Committee">info@bhamdsa.org</a>.
