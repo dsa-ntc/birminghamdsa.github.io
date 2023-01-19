@@ -78,9 +78,17 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="AFROSOC">
             <h2>AfroSocialists and Socialists of Color (AFROSOC)</h2>
-            <h5>Facilitator: Jane D. (he/him)</h5>
+            <h5>Facilitator: Jason K. (he/him)</h5>
             <hr>
-            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
+            <p>Birmingham DSA's AfroSocialists and Socialists of Color (AFROSOC) Section advocates for and builds power with socialists who self-identify as Black, Indigenous, or Persons of Color (BIPOC) and their communities. 
+            
+            <p>Our goal is to affirm a space and network for BIPOC comrades to gain support, develop as leaders in DSA and in their communities, and take action.
+            
+            <p>We also aim to organize a mass movement of the multiracial, multiethnic working class in order to end racial capitalism, as well as all forms of material oppression based on social construction and biological existence.
+            
+            <p>Any person in the Birmingham and Tuscaloosa metropolitan areas who self-identify as BIPOC can become a voting member of AFROSOC. Birmingham DSA and/or DSA membership is not required to be a voting member of AFROSOC.
+
+            <p>Interested? E-mail us at <a href="mailto:afrosoc@bhamdsa.org?subject=Interested in AFROSOC">afrosoc@bhamdsa.org</a>.
         </div>
 
         <!-- INTERNAL COMMITTEES -->
