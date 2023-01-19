@@ -101,7 +101,7 @@ permalink: /our-work/
             <h2>Steering Committee</h2>
             <h5>Co-Chair (Seat 1): Jane D. (he/him)</h5>
             <h5>Co-Chair (Seat 2): Jane D. (she/her)</h5>
-            <h5>Treasurer: Jane D. (he/him)</h5>
+            <h5>Treasurer: Jason K. (he/him)</h5>
             <h5>Secretary: Jane D. (she/her)</h5>
             <h5>Communications Officer: Currently vacant</h5>
             <hr>
