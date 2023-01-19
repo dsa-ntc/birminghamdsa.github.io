@@ -54,7 +54,7 @@ permalink: /our-work/
             <p>Interested? E-mail us at <a href="mailto:info@bhamdsa.org?subject=Labor Committee">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="mutualAidCommittee">
             <h2>Mutual Aid Committee</h2>
-            <h5>Co-Chairs: Jane D. (he/him), Jane D. (he/him)</h5>
+            <h5>Co-Chairs: Jane D. (he/him), Jason K. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Mutual Aid Committee, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
             
@@ -119,7 +119,7 @@ permalink: /our-work/
             <p>To contact the Birmingham DSA Steering Committee, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question about Steering">steering@bhamdsa.org</a>.
         <div class="contentSection" id="communicationsCommittee">
             <h2>Communications Committee</h2>
-            <h5>Chair: Jane D. (he/him)</h5>
+            <h5>Facilitator: Jason K (he/him)</h5>
             <hr>
            <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. 
 
