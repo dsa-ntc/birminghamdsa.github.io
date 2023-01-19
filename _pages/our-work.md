@@ -121,7 +121,9 @@ permalink: /our-work/
             <h2>Communications Committee</h2>
             <h5>Chair: Jane D. (he/him)</h5>
             <hr>
-            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
+           <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. 
+
+           <p>Want to learn more about the Communications Committee? E-mail <a href="mailto:info@bhamdsa.org?subject=Question about Comms Committee">info@bhamdsa.org</a>.
         </div>
         <div class="contentSection" id="membershipEngagementCommittee">
             <h2>Membership Committee</h2>
