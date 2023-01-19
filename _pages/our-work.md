@@ -67,8 +67,9 @@ permalink: /our-work/
             <h2>Socialist Feminist Working Group</h2>
             <h5>Facilitator: Jane D. (she/her)</h5>
             <hr>
-            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
-        </div>
+           <p>Birmingham DSA's Socialist Feminist Working Group (SocFem) aims to bring a more prominent feminist perspective to Bham DSA and a socialist perspective to the mainstream feminist movement as it exists in the Birmingham and Tuscaloosa metropolitan areas.
+
+           <p>To contact the Socialist Feminist Working Group, e-mail <a href="mailto:socfem@bhamdsa.org?subject=Question for SocFem Working Group">socfem@bhamdsa.org</a>.
 
         <!-- MEMBER SECTIONS -->
         <div class="contentSection" id="memberSections">
