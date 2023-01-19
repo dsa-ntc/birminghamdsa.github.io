@@ -8,7 +8,9 @@ permalink: /resources/
 
 [Frequently Asked Questions (coming soon)]
 
-[Guide for Using Slack (by DSA New Orleans)](https://www.dsaneworleans.org/library/1D-sGenKy8JquJ2IU_Gx-pQl_FFJIrBN5c0gTjhC1r3A)
+[Biweekly bulletin subscription form](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
+
+[Guide for Using Slack (from DSA New Orleans)](https://www.dsaneworleans.org/library/1D-sGenKy8JquJ2IU_Gx-pQl_FFJIrBN5c0gTjhC1r3A)
 
 ## Housing Justice Committee: Resources for Tenants/Renters in Birmingham
 
@@ -21,6 +23,16 @@ permalink: /resources/
 [Utility Assistance in Jefferson County](https://www.caaneal.org/liheap/)
 
 [Alabama Tenants' Handbook](https://www.alabamalegalhelp.org/files/A2447EEE-F644-D86C-0EED-38CCDA102137/attachments/D58BD7A6-D99A-93CB-F1B6-D0BF0AE6B7B3/352521AlabamaTenantsHandbook122006.pdf)
+
+## Labor Committee Resources
+
+[UMWA Warrior Met Coal Strike Fund donation page](https://umwa.org/umwa2021strikefund)
+
+## Mutual Aid Committee Resources
+
+['Know Your Rights If Police Pull You Over' printable cards](https://drive.google.com/file/d/1KyZB6f0ckAcGf3zVB_9mLcFjYDiOLK_Q/view)
+
+[Red Rag Zine submission info](https://www.instagram.com/p/Cbf4A0bugpa/?utm_source=ig_web_copy_link)
 
 ## Miscellaneous Resources
 
