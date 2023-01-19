@@ -99,13 +99,25 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="steeringCommittee">
             <h2>Steering Committee</h2>
-            <h5>Co-Chair: Jane D. (he/him)</h5>
-            <h5>Co-Chair: Jane D. (she/her)</h5>
+            <h5>Co-Chair (Seat 1): Jane D. (he/him)</h5>
+            <h5>Co-Chair (Seat 2): Jane D. (she/her)</h5>
             <h5>Treasurer: Jane D. (he/him)</h5>
             <h5>Secretary: Jane D. (she/her)</h5>
             <h5>Communications Officer: Currently vacant</h5>
             <hr>
-            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
+            <p>The Steering Committee is the elected leadership of Birmingham DSA. The Treasurer, Secretary, Communications Officer, and Co-Chair Seat 1 are elected annually at our January general meeting. Co-Chair Seat 2 is elected annually at our July general meeting.
+
+            <p>The two <b>Co-Chairs</b> serve as the chief executive officers of Bham DSA, ensuring all resolutions and decisions of the members are executed. They also preside over all general meetings. 
+
+            <p>The <b>Treasurer</b> is entrusted with the care and custody of all chapter funds, securities, properties, and assets. 
+
+            <p>The <b>Secretary</b> is entrusted with the care and custody of all Bham DSA records. They also ensure that the minutes of general meetings are kept and distributed to members.
+
+            <p>The <b>Communications Officer</b> is responsible for all external and internal chapter communications. External chapter communications are public-facing communications, including this website, social media, and agitprop. Internal communications are communications used only by Bham DSA members, including our regular chapter bulletin and electronic workspace. 
+            
+            <p>All members of Bham DSA in good standing may observe Steering Committee meetings, which are held monthly.
+
+            <p>To contact the Birmingham DSA Steering Committee, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question about Steering">steering@bhamdsa.org</a>
         <div class="contentSection" id="communicationsCommittee">
             <h2>Communications Committee</h2>
             <h5>Chair: Jane D. (he/him)</h5>
