@@ -120,7 +120,7 @@ permalink: /our-work/
             <p>To contact the Birmingham DSA Steering Committee, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question for Steering">steering@bhamdsa.org</a>.
         <div class="contentSection" id="communicationsCommittee">
             <h2>Communications Committee</h2>
-            <h5>Facilitator: Jason K (he/him)</h5>
+            <h5>Facilitator: Jason K. (he/him)</h5>
             <hr>
            <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. 
 
