@@ -8,7 +8,6 @@ permalink: /our-work/
     <div class="scrollableSections">
         <!-- COMMITTEES & WORKING GROUPS -->
         <a class="levelOneLink" href="#committees">COMMITTEES & WORKING GROUPS</a><br />
-        <a class="levelTwoLink" href="#housingJusticeCommittee">Housing Justice Committee</a><br />
         <a class="levelTwoLink" href="#laborCommittee">Labor Committee</a><br />
         <a class="levelTwoLink" href="#mutualAidCommittee">Mutual Aid Committee</a><br />
         <a class="levelTwoLink" href="#socFemWG">Socialist Feminist Working Group</a><br />
@@ -30,17 +29,6 @@ permalink: /our-work/
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
-        <div class="contentSection" id="housingJusticeCommittee">
-            <h2>Housing Justice Committee</h2>
-            <h5>Chair: Jane D. (he/him)</h5>
-            <hr>
-            <p>As Birmingham DSA's Housing Justice Committee, we aim to organize tenants in and around Birmingham, with the goal of building support for tenants' rights and advocating into existence local ordinances that establish stronger tenant protections.
-            
-            <p>To do this, we canvass apartment complexes and other housing developments with high rates of evictions and tenant complaints, connect with tenant unions and other housing-related organizations, and more.
-            
-            <p>We hold meetings as needed.
-            
-            <p>To contact the Housing Justice Committee, e-mail <a href="mailto:housing@bhamdsa.org?subject=Question for Housing Justice Committee">housing@bhamdsa.org</a>.</p>
         <div class="contentSection" id="laborCommittee">
             <h2>Labor Committee</h2>
             <h5>Co-Chairs: Jane D. (she/they), Jane D. (he/him)</h5>
