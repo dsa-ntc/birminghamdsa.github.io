@@ -31,7 +31,7 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="laborCommittee">
             <h2>Labor Committee</h2>
-            <h5>Co-Chairs: Jane D. (she/they), Jane D. (he/him)</h5>
+            <h5>Co-Chairs: Haley C. (she/they), Chris I. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Labor Committee, we aim to guide labor organizing within Birmingham DSA, educate Birmingham DSA members on workplace organizing strategies and history, strengthen relationships with existing labor organizations, and build worker power within the greater Birmingham area.
 
@@ -42,18 +42,18 @@ permalink: /our-work/
             <p>To contact the Labor Committee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Labor Committee">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="mutualAidCommittee">
             <h2>Mutual Aid Committee</h2>
-            <h5>Co-Chairs: Jane D. (he/him), Jason K. (he/him)</h5>
+            <h5>Co-Chairs: Jason K. (he/him), Theodore L. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Mutual Aid Committee, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
             
-            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, where we repair the brake light bulbs and covers of our neighbors to minimize their interactions with police, and our Direct Snacktion hot meal program. We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a> and <a href="https://marginsw4bw.weebly.com/">Margins</a>; and much more.
+            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, where we repair the brake light bulbs and covers of our neighbors to minimize their interactions with police; Direct Snacktion, where we prepare and enjoy hot vegetarian meals with our neighbors; and our Period Product Packing Parties, where we pack menstrual health products for distribution to our neighbors at chapter and allying events. We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a> and <a href="https://marginsw4bw.weebly.com/">Margins</a>; and much more.
             
             <p>We organize mutual aid events at least once a month. We hold committee meetings every 2-3 months.
             
             <p>To contact the Mutual Aid Committee, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Committee">mutualaid@bhamdsa.org</a>.
         <div class="contentSection" id="socFemWG">
             <h2>Socialist Feminist Working Group</h2>
-            <h5>Facilitator: Jane D. (she/her)</h5>
+            <h5>Facilitator: Kasey O. (she/her)</h5>
             <hr>
            <p>Birmingham DSA's Socialist Feminist Working Group (SocFem) aims to bring a more prominent feminist perspective to Bham DSA and a socialist perspective to the mainstream feminist movement as it exists in the Birmingham and Tuscaloosa metropolitan areas. 
            
@@ -89,11 +89,6 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="steeringCommittee">
             <h2>Steering Committee</h2>
-            <h5>Co-Chair (Seat 1): Jane D. (he/him)</h5>
-            <h5>Co-Chair (Seat 2): Jane D. (she/her)</h5>
-            <h5>Treasurer: Jason K. (he/him)</h5>
-            <h5>Secretary: Jane D. (she/her)</h5>
-            <h5>Communications Officer: Currently vacant</h5>
             <hr>
             <p>The Steering Committee is the elected leadership of Birmingham DSA. The Treasurer, Secretary, Communications Officer, and Co-Chair Seat 1 are elected annually at our January general meeting. Co-Chair Seat 2 is elected annually at our July general meeting.
 
@@ -117,7 +112,7 @@ permalink: /our-work/
            <p>To contact the Communications Committee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Comms Committee">info@bhamdsa.org</a>.
         <div class="contentSection" id="membershipEngagementCommittee">
             <h2>Membership Committee</h2>
-            <h5>Chair: Jane D. (he/him)</h5>
+            <h5>Chair: Chris I. (he/him)</h5>
             <hr>
             <p>Birmingham DSA's Membership Committee manages internal member outreach, leads member onboarding and retention efforts, and develops the chapter's most involved organizers.
 
