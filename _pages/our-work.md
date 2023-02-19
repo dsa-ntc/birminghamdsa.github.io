@@ -31,7 +31,7 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="laborCommittee">
             <h2>Labor Committee</h2>
-            <h5>Co-Chairs: Haley C. (she/they), Chris I. (he/him)</h5>
+            <h5>Co-Chairs: Haley C. (she/they)</h5>
             <hr>
             <p>As Birmingham DSA's Labor Committee, we aim to guide labor organizing within Birmingham DSA, educate Birmingham DSA members on workplace organizing strategies and history, strengthen relationships with existing labor organizations, and build worker power within the greater Birmingham area.
 

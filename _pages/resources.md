@@ -8,6 +8,8 @@ permalink: /resources/
 
 Frequently Asked Questions (coming soon)
 
+[What is DSA? An Introduction.](https://www.dsausa.org/organize/intro_to_dsa/)
+
 [Biweekly bulletin subscription form](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
 
 [Guide for Using Slack (from DSA New Orleans)](https://www.dsaneworleans.org/library/1D-sGenKy8JquJ2IU_Gx-pQl_FFJIrBN5c0gTjhC1r3A)
