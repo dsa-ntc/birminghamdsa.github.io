@@ -29,7 +29,7 @@ Here are some ways YOU can support the defense of Atlanta's Weelaunee Forest and
 
 4) Organize political solidarity bail funds, forest defense funds, and forest defense committees where you live.
 
-5) Participate in or organize local solidarity actions. (In early February 2023, we collaborated with [Showing Up for Racial Justice (SURJ) Birmingham](https://surj.org/chapter/birmingham-surj/) on a vigil for police-murdered Weelaunee Forest defender Tortuguita outside of Brasfield & Gorrie's headquarters in Birmingham.)
+5) Participate in or organize local solidarity actions. (In early February 2023, we collaborated with [Showing Up for Racial Justice (SURJ) Birmingham](https://surj.org/chapter/birmingham-surj/) on a [vigil for police-murdered Weelaunee Forest defender Tortuguita](https://www.al.com/news/2023/02/vigil-held-at-birmingham-brasfield-gorrie-office-for-cop-city-protester-killed-in-georgia.html) outside of Brasfield & Gorrie's headquarters in Birmingham.)
 
 6) Circulate the [solidarity letter](https://defendtheatlantaforest.org/2023/01/19/solidarity/), and endorse it by [e-mailing the address listed on the letter](mailto:defendweelaunee@riseup.net).
 
