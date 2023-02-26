@@ -9,7 +9,7 @@ image_alt: "Solidarity from Alabama with the Stop Cop City movement and all Weel
 image_caption: ""
 ---
 
-Yesterday, our chapter voted to endorse [Defend the Atlanta Forest's letter in solidarity with the movement to Stop Cop City and Defend Weelaunee Forest](https://defendtheatlantaforest.org/2023/01/19/solidarity/)
+Yesterday, our chapter voted to endorse [Defend the Atlanta Forest's letter in solidarity with the movement to Stop Cop City and Defend Weelaunee Forest](https://defendtheatlantaforest.org/2023/01/19/solidarity/).
 
 As the letter states, "Forests are the lungs of planet Earth. The destruction of forests affects all of us. So do the gentrification and police violence that the bulldozing of Weelaunee Forest would facilitate. What is happening in Atlanta is not a local issue.
 
