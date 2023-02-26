@@ -22,10 +22,15 @@ As the letter states, "The forest defenders are trying to create a better world 
 Here are some ways YOU can support the defense of Atlanta's Weelaunee Forest and Stop Cop City:
 
 1) [Donate to Atlanta Solidarity Fund](https://atlsolidarity.org/) to support legal costs for arrested protestors and ongoing legal action.
+
 2) Call on [these investors in Cop City](https://littlesis.org/org/173655-Atlanta_Police_Foundation) to divest from the project.
+
 3) Call on Brasfield & Gorrie, the Birmingham-based general contractor firm of Cop City, to [drop this construction project](stopreevesyoung.com).
+
 4) Organize political solidarity bail funds, forest defense funds, and forest defense committees where you live.
-5) Participate in or organize local solidarity actions.
+
+5) Participate in or organize local solidarity actions. (In early February 2023, we collaborated with [Showing Up for Racial Justice (SURJ) Birmingham](https://surj.org/chapter/birmingham-surj/) on a vigil for police-murdered Weelaunee Forest defender Tortuguita outside of Brasfield & Gorrie's headquarters in Birmingham.)
+
 6) Circulate the [solidarity letter](https://defendtheatlantaforest.org/2023/01/19/solidarity/), and endorse it by [e-mailing the address listed on the letter](mailto:defendweelaunee@riseup.net).
 
 Solidarity from Alabama with the Stop Cop City movement and all Weelaunee Forest defenders! ✊
