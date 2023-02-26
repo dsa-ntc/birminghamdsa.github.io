@@ -4,8 +4,8 @@ title: "Birmingham DSA stands in solidarity with Stop Cop City and Defend Weelau
 permalink: /2023-01-23-stop-cop-city-defend-weeluanee-forest/
 tag: abolition
 short_description: "On January 22, Birmingham DSA voted to endorse Defend the Atlanta Forest's letter in solidarity with the movement to Stop Cop City and Defend Weelaunee Forest."
-image: "assets/images/2023-01-23 1.png" "assets/images/2023-01-23 2.png" "assets/images/2023-01-23 3.png" "assets/images/2023-01-23 4.png" "assets/images/2023-01-23 5.png" "assets/images/2023-01-23 6.png" "assets/images/2023-01-23 7.png" "assets/images/2023-01-23 8.png" "assets/images/2023-01-23 9.png" "assets/images/2023-01-23 10.png"
-image_alt: ""
+image: "assets/images/2023-01-23 10.png"
+image_alt: "Solidarity from Alabama with the Stop Cop City movement and all Weelaunee Forest defenders!"
 image_caption: ""
 ---
 
