@@ -12,9 +12,9 @@ header:
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Chapter Events Calendar"
-  - title: "Chapter Bylaws"
-    url: "/bylaws/"
-    description: "Here are the bylaws for Birmingham DSA"
+  - title: "Resources"
+    url: "/resources/"
+    description: "Chapter Resources for Birmingham DSA"
 
 # footer links
 footer:
