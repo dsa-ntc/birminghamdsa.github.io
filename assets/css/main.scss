@@ -134,6 +134,19 @@ p {
 }
 
 
+@media only screen and (max-width: 600px) {
+    .mainContainer {
+        flex-direction: column;
+    }
+
+    .scrollableSections {
+        width: 100%;
+        position: relative;
+        overflow: visible;
+    }
+}
+
+
 .scrollableSections a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration: none;
