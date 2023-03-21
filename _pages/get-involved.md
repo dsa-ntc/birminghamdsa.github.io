@@ -6,7 +6,7 @@ permalink: /get-involved/
 
 <h5>Want to get involved with Birmingham DSA? <a href="https://act.dsausa.org/donate/membership">Join us!</a>
 
-<p>Join us at a Chapter meeting or event! Check out <a href="bhamdsa.org/calendar">our Calendar</a>.
+<p>Join us at a Chapter meeting or event! Check out <a href="https://bhamdsa.org/calendar/">our Calendar</a>.
 
 <p>Want to stay updated with what we're doing? Sign up for our <a href="https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form">biweekly bulletin!</a></h5>
 
