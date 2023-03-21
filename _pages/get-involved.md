@@ -14,7 +14,7 @@ Want to stay updated with what we're doing? Sign up for our [biweekly bulletin](
 
 <a href="mailto:steering@bhamdsa.org?subject=Question for Steering Committee">Steering Committee</a>?
 
-<a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">AfroSocialists and Socialists of Color Member Section</a>?
+<a href="mailto:afrosoc@bhamdsa.org?subject=Question for AfroSOC">AfroSocialists and Socialists of Color Member Section</a>?
 
 <a href="mailto:info@bhamdsa.org?subject=Question for Comms Committee">Communications Committee</a>?
 
