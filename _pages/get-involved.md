@@ -4,7 +4,7 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-<h5>Want to get involved with Birmingham DSA? <a href="https://act.dsausa.org/donate/membership">Join us!</a>
+<h5>Want to get involved with Birmingham DSA? <a href="https://act.dsausa.org/donate/membership">Join us</a>!
 
 <p>Join us at a Chapter meeting or event! Check out <a href="https://bhamdsa.org/calendar/">our Calendar</a>.
 
