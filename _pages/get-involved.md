@@ -10,7 +10,7 @@ permalink: /get-involved/
 
 <p><h2>Want to stay updated with what we're doing? Sign up for our <a href="https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form">biweekly bulletin!</a>
 
-<h2><p>Want to contact our...
+<h2><p>Want to contact our...</h2>
 
 <h5><b><p><a href="mailto:steering@bhamdsa.org?subject=Question for Steering Committee">Steering Committee</a>?
 
@@ -26,5 +26,5 @@ permalink: /get-involved/
 
 <h5><b><p><a href="mailto:socfem@bhamdsa.org?subject=Question for Socialist Feminist Working Group">Socialist Feminist Working Group</a>?
 
-<h2><b><p>Got a general question? Not sure who to contact? E-mail <a href="mailto:info@bhamdsa.org?subject=General Question">our main inbox</a>.
+<h2><b><p>Got a general question? Not sure who to contact? E-mail <a href="mailto:info@bhamdsa.org?subject=General Question">our main inbox</a>.</h5>
 
