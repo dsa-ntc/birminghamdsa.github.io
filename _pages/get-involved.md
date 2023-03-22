@@ -4,13 +4,13 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-<p><h2>Want to get involved with Birmingham DSA? <a href="https://act.dsausa.org/donate/membership">Join us</a>!
+<p><h5>Want to get involved with Birmingham DSA? <a href="https://act.dsausa.org/donate/membership">Join us</a>!
 
-<p><h2>Join us at a Chapter meeting or event! Check out <a href="https://bhamdsa.org/calendar/">our Calendar</a>.
+<p><h5>Join us at a Chapter meeting or event! Check out <a href="https://bhamdsa.org/calendar/">our Calendar</a>.
 
-<p><h2>Want to stay updated with what we're doing? Sign up for our <a href="https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form">biweekly bulletin!</a>
+<p><h5>Want to stay updated with what we're doing? Sign up for our <a href="https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form">biweekly bulletin!</a>
 
-<h2><p>Want to contact our...</h2>
+<h5><p>Want to contact our...</h5>
 
 <h5><b><p><a href="mailto:steering@bhamdsa.org?subject=Question for Steering Committee">Steering Committee</a>?
 
