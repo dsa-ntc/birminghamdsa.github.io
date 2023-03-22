@@ -8,6 +8,7 @@ PATH
       jekyll-gist (~> 1.5)
       jekyll-include-cache (~> 0.1)
       jekyll-paginate (~> 1.1)
+      jekyll-redirect-from (~> 0.16.0)
       jekyll-seo-tag (~> 2.6)
       jekyll-sitemap (~> 1.4)
       jemoji (~> 0.11)
@@ -80,6 +81,8 @@ GEM
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.7.1)
@@ -148,4 +151,4 @@ DEPENDENCIES
   rake (~> 10.0)
 
 BUNDLED WITH
-   2.3.24
+   2.3.25
