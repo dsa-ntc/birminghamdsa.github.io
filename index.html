@@ -36,14 +36,19 @@ layout: default
             position: relative;
             width: 100%;
             max-width: 50vw;
-            height: auto;
+            height: 33.33vh;
             margin: auto;
             overflow: hidden;
           }
 
           .slideshow img {
-            max-width: 100%;
-            height: auto;
+            /* Crop to fit. */
+            object-fit: cover;
+            /* Center the image vertically and horizontally. */
+            object-position: center center;
+            /* Fill the entire image into the element. */
+            width: 100%;
+            height: 100%;
           }
 
           .slideshow a.previous,
@@ -176,6 +181,11 @@ layout: default
             }
             slides[slideIndex - 1].style.display = "block";
           }
+
+          // Automatically change slides every 5 seconds.
+          setInterval(function () {
+            plusSlides(1);
+          }, 5000);
         </script>
       </div>
     </div>
