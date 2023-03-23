@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Statements"
-permalink: /statements/
+title: "Updates"
+permalink: /updates/
+redirect_from: /statements/
 ---
 
-All of our recent statements
+All of our recent updates
 
 <div class="row my-5">
   {% for post in site.posts %}
@@ -15,4 +16,3 @@ All of our recent statements
     </div>
   {% endfor %}
 </div>
-
