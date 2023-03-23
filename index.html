@@ -31,6 +31,46 @@ layout: default
         <!-- <a href="https://drive.google.com/uc?export=view&id=1W_Sv9NhEzTJJvElQ1IMJThk_QC3CTwsj">
           <img src="assets/images/frontpage-thumb.jpeg" width="90%" height="auto" alt="Several Birmingham DSA members standing holding a Vote Unition sign" />
         </a> -->
+        <style>
+          .slideshow {
+            position: relative;
+            width: 50vw;
+            height: auto;
+            margin: auto;
+            overflow: hidden;
+          }
+
+          .slideshow img {
+            max-width: 100%;
+            height: auto;
+          }
+
+          .previous,
+          .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            width: auto;
+            padding: 16px;
+            margin-top: -22px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+          }
+
+          .next {
+            right: 0;
+            border-radius: 3px 0 0 3px;
+          }
+
+          .previous:hover,
+          .next:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+          }
+        </style>
         <div class="slideshow">
           <div class="slide">
             <img src="/assets/images/slideshow/1.webp">
