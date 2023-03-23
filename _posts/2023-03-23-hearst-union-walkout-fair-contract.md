@@ -2,7 +2,7 @@
 layout: post
 title: "Birmingham DSA stands in solidarity with Hearst Union members walking out for a fair contract!"
 permalink: /2023-03-23-hearst-union-walkout-fair-contract/
-tag: abolition
+tag: labor
 short_description: "On January 22, Birmingham DSA voted to endorse Defend the Atlanta Forest's letter in solidarity with the movement to Stop Cop City and Defend Weelaunee Forest."
 image: "assets/images/2023-03-23 Hearst Union WGA East Walkout pic.jpg"
 image_alt: "Hearst Union workers at Country Living and Veranda magazines pose for a picture on with Writers Guild of America, East T-shirts during their Thursday, March 23, 2023 walkout from their office at Birmingham's Pepper Place."
