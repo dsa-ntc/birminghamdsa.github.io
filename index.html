@@ -28,9 +28,108 @@ layout: default
       </div>
       <div class="col-md-6">
         <!-- BAMAZON PICTURE -->
-        <a href="https://drive.google.com/uc?export=view&id=1W_Sv9NhEzTJJvElQ1IMJThk_QC3CTwsj">
+        <!-- <a href="https://drive.google.com/uc?export=view&id=1W_Sv9NhEzTJJvElQ1IMJThk_QC3CTwsj">
           <img src="assets/images/frontpage-thumb.jpeg" width="90%" height="auto" alt="Several Birmingham DSA members standing holding a Vote Unition sign" />
-        </a>
+        </a> -->
+        <div class="slideshow">
+          <div class="slide">
+            <img src="/assets/images/slideshow/1.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/2.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/3.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/4.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/5.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/6.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/7.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/8.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/9.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/10.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/11.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/12.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/13.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/14.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/15.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/16.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/17.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/18.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/19.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/20.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/21.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/22.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/23.webp">
+          </div>
+          <div class="slide">
+            <img src="/assets/images/slideshow/24.webp">
+          </div>
+          <a class="previous" onclick="plusSlides(-1)">❮</a>
+          <a class="next" onclick="plusSlides(1)">❯</a>
+        </div>
+        <script>
+          let slideIndex = 1;
+          showSlides(slideIndex);
+
+          function plusSlides(n) {
+            showSlides(slideIndex += n);
+          }
+
+          function currentSlide(n) {
+            showSlides(slideIndex = n);
+          }
+
+          function showSlides(n) {
+            let i;
+            let slides = document.getElementsByClassName("slide");
+            if (n > slides.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = slides.length }
+            for (i = 0; i < slides.length; i++) {
+              slides[i].style.display = "none";
+            }
+            slides[slideIndex - 1].style.display = "block";
+          }
+        </script>
       </div>
     </div>
   </div>
@@ -38,15 +137,15 @@ layout: default
   <div class="row">
     <div class="col-md-6 col-sm-12">
       <div class="row">
-      <!-- Action Network Biweekly Bulletin Subscription Form -->
+        <!-- Action Network Biweekly Bulletin Subscription Form -->
         <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' />
         <script
           src='https://actionnetwork.org/widgets/v5/form/birmingham-dsa-biweekly-bulletin-subscription-form?format=js&source=widget'></script>
         <div id='can-form-area-birmingham-dsa-biweekly-bulletin-subscription-form' style='width: 100%'>
           <!-- this div is the target for our HTML insertion -->
         </div>
-      <!-- END: Action Network Biweekly Bulletin Subscription Form -->    
-    </div>
+        <!-- END: Action Network Biweekly Bulletin Subscription Form -->
+      </div>
     </div>
     <div class="col-md-6 col-sm-12 text-right">
       <!-- Instagram Profile Embed -->
