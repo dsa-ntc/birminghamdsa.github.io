@@ -9,7 +9,7 @@ image_alt: "Brasfield & Gorrie: Birmingham says "Drop Cop City!""
 image_caption: "Brasfield & Gorrie: Birmingham says "Drop Cop City!""
 ---
 
-Birmingham DSA has joined several of our allies on [BHAM SURJ](https://surj.org/chapter/birmingham-surj/)'s petition calling for Birmingham-based Brasfield & Gorrie to drop themselves as general contractors of Atlanta's [Cop City](https://stopcop.city/).
+Birmingham DSA has joined several of our allies on [BHAM SURJ](https://surj.org/chapter/birmingham-surj/)'s petition calling for Birmingham-based Brasfield & Gorrie to DROP themselves as general contractors of Atlanta's [Cop City](https://stopcop.city/).
 
 Construction on Cop City is scheduled to begin soon -- so we need your help NOW!
 
