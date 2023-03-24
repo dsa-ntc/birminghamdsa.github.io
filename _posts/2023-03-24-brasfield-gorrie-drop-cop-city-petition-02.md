@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post 
 title: "Tell Birmingham-based Brasfield & Gorrie to DROP Atlanta's Cop City!"
-permalink: /2023-03-24-brasfield-gorrie-drop-cop-city-petition/
+permalink: /2023-03-24-brasfield-gorrie-drop-cop-city-petition-02/
 tag: abolition
-short_description: "Construction on Atlanta's Cop City is scheduled to begin soon! Sign this petition to tell Brasfield & Gorrie to drop themselves as general contractors of the project."
+short_description: "Construction on Atlanta's Cop City is scheduled to begin soon. Sign this petition to tell Brasfield & Gorrie to drop themselves as general contractors of the project."
 image: "assets/images/2023-03-24 Brasfield & Gorrie Drop Cop City pic.jpg"
-image_alt: "Brasfield & Gorrie: Birmingham says "Drop Cop City!""
-image_caption: "Brasfield & Gorrie: Birmingham says "Drop Cop City!""
+image_alt: "Brasfield & Gorrie: Birmingham says 'Drop Cop City!'"
+image_caption: "Brasfield & Gorrie: Birmingham says 'Drop Cop City!'"
 ---
 
 Birmingham DSA has joined several of our allies on [BHAM SURJ](https://surj.org/chapter/birmingham-surj/)'s petition calling for Birmingham-based Brasfield & Gorrie to DROP themselves as general contractors of Atlanta's [Cop City](https://stopcop.city/).

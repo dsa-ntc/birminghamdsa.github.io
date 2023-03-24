@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Birmingham DSA stands in solidarity with Hearst Union members walking out for a fair contract"
+title: "Bham DSA stands in solidarity with Hearst Union members walking out for a fair contract"
 permalink: /2023-03-23-hearst-union-walkout-fair-contract/
 tag: labor
 short_description: "Hearst Union workers at their office in Birmingham's Pepper Place walked off the job today in their fight for a fair contract."
