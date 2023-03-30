@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "Get involved with our April events!!"
+title: "Get involved with our April events!"
 permalink: /2023-03-30-april-events/
 tag: 
 short_description: "Here's ways you can get involved with Birmingham DSA in April."
