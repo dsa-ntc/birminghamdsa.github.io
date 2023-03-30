@@ -9,7 +9,7 @@ image_alt: "APRIL AT @bhamdsa | Friday, April 7, 6PM: Period Products Packing Pa
 image_caption: "Here's ways you can get involved with Birmingham DSA in April."
 ---
 
-Here are our events YOU can get involved with in the month of April:
+It's going to be raining socialism this month! What'll you be doing to unite the working class against the capitalist class? We've scheduled these five events to build power for US:
 
 Friday, April 7, 6PM: Period Products Packing Party 
 
