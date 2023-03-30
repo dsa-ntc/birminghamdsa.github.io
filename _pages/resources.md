@@ -12,6 +12,10 @@ Frequently Asked Questions (coming soon)
 
 [Biweekly bulletin subscription form](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
 
+[DSA Code of Conduct for Members](https://www.dsausa.org/dsa-code-of-conduct-for-members/) (adopted as Birmingham DSA's Code of Conduct by resolution in May 2022)
+
+[DSA Meeting Code of Conduct](https://www.dsausa.org/resources/harassment-and-grievance/dsa-meeting-code-of-conduct-4-7-2020/) (adopted as Birmingham DSA's Meeting Code of Conduct by resolution in May 2022)
+
 [Guide for Using Slack (from DSA New Orleans)](https://www.dsaneworleans.org/library/1D-sGenKy8JquJ2IU_Gx-pQl_FFJIrBN5c0gTjhC1r3A)
 
 ## Housing Justice Committee: Resources for Tenants/Renters in Birmingham
