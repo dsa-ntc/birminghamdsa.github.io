@@ -34,6 +34,8 @@ Frequently Asked Questions (coming soon)
 
 [UMWA Warrior Met Coal Strike Fund donation page](https://umwa.org/umwa2021strikefund)
 
+[Scottsboro Starbucks Partners relief fund](https://www.gofundme.com/f/relief-fund-for-scottsboro-starbucks-partners)
+
 ## Mutual Aid Committee Resources
 
 ['Know Your Rights If Police Pull You Over' printable cards](https://drive.google.com/file/d/1KyZB6f0ckAcGf3zVB_9mLcFjYDiOLK_Q/view)
