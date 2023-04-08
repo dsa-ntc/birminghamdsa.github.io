@@ -18,6 +18,8 @@ Frequently Asked Questions (coming soon)
 
 [Guide for Using Slack (from DSA New Orleans)](https://www.dsaneworleans.org/library/1D-sGenKy8JquJ2IU_Gx-pQl_FFJIrBN5c0gTjhC1r3A)
 
+[Birmingham DSA monthly local dues](https://donorbox.org/bham-dsa-monthly-dues)(optional)
+
 ## Housing Justice Committee: Resources for Tenants/Renters in Birmingham
 
 [City of Birmingham Rental Assistance](https://www.birminghamal.gov/covidrent)
