@@ -15,7 +15,7 @@ Friday, April 7, 6PM: Period Products Packing Party
 
 Saturday, April 15, 12:30PM: General Meeting (Desert Island Supply Co.) 
 
-Sunday, April 16, 12PM: Direct Snacktion (Linn Park)
+Sunday, April 23, 12PM: Direct Snacktion (Linn Park)
 
 Tuesday, April 25, 7PM: Mutual Aid Committee Meeting (Zoom) 
 
