@@ -19,7 +19,7 @@ Sunday, April 23, 12PM: Direct Snacktion (Linn Park)
 
 Tuesday, April 25, 7PM: Mutual Aid Committee Meeting (Zoom) 
 
-Saturday, April 29, 6PM: Yes, We Can! Potluck Social & Narcan Training
+Saturday, April 28, 6PM: Yes, We Can! Potluck Social & Narcan Training
 
 Visit our [Events Calendar](https://bhamdsa.org/calendar/) for all event info, including how to register and RSVP! 
 
