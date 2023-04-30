@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Get involved with our May events!"
-permalink: /2023-05-01-april-events/
+permalink: /2023-04-30-may-events/
 tag: 
 short_description: "Here's ways you can get involved with Birmingham DSA in May."
 image: "assets/images/2023-05-01 May Schedule.png"
