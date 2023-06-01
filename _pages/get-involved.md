@@ -26,5 +26,7 @@ permalink: /get-involved/
 
 <p><h5><a href="mailto:socfem@bhamdsa.org?subject=Question for Socialist Feminist Working Group">Socialist Feminist Working Group</a>?
 
+<p><h5><a href="mailto:grievance@bhamdsa.org?subject=Question for Birmingham DSA Harassment Grievance Officers">Our Harassment Grievance Officers (HGOs)</a>?
+
 <p><h5>Got a general question? Not sure who to contact? E-mail <a href="mailto:info@bhamdsa.org?subject=General Question">our main inbox</a>.
 
