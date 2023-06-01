@@ -20,7 +20,7 @@ permalink: /resources/
 
 ## For New Members: Slack
 
-Members in good standing have access to a Slack workspace for managing our day-to-day activity. If you're a member that would like to be added to our Slack, email <a href="mailto:steering@bhamdsa.org">steering {a} bhamdsa (dot) org</a>.
+Members in good standing have access to a Slack workspace for managing our day-to-day activity. If you're a member that would like to be added to our Slack, email <a href="mailto:steering@bhamdsa.org"?subject=Slack Access>steering {a} bhamdsa (dot) org</a>.
 
 [Guide for Using Slack (from DSA New Orleans)](https://www.dsaneworleans.org/library/1D-sGenKy8JquJ2IU_Gx-pQl_FFJIrBN5c0gTjhC1r3A)
 
