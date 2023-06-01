@@ -4,23 +4,31 @@ title: "Birmingham DSA Resources"
 permalink: /resources/
 ---
 
-## For New Members
-
-Frequently Asked Questions (coming soon)
+## For New Members: The Basics
 
 [What is DSA? An Introduction.](https://www.dsausa.org/organize/intro_to_dsa/)
 
 [Biweekly bulletin subscription form](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
 
+## For New Members: Conduct
+
 [DSA Code of Conduct for Members](https://www.dsausa.org/dsa-code-of-conduct-for-members/) (adopted as Birmingham DSA's Code of Conduct by resolution in May 2022)
 
 [DSA Meeting Code of Conduct](https://www.dsausa.org/resources/harassment-and-grievance/dsa-meeting-code-of-conduct-4-7-2020/) (adopted as Birmingham DSA's Meeting Code of Conduct by resolution in May 2022)
 
+<b>Harassment Grievance Disclosure</b>: If you experience or witness harassment in any DSA space, you may report it to our chapter’s harassment grievance officers (HGOs) at <a href="mailto:grievance@bhamdsa.org">grievance [a] bhamdsa {dot} org</a>. All reports will remain confidential with our HGOs. The full text of our Harassment and Grievance Policy can be found in Section 11 of our [current bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing).
+
+## For New Members: Slack
+
+Members in good standing have access to a Slack workspace for managing our day-to-day activity. If you're a member that would like to be added to our Slack, email <a href="mailto:steering@bhamdsa.org">steering {a} bhamdsa (dot) org</a>.
+
 [Guide for Using Slack (from DSA New Orleans)](https://www.dsaneworleans.org/library/1D-sGenKy8JquJ2IU_Gx-pQl_FFJIrBN5c0gTjhC1r3A)
+
+## For New Members: Additional Resources
 
 [Birmingham DSA monthly local dues](https://donorbox.org/bham-dsa-monthly-dues) (these dues are currently optional for members)
 
-<b>Harassment Grievance Disclosure</b>: If you experience or witness harassment in any DSA space, you may report it to our chapter’s harassment grievance officers (HGOs) at <a href="mailto:grievance@bhamdsa.org">grievance [a] bhamdsa {dot} org</a>. All reports will remain confidential with our HGOs. The full text of our Harassment and Grievance Policy can be found in Section 11 of our [current bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing).
+Frequently Asked Questions (coming soon)
 
 ## Housing Justice Committee: Resources for Tenants/Renters in Birmingham
 
