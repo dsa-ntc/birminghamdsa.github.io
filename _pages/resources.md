@@ -18,9 +18,9 @@ Frequently Asked Questions (coming soon)
 
 [Guide for Using Slack (from DSA New Orleans)](https://www.dsaneworleans.org/library/1D-sGenKy8JquJ2IU_Gx-pQl_FFJIrBN5c0gTjhC1r3A)
 
-<i>If you experience or witness harassment in any DSA space, you may report to our chapter’s harassment grievance officers (HGOs) at <a href="mailto:grievance@bhamdsa.org">grievance [a] bhamdsa {dot} org.</a>. All reports will remain confidential with our HGOs.</i>
-
 [Birmingham DSA monthly local dues](https://donorbox.org/bham-dsa-monthly-dues) (these dues are currently optional for members)
+
+<b><i>If you experience or witness harassment in any DSA space, you may report to our chapter’s harassment grievance officers (HGOs) at <a href="mailto:grievance@bhamdsa.org">grievance [a] bhamdsa {dot} org</a>. All reports will remain confidential with our HGOs.</b></i> The full text of our Harassment and Grievance Policy can be found in Section 11 of our [current bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing).
 
 ## Housing Justice Committee: Resources for Tenants/Renters in Birmingham
 
