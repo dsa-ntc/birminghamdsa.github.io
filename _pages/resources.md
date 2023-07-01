@@ -4,6 +4,12 @@ title: "Birmingham DSA Resources"
 permalink: /resources/
 ---
 
+## Active Interest Forms
+
+[Food Action interest form](https://actionnetwork.org/forms/interested-in-helping-with-food-action-fill-out-this-form)
+
+[Stop Cop City Working Group interest form](https://actionnetwork.org/forms/interested-in-getting-involved-with-a-birmingham-dsa-stop-cop-city-working-group-fill-out-this-form)
+
 ## For New Members: The Basics
 
 [What is DSA? An Introduction.](https://www.dsausa.org/organize/intro_to_dsa/)
