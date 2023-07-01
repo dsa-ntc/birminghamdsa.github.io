@@ -11,12 +11,12 @@ image_caption: "Here's ways you can get involved with Birmingham DSA in July."
 
 What'll you be doing in the month of July to unite the working class against the capitalist class? We've got these four events to build power for US:
 
-Wednesday, July 5, 7PM (Zoom) Birmingham DSA 101
+Wednesday, July 5, 7PM (Zoom): <b>Birmingham DSA 101</b>
 
-Sunday, July 9, 6PM (Burdock Book Collective): July General Meeting
+Sunday, July 9, 6PM (Burdock Book Collective): <b>July General Meeting</b>
 
-Sunday, July 16, 12PM (Linn Park): Food Action
+Sunday, July 16, 12PM (Linn Park): <b>Food Action</b>
 
-Saturday, July 29, 4-7PM (Beloved Community Church, Avondale): Brake Light & Fuse Replacement Clinic
+Saturday, July 29, 4-7PM (Beloved Community Church, Avondale): <b>Brake Light & Fuse Replacement Clinic</b>
 
 Visit our [Calendar](https://bhamdsa.org/calendar/) for all event info, including how to register! 
