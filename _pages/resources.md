@@ -6,6 +6,10 @@ permalink: /resources/
 
 ## Active Interest Forms
 
+[Interest Form: Afrosocialists and Socialists of Color Member Section (AFROSOC)](https://actionnetwork.org/forms/interested-in-getting-involved-with-birmingham-dsas-afrosocialists-and-socialists-of-color-member-section-fill-out-this-form/)
+
+[Interest Form: Brake Light Clinic](https://actionnetwork.org/forms/brake-light-clinic-interest-form/)
+
 [Interest Form: Food Action](https://actionnetwork.org/forms/interested-in-helping-with-food-action-fill-out-this-form)
 
 [Interest Form: Stop Cop City Working Group](https://actionnetwork.org/forms/interested-in-getting-involved-with-a-birmingham-dsa-stop-cop-city-working-group-fill-out-this-form)
