@@ -33,19 +33,33 @@ layout: default
         </a> -->
         <style>
           .slideshow {
+            background-color: lightgray;
             position: relative;
             width: 100%;
-            height: 33.33vh;
+            aspect-ratio: 4 / 3 !important;
             margin: auto;
             overflow: hidden;
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: center;
+            align-items: center;
           }
 
-          .slideshow img {
-            object-position: center center;
+          .slideshow div.slide {
+            flex-flow: column nowrap;
+            justify-content: center;
+            align-items: center;
+            background-color: lightgray;
+            margin: auto;
+          }
+
+          .slideshow div img {
             max-width: 100%;
             max-height: 100%;
+            width: auto;
+            height: auto;
             margin: auto !important;
-            object-fit: cover !important;
+
           }
 
           .slideshow a.previous,
@@ -68,6 +82,11 @@ layout: default
             transition: 0.6s ease;
             border-radius: 0 3px 3px 0;
             user-select: none;
+          }
+
+          .previous {
+            left: 0;
+            border-radius: 0 3px 3px 0;
           }
 
           .next {
@@ -97,9 +116,6 @@ layout: default
             <img src="/assets/images/slideshow/5.webp">
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/6.webp">
-          </div>
-          <div class="slide">
             <img src="/assets/images/slideshow/7.webp">
           </div>
           <div class="slide">
@@ -107,9 +123,6 @@ layout: default
           </div>
           <div class="slide">
             <img src="/assets/images/slideshow/9.webp">
-          </div>
-          <div class="slide">
-            <img src="/assets/images/slideshow/10.webp">
           </div>
           <div class="slide">
             <img src="/assets/images/slideshow/11.webp">
@@ -176,13 +189,13 @@ layout: default
             for (i = 0; i < slides.length; i++) {
               slides[i].style.display = "none";
             }
-            slides[slideIndex - 1].style.display = "block";
+            slides[slideIndex - 1].style.display = "flex";
           }
 
-          // Automatically change slides every 5 seconds.
+          // Automatically change slides every ten seconds.
           setInterval(function () {
             plusSlides(1);
-          }, 5000);
+          }, 10000);
         </script>
       </div>
     </div>
