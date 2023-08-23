@@ -5,8 +5,6 @@ permalink: /updates/
 redirect_from: /statements/
 ---
 
-All of our recent updates
-
 <div class="row my-5">
   {% for post in site.posts %}
     <div class="col-12">
