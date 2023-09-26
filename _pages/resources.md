@@ -12,6 +12,8 @@ permalink: /resources/
 
 [Interest Form: Food Action](https://actionnetwork.org/forms/interested-in-helping-with-food-action-fill-out-this-form)
 
+[Interest Form: Narcan Organizing](https://actionnetwork.org/forms/interested-in-getting-involved-with-bham-dsas-narcan-organizing-fill-out-this-form)
+
 [Interest Form: Stop Cop City Working Group](https://actionnetwork.org/forms/interested-in-getting-involved-with-a-birmingham-dsa-stop-cop-city-working-group-fill-out-this-form)
 
 ## For New Members: The Basics
