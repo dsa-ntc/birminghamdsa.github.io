@@ -8,7 +8,7 @@ permalink: /resources/
 
 [Interest Form: Narcan Organizing](https://actionnetwork.org/forms/interested-in-getting-involved-with-bham-dsas-narcan-organizing-fill-out-this-form)
 
-[Interest Form: Reading Group for Dean Spade's "Mutual Aid: Building Solidarity During this Crisis (and the Next)"](https://actionnetwork.org/forms/interested-in-getting-involved-with-bham-dsas-narcan-organizing-fill-out-this-form)
+[Interest Form: Reading Group for Dean Spade's "Mutual Aid: Building Solidarity During this Crisis (and the Next)"](https://actionnetwork.org/forms/interested-in-being-a-part-of-birmingham-dsas-reading-group-for-dean-spades-mutual-aid-sign-up-here)
 
 ## For New Members: The Basics
 
