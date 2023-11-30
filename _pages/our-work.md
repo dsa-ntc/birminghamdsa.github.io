@@ -61,13 +61,11 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="AFROSOC">
             <h2>AfroSocialists and Socialists of Color (AFROSOC)</h2>
-            <h5>Facilitator: Jason K. (he/him)</h5>
+            <h5>Chair: Marcel E. (he/they)</h5>
             <hr>
-            <p>Birmingham DSA's AfroSocialists and Socialists of Color (Bham DSA AFROSOC) Section advocates for and builds power with socialists who self-identify as Black, Indigenous, or Persons of Color (BIPOC) and their communities. 
+            <p>Birmingham DSA AFROSOC Section’s mission is to end racism and capitalism, also known as racial capitalism. We recognize that racial capitalism has evolved from colonialism and imperialism, and further enables the ruling class’s exploitation of all life on this planet and the planet itself. 
             
-            <p>Our goal is to affirm a space and network for BIPOC comrades to gain support, develop as leaders in DSA and in their communities, and take action.
-            
-            <p>We also aim to organize a mass movement of the multiracial, multiethnic working class in order to end racial capitalism, as well as all forms of material oppression based on social construction and biological existence.
+            <p>To pursue this mission, we affirm a collective gathering space for BIPOC socialists in Birmingham and Tuscaloosa to grow, find support, organize, and take action. 
             
             <p>Any person in the Birmingham and Tuscaloosa metropolitan areas who self-identify as BIPOC can become a voting member of AFROSOC. Birmingham DSA and/or DSA membership is not required to be a voting member of AFROSOC.
 
@@ -97,7 +95,6 @@ permalink: /our-work/
             <p>To contact the Birmingham DSA Steering Committee, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question for Steering">steering@bhamdsa.org</a>.
         <div class="contentSection" id="communicationsCommittee">
             <h2>Communications Committee</h2>
-            <h5>Facilitator: Jason K. (he/him)</h5>
             <hr>
            <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. 
 
