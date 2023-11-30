@@ -20,7 +20,6 @@ permalink: /our-work/
         <a class="levelOneLink" href="#internalCommittees">INTERNAL COMMITTEES</a><br />
         <a class="levelTwoLink" href="#steeringCommittee">Steering Committee</a><br />
         <a class="levelTwoLink" href="#communicationsCommittee">Communications Committee</a><br />
-        <a class="levelTwoLink" href="#membershipEngagementCommittee">Membership Engagement Committee</a><br />
     </div>
     <div class="sectionedContent">
         <!-- COMMITTEES & WORKING GROUPS -->
