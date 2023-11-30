@@ -10,7 +10,7 @@ permalink: /our-work/
         <a class="levelOneLink" href="#committees">COMMITTEES & WORKING GROUPS</a><br />
         <a class="levelTwoLink" href="#laborCommittee">Labor Committee</a><br />
         <a class="levelTwoLink" href="#mutualAidCommittee">Mutual Aid Committee</a><br />
-        <a class="levelTwoLink" href="#socFemWG">Socialist Feminist Working Group</a><br />
+
 
         <!-- MEMBER SECTIONS -->
         <a class="levelOneLink" href="#memberSections">MEMBER SECTIONS</a><br />
@@ -42,24 +42,17 @@ permalink: /our-work/
             <p>To contact the Labor Committee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Labor Committee">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="mutualAidCommittee">
             <h2>Mutual Aid Committee</h2>
-            <h5>Co-Chairs: Jason K. (he/him), Theodore L. (he/him)</h5>
+            <h5>Co-Chairs: Jason K. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Mutual Aid Committee, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
             
-            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, where we repair the brake light bulbs and covers of our neighbors to minimize their interactions with police; Direct Snacktion, where we prepare and enjoy hot vegetarian meals with our neighbors; and our Period Product Packing Parties, where we pack menstrual health products for distribution to our neighbors at chapter and allying events. We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a> and <a href="https://marginsw4bw.weebly.com/">Margins</a>; and much more.
+            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, where we repair the brake light bulbs and covers of our neighbors to minimize their interactions with police, and Food Action, where we prepare and enjoy hot vegetarian meals with our neighbors. Both our Brake Light Clinics and Food Action are organized in their own sub working groups, which are subdivisions of the Mutual Aid Committee.
             
-            <p>We organize mutual aid events at least once a month. We hold committee meetings every 2-3 months.
+            <p>We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a> and <a href="https://marginsw4bw.weebly.com/">Margins</a>; and much more.
+            
+            <p>We organize mutual aid events at least once a month. We hold committee meetings every 1-2 months.
             
             <p>To contact the Mutual Aid Committee, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Committee">mutualaid@bhamdsa.org</a>.
-        <div class="contentSection" id="socFemWG">
-            <h2>Socialist Feminist Working Group</h2>
-            <h5>Facilitator: Kasey O. (she/her)</h5>
-            <hr>
-           <p>Birmingham DSA's Socialist Feminist Working Group (SocFem) aims to bring a more prominent feminist perspective to Bham DSA and a socialist perspective to the mainstream feminist movement as it exists in the Birmingham and Tuscaloosa metropolitan areas. 
-           
-           <p>To do this, we provide material support for intersectional feminist organizations in the Birmingham and Tuscaloosa metropolitan areas, including <a href="http://takebhm.org">Transgender Advocates Knowledgeable Empowering (TAKE)</a>, among other tactics and strategies.
-
-           <p>To contact the Socialist Feminist Working Group, e-mail <a href="mailto:socfem@bhamdsa.org?subject=Question for SocFem Working Group">socfem@bhamdsa.org</a>.
 
         <!-- MEMBER SECTIONS -->
         <div class="contentSection" id="memberSections">
@@ -110,12 +103,3 @@ permalink: /our-work/
            <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. 
 
            <p>To contact the Communications Committee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Comms Committee">info@bhamdsa.org</a>.
-        <div class="contentSection" id="membershipEngagementCommittee">
-            <h2>Membership Committee</h2>
-            <h5>Chair: Chris I. (he/him)</h5>
-            <hr>
-            <p>Birmingham DSA's Membership Committee manages internal member outreach, leads member onboarding and retention efforts, and develops the chapter's most involved organizers.
-
-            <p>Application to the Membership Committee is open to all Bham DSA members in good standing.
-
-            <p>To contact the Membership Committee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Membership Committee">info@bhamdsa.org</a>.
