@@ -10,6 +10,7 @@ permalink: /our-work/
         <a class="levelOneLink" href="#committees">COMMITTEES & WORKING GROUPS</a><br />
         <a class="levelTwoLink" href="#laborCommittee">Labor Committee</a><br />
         <a class="levelTwoLink" href="#mutualAidCommittee">Mutual Aid Committee</a><br />
+        <a class="levelTwoLink" href="#palestineWorkingGroup">Palestine Working Group</a><br />
 
 
         <!-- MEMBER SECTIONS -->
@@ -49,9 +50,22 @@ permalink: /our-work/
             
             <p>We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a> and <a href="https://marginsw4bw.weebly.com/">Margins</a>; and much more.
             
-            <p>We organize mutual aid events at least once a month. We hold committee meetings every 1-2 months.
+            <p>We organize mutual aid events at least once a month. We hold committee meetings every month.
             
             <p>To contact the Mutual Aid Committee, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Committee">mutualaid@bhamdsa.org</a>.
+            <div class="contentSection" id="palestineWorkingGroup">
+            <h2>Palestine Working Group</h2>
+            <h5>Co-Chairs: Chris I. (he/him)</h5>
+            <hr>
+            <p>As Birmingham DSA's Palestine Working Group, we aim to organize Birminghamians and Tuscaloosans into solidarity actions with Palestine. We aim to form a structured coalition with other local organizations who have been focused on Palestine work and demonstrations. 
+            
+            <p>Our core demands include an immediate and permanent end to Israel's genocidal violence across Palestine, an end to the apartheid system that is fundamental to the Israeli ethnostate, and an end to the Israeli occupation of historic Palestine.
+
+            <p>Our local organizing is currently focused on pressuring U.S. officials to end aid to apartheid Israel, shining a light on the global military and economic infrastructure that facilitates the occupation, and maintaining the legal and social space for Palestinian solidarity organizing to continue without repression. 
+            
+            <p>We hold working group meetings every 1-2 weeks.
+            
+            <p>To contact the Palestine Working Group, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question for Palestine Working Group">steering@bhamdsa.org</a>.
 
         <!-- MEMBER SECTIONS -->
         <div class="contentSection" id="memberSections">
