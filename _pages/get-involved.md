@@ -22,6 +22,8 @@ permalink: /get-involved/
 
 <p><h5><a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Committee">Mutual Aid Committee</a>?
 
+<p><h5><a href="mailto:info@bhamdsa.org?subject=Question for Palestine Working Group">Palestine Working Group</a>?
+
 <p><h5><a href="mailto:grievance@bhamdsa.org?subject=Question for Birmingham DSA Harassment Grievance Officers">Our Harassment Grievance Officers (HGOs)</a>?
 
 <p><h5>Got a general question? Not sure who to contact? E-mail <a href="mailto:info@bhamdsa.org?subject=General Question">our main inbox</a>.
