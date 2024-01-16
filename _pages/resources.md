@@ -16,7 +16,7 @@ permalink: /resources/
 
 [What is DSA? An Introduction.](https://www.dsausa.org/organize/intro_to_dsa/)
 
-[Biweekly bulletin subscription form](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
+[Subscribe to our email bulletin here](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
 
 ## For New Members: Conduct
 
