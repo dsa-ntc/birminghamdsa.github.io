@@ -6,6 +6,8 @@ permalink: /resources/
 
 ## Active Interest Forms
 
+[Subscribe to our email bulletin here!](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
+
 [Interest Form: Palestine Solidarity](https://actionnetwork.org/forms/birmingham-palestine-solidarity-interest-form)
 
 [Interest Form: Narcan Organizing](https://actionnetwork.org/forms/interested-in-getting-involved-with-bham-dsas-narcan-organizing-fill-out-this-form)
@@ -16,7 +18,7 @@ permalink: /resources/
 
 [What is DSA? An Introduction.](https://www.dsausa.org/organize/intro_to_dsa/)
 
-[Subscribe to our email bulletin here](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
+[Subscribe to our email bulletin here!](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
 
 ## For New Members: Conduct
 
