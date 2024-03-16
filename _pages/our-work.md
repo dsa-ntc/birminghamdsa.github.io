@@ -31,7 +31,7 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="laborCommittee">
             <h2>Labor Committee</h2>
-            <h5>Co-Chairs: Haley C. (she/they)</h5>
+            <h5>Contact: Calvin C. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Labor Committee, we aim to guide labor organizing within Birmingham DSA, educate Birmingham DSA members on workplace organizing strategies and history, strengthen relationships with existing labor organizations, and build worker power within the greater Birmingham area.
 
@@ -46,7 +46,7 @@ permalink: /our-work/
             <hr>
             <p>As Birmingham DSA's Mutual Aid Committee, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
             
-            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, where we repair the brake light bulbs and covers of our neighbors to minimize their interactions with police, and Food Action, where we prepare and enjoy hot vegetarian meals with our neighbors. Both our Brake Light Clinics and Food Action are organized in their own sub working groups, which are subdivisions of the Mutual Aid Committee.
+            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, where we repair the brake light bulbs and covers of our neighbors to minimize their interactions with police, and Street Solidarity, where we prepare and enjoy hot vegetarian meals with our neighbors. Both our Brake Light Clinics and Food Action are organized in their own sub working groups, which are subdivisions of the Mutual Aid Committee.
             
             <p>We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a> and <a href="https://marginsw4bw.weebly.com/">Margins</a>; and much more.
             
@@ -55,7 +55,7 @@ permalink: /our-work/
             <p>To contact the Mutual Aid Committee, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Committee">mutualaid@bhamdsa.org</a>.
             <div class="contentSection" id="palestineWorkingGroup">
             <h2>Palestine Working Group</h2>
-            <h5>Co-Chairs: Chris I. (he/him)</h5>
+            <h5>Co-Chairs: Haneen M., Colin R.</h5>
             <hr>
             <p>As Birmingham DSA's Palestine Working Group, we aim to organize Birminghamians and Tuscaloosans into solidarity actions with Palestine. We aim to form a structured coalition with other local organizations who have been focused on Palestine work and demonstrations. 
             
@@ -75,7 +75,6 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="AFROSOC">
             <h2>AfroSocialists and Socialists of Color (AFROSOC)</h2>
-            <h5>Chair: Marcel E. (he/they)</h5>
             <hr>
             <p>Birmingham DSA AFROSOC Section’s mission is to end racism and capitalism, also known as racial capitalism. We recognize that racial capitalism has evolved from colonialism and imperialism, and further enables the ruling class’s exploitation of all life on this planet and the planet itself. 
             
