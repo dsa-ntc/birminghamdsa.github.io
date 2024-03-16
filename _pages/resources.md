@@ -10,9 +10,11 @@ permalink: /resources/
 
 [Interest Form: Palestine Solidarity](https://actionnetwork.org/forms/birmingham-palestine-solidarity-interest-form)
 
-[Interest Form: Narcan Organizing](https://actionnetwork.org/forms/interested-in-getting-involved-with-bham-dsas-narcan-organizing-fill-out-this-form)
+[Interest Form: Electoral Working Group](https://actionnetwork.org/forms/want-to-help-elect-mass-movement-building-candidates-in-alabama-or-build-working-class-power-to-fight-for-bills-in-montgomery-fill-out-this-form)
 
-[Interest Form: Reading Group for Dean Spade's "Mutual Aid: Building Solidarity During this Crisis (and the Next)"](https://actionnetwork.org/forms/interested-in-being-a-part-of-birmingham-dsas-reading-group-for-dean-spades-mutual-aid-sign-up-here)
+[Interest Form: Queer Socialists Member Section](https://actionnetwork.org/forms/are-you-an-lgbtqia-socialist-in-birmingham-or-tuscaloosa-looking-to-build-power-for-queer-socialists-and-their-communities-fill-out-this-form)
+
+[Interest Form: Rural Organizing Working Group](https://actionnetwork.org/forms/want-to-get-involved-with-building-power-for-working-class-people-in-rural-areas-of-metro-birmingham-fill-out-this-form)
 
 ## For New Members: The Basics
 
