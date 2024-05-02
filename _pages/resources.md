@@ -14,6 +14,8 @@ permalink: /resources/
 
 [Interest Form: Free Alabama Movement/Prison Strike Solidarity](https://actionnetwork.org/forms/want-to-help-organize-solidarity-actions-for-the-free-alabama-movement-prison-strike-fill-out-this-form)
 
+[Interest Form: Green New Deal/Ecosocialism Organizing](https://actionnetwork.org/forms/want-to-help-organize-around-an-ecosocialist-future-and-a-green-new-deal-fill-out-this-form/)
+
 [Interest Form: "No Sweeps" Protection of the Tenuously Housed Program](https://actionnetwork.org/forms/nosweepsinterestform)
 
 [Interest Form: Queer Socialists Member Section](https://actionnetwork.org/forms/are-you-an-lgbtqia-socialist-in-birmingham-or-tuscaloosa-looking-to-build-power-for-queer-socialists-and-their-communities-fill-out-this-form)
