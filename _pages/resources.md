@@ -75,7 +75,7 @@ Frequently Asked Questions (coming soon)
 ## Miscellaneous Resources
 
 [Birmingham DSA Bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing)
-[Check your DSA membership status](https://proof.dsausa.org)
+[Check your DSA membership status](https://proof.dsausa.org) 
 [DSA Political Education Resources](https://education.dsausa.org/resources/)
 [Reimbursement Request Form](https://forms.gle/365iJLQL7Ctb5yYr7)
 [Tutorial for Digitally Setting Up Chapter Events](https://docs.google.com/document/d/1ajOgPUpSbHnrB1xi82deD2dhX0f53tlrWx6G0ScxGqM/edit?usp=sharing)
