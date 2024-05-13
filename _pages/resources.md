@@ -36,11 +36,9 @@ permalink: /resources/
 
 <b>Harassment Grievance Disclosure</b>: If you experience or witness harassment in any DSA space, you may report it to our chapter’s harassment grievance officers (HGOs) at <a href="mailto:grievance@bhamdsa.org">grievance [a] bhamdsa {dot} org</a>. All reports will remain confidential with our HGOs. The full text of our Harassment and Grievance Policy can be found in Section 11 of our [current bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing). <i>(Our chapter's current HGOs are Melissa D. and Matthew H.)</i>
 
-## For New Members: Slack
+## For New Members: WhatsApp Community
 
-Members in good standing have access to a Slack workspace for managing our day-to-day activity. If you're a member that would like to be added to our Slack, email <a href="mailto:steering@bhamdsa.org?subject=Slack Access">steering {a} bhamdsa (dot) org</a>.
-
-[Guide for Using Slack (from DSA New Orleans)](https://www.dsaneworleans.org/library/1D-sGenKy8JquJ2IU_Gx-pQl_FFJIrBN5c0gTjhC1r3A)
+Members in good standing have access to our WhatsApp Community, our central digital platform for our day-to-day organizing activities. If you're a member that would like to be added to or WhatsApp Community, email <a href="mailto:steering@bhamdsa.org?subject=Slack Access">steering {a} bhamdsa (dot) org</a>.
 
 ## For New Members: Additional Resources
 
@@ -62,15 +60,11 @@ Frequently Asked Questions (coming soon)
 
 ## Labor Committee Resources
 
-[UMWA Warrior Met Coal Strike Fund donation page](https://umwa.org/umwa2021strikefund)
-
 [Scottsboro Starbucks Partners relief fund](https://www.gofundme.com/f/relief-fund-for-scottsboro-starbucks-partners)
 
 ## Mutual Aid Committee Resources
 
 ['Know Your Rights If Police Pull You Over' printable cards](https://drive.google.com/file/d/1KyZB6f0ckAcGf3zVB_9mLcFjYDiOLK_Q/view)
-
-[Red Rag Zine submission info](https://www.instagram.com/p/Cbf4A0bugpa/?utm_source=ig_web_copy_link)
 
 ## Miscellaneous Resources
 
