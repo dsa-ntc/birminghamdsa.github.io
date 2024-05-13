@@ -46,7 +46,15 @@ Members in good standing have access to our WhatsApp Community, our central digi
 
 Frequently Asked Questions (coming soon)
 
-## Housing Justice Committee: Resources for Tenants/Renters in Birmingham
+## Labor Working Group Resources
+
+[Scottsboro Starbucks Partners relief fund](https://www.gofundme.com/f/relief-fund-for-scottsboro-starbucks-partners)
+
+## Mutual Aid Working Group Resources
+
+['Know Your Rights If Police Pull You Over' printable cards](https://drive.google.com/file/d/1KyZB6f0ckAcGf3zVB_9mLcFjYDiOLK_Q/view)
+
+## Housing Justice Working Group: Resources for Tenants/Renters in Birmingham
 
 [City of Birmingham Rental Assistance](https://www.birminghamal.gov/covidrent)
 
@@ -57,14 +65,6 @@ Frequently Asked Questions (coming soon)
 [Utility Assistance in Jefferson County](https://www.caaneal.org/liheap/)
 
 [Alabama Tenants' Handbook](https://www.alabamalegalhelp.org/files/A2447EEE-F644-D86C-0EED-38CCDA102137/attachments/D58BD7A6-D99A-93CB-F1B6-D0BF0AE6B7B3/352521AlabamaTenantsHandbook122006.pdf)
-
-## Labor Committee Resources
-
-[Scottsboro Starbucks Partners relief fund](https://www.gofundme.com/f/relief-fund-for-scottsboro-starbucks-partners)
-
-## Mutual Aid Committee Resources
-
-['Know Your Rights If Police Pull You Over' printable cards](https://drive.google.com/file/d/1KyZB6f0ckAcGf3zVB_9mLcFjYDiOLK_Q/view)
 
 ## Miscellaneous Resources
 
