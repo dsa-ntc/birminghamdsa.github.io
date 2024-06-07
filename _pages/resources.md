@@ -18,8 +18,6 @@ permalink: /resources/
 
 [Interest Form: "No Sweeps" Protection of the Tenuously Housed Program](https://actionnetwork.org/forms/nosweepsinterestform)
 
-[Interest Form: Queer Socialists Member Section](https://actionnetwork.org/forms/are-you-an-lgbtqia-socialist-in-birmingham-or-tuscaloosa-looking-to-build-power-for-queer-socialists-and-their-communities-fill-out-this-form)
-
 [Interest Form: Rural Organizing Working Group](https://actionnetwork.org/forms/want-to-get-involved-with-building-power-for-working-class-people-in-rural-areas-of-metro-birmingham-fill-out-this-form)
 
 ## For New Members: The Basics
