@@ -18,6 +18,8 @@ permalink: /resources/
 
 [Interest Form: "No Sweeps" Protection of the Tenuously Housed Program](https://actionnetwork.org/forms/nosweepsinterestform)
 
+[Interest Form: Reading Group for Deborah K. Padgett's "Housing First"](https://actionnetwork.org/forms/interested-in-being-a-part-of-birmingham-dsa-mutual-aid-working-groups-reading-group-for-deborah-padgetts-housing-first-sign-up-here/)
+
 [Interest Form: Rural Organizing Working Group](https://actionnetwork.org/forms/want-to-get-involved-with-building-power-for-working-class-people-in-rural-areas-of-metro-birmingham-fill-out-this-form)
 
 ## For New Members: The Basics
