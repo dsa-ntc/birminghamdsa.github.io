@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Updates"
-permalink: /updates/
+permalink: /blog/
 redirect_from: /statements/
 ---
 
