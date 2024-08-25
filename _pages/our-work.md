@@ -83,6 +83,16 @@ permalink: /our-work/
             <p>Any person in the Birmingham and Tuscaloosa metropolitan areas who self-identify as BIPOC can become a voting member of AFROSOC. Birmingham DSA and/or DSA membership is not required to be a voting member of AFROSOC.
 
             <p>To contact Birmingham DSA's AFROSOC Section, e-mail <a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">afrosoc@bhamdsa.org</a>.
+             <div class="contentSection" id="QUEERSOC">
+            <h2>QueerSocialists (QUEERSOC)</h2>
+            <hr>
+            <p>Birmingham DSA QUEERSOC Section’s serves as a formation to advocate and build power for our Queer-identifying members. 
+            
+            <p>To pursue this mission, we affirm a collective gathering space for QUEERSOC socialists in Birmingham and Tuscaloosa to grow, find support, organize, and take action. 
+            
+            <p>Any person in the Birmingham and Tuscaloosa metropolitan areas who self-identify as queer can become a voting member of QUEERSOC. Birmingham DSA and/or DSA membership is not required to be a voting member of QUEEROSOC.
+
+            <p>To contact the QUEERSOC Section, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for QUEERSOC Section">info@bhamdsa.org</a>.</p>.
 
         <!-- INTERNAL COMMITTEES -->
         <div class="contentSection" id="internalCommittees">
