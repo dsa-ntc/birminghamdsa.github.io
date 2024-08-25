@@ -86,7 +86,7 @@ permalink: /our-work/
              <div class="contentSection" id="QUEERSOC">
             <h2>QueerSocialists (QUEERSOC)</h2>
             <hr>
-            <p>Birmingham DSA QUEERSOC Section’s serves as a formation to advocate and build power for our Queer-identifying members. 
+            <p>Birmingham DSA QUEERSOC Section serves as a formation to advocate and build power for our Queer-identifying members. 
             
             <p>To pursue this mission, we affirm a collective gathering space for QUEERSOC socialists in Birmingham and Tuscaloosa to grow, find support, organize, and take action. 
             
