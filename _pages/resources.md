@@ -8,10 +8,6 @@ permalink: /resources/
 
 [Subscribe to our email bulletin here!](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
 
-[Interest Form: Palestine Solidarity](https://actionnetwork.org/forms/birmingham-palestine-solidarity-interest-form)
-
-[Interest Form: Electoral Working Group](https://actionnetwork.org/forms/want-to-help-elect-mass-movement-building-candidates-in-alabama-or-build-working-class-power-to-fight-for-bills-in-montgomery-fill-out-this-form)
-
 [Interest Form: Free Alabama Movement/Prison Strike Solidarity](https://actionnetwork.org/forms/want-to-help-organize-solidarity-actions-for-the-free-alabama-movement-prison-strike-fill-out-this-form)
 
 [Interest Form: Green New Deal/Ecosocialism Organizing](https://actionnetwork.org/forms/want-to-help-organize-around-an-ecosocialist-future-and-a-green-new-deal-fill-out-this-form/)
@@ -19,8 +15,6 @@ permalink: /resources/
 [Interest Form: "No Sweeps" Protection of the Tenuously Housed Program](https://actionnetwork.org/forms/nosweepsinterestform)
 
 [Interest Form: Reading Group for Deborah K. Padgett's "Housing First"](https://actionnetwork.org/forms/interested-in-being-a-part-of-birmingham-dsa-mutual-aid-working-groups-reading-group-for-deborah-padgetts-housing-first-sign-up-here/)
-
-[Interest Form: Rural Organizing Working Group](https://actionnetwork.org/forms/want-to-get-involved-with-building-power-for-working-class-people-in-rural-areas-of-metro-birmingham-fill-out-this-form)
 
 ## For New Members: The Basics
 
