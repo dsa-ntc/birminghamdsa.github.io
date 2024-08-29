@@ -14,8 +14,6 @@ permalink: /resources/
 
 [Interest Form: "No Sweeps" Protection of the Tenuously Housed Program](https://actionnetwork.org/forms/nosweepsinterestform)
 
-[Interest Form: Reading Group for Deborah K. Padgett's "Housing First"](https://actionnetwork.org/forms/interested-in-being-a-part-of-birmingham-dsa-mutual-aid-working-groups-reading-group-for-deborah-padgetts-housing-first-sign-up-here/)
-
 ## For New Members: The Basics
 
 [What is DSA? An Introduction.](https://www.dsausa.org/organize/intro_to_dsa/)
