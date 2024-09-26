@@ -3,6 +3,7 @@ layout: page
 title: "Birmingham DSA Resources"
 permalink: /resources/
 ---
+## Email Bulletin
 
 [Subscribe to our email bulletin here!](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
 
