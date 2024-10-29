@@ -6,54 +6,58 @@ permalink: /our-work/
 
 <div class="mainContainer">
     <div class="scrollableSections">
-        <!-- COMMITTEES & WORKING GROUPS -->
-        <a class="levelOneLink" href="#committees">COMMITTEES & WORKING GROUPS</a><br />
-        <a class="levelTwoLink" href="#laborCommittee">Labor Committee</a><br />
-        <a class="levelTwoLink" href="#mutualAidCommittee">Mutual Aid Committee</a><br />
-        <a class="levelTwoLink" href="#palestineWorkingGroup">Palestine Working Group</a><br />
+        <!-- WORKING GROUPS -->
+        <a class="levelOneLink" href="#workinggroups">WORKING GROUPS</a><br />
+        <a class="levelTwoLink" href="#electoralWG">Electoral Working Group</a><br />
+        <a class="levelTwoLink" href="#laborWG">Labor Working Group</a><br />
+        <a class="levelTwoLink" href="#mutualAidWG">Mutual Aid Working Group</a><br />
+        <a class="levelTwoLink" href="#palestineWG">Palestine Working Group</a><br />
+        <a class="levelTwoLink" href="#saveOurLibrariesWG">Save Our Libraries Working Group</a><br />
 
 
         <!-- MEMBER SECTIONS -->
         <a class="levelOneLink" href="#memberSections">MEMBER SECTIONS</a><br />
         <a class="levelTwoLink" href="#AFROSOC">AfroSocialists and Socialists of Color (AFROSOC)</a><br />
 
-        <!-- INTERNAL COMMITTEES -->
-        <a class="levelOneLink" href="#internalCommittees">INTERNAL COMMITTEES</a><br />
+        <!-- COMMITTEES -->
+        <a class="levelOneLink" href="#Committees">COMMITTEES</a><br />
         <a class="levelTwoLink" href="#steeringCommittee">Steering Committee</a><br />
         <a class="levelTwoLink" href="#communicationsCommittee">Communications Committee</a><br />
+        <a class="levelTwoLink" href="#engagementCommittee">Engagement Committee</a><br />
+        <a class="levelTwoLink" href="#outreachSubcommittee">Outreach Committee</a><br />        
     </div>
     <div class="sectionedContent">
-        <!-- COMMITTEES & WORKING GROUPS -->
-        <div class="contentSection" id="committees">
-            <h1>COMMITTEES & WORKING GROUPS</h1>
+        <!-- WORKING GROUP -->
+        <div class="contentSection" id="workinggroups">
+            <h1>WORKING GROUPS</h1>
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
-        <div class="contentSection" id="laborCommittee">
-            <h2>Labor Committee</h2>
-            <h5>Contact: Calvin C. (he/him)</h5>
+        <div class="contentSection" id="laborWG">
+            <h2>Labor Working Group</h2>
+            <h5>Contact: Julian G. (he/him)</h5>
             <hr>
-            <p>As Birmingham DSA's Labor Committee, we aim to guide labor organizing within Birmingham DSA, educate Birmingham DSA members on workplace organizing strategies and history, strengthen relationships with existing labor organizations, and build worker power within the greater Birmingham area.
+            <p>As Birmingham DSA's Labor Working Group, we aim to guide labor organizing within Birmingham DSA, educate Birmingham DSA members on workplace organizing strategies and history, strengthen relationships with existing labor organizations, and build worker power within the greater Birmingham area.
 
             <p>To do this, we build relationships with existing unions and other worker organizations in our region -- including <a href="https://umwa.org/about/district-20/">District 20 locals of the United Mine Workers of America (UMWA)</a> and their auxiliaries, <a href="https://sbworkersunited.org/">Starbucks Workers United (SBWU)</a>, and <a href="https://bamazonunion.org/">BAmazonUnion</a> -- through strike support and community organizing. We also support new workplace organizing efforts with support from the <a href="https://workerorganizing.org/">Emergency Workplace Organizing Committee (EWOC)</a>, develop labor-related educational opportunities for both our membership and the community, and much more.
             
             <p>We hold monthly meetings.
             
-            <p>To contact the Labor Committee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Labor Committee">info@bhamdsa.org</a>.</p>
-        <div class="contentSection" id="mutualAidCommittee">
-            <h2>Mutual Aid Committee</h2>
-            <h5>Co-Chairs: Jason K. (he/him)</h5>
+            <p>To contact the Labor Working Group, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Labor Working Group">info@bhamdsa.org</a>.</p>
+        <div class="contentSection" id="mutualAidWG">
+            <h2>Mutual Aid Working Group</h2>
+            <h5>Contact: Jason K. (he/him)</h5>
             <hr>
-            <p>As Birmingham DSA's Mutual Aid Committee, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
+            <p>As Birmingham DSA's Mutual Aid Working Group, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
             
-            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, where we repair the brake light bulbs and covers of our neighbors to minimize their interactions with police, and Street Solidarity, where we prepare and enjoy hot vegetarian meals with our neighbors. Both our Brake Light Clinics and Food Action are organized in their own sub working groups, which are subdivisions of the Mutual Aid Committee.
+            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, where we repair the brake light bulbs and covers of our neighbors to minimize their interactions with police, and Street Solidarity, where we prepare and enjoy hot vegetarian meals with our neighbors. Both our Brake Light Clinics and Food Action are organized in their own sub working groups, which are subdivisions of the Mutual Aid Working Group.
             
-            <p>We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a> and <a href="https://marginsw4bw.weebly.com/">Margins</a>; and much more.
+            <p>We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a>; and much more.
             
-            <p>We organize mutual aid events at least once a month. We hold committee meetings every month.
+            <p>We organize mutual aid events at least once a month. We hold working group meetings every month.
             
-            <p>To contact the Mutual Aid Committee, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Committee">mutualaid@bhamdsa.org</a>.
-            <div class="contentSection" id="palestineWorkingGroup">
+            <p>To contact the Mutual Aid Working Group, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Working Group">mutualaid@bhamdsa.org</a>.
+            <div class="contentSection" id="palestineWG">
             <h2>Palestine Working Group</h2>
             <h5>Co-Chairs: Haneen M., Colin R.</h5>
             <hr>
@@ -63,7 +67,7 @@ permalink: /our-work/
 
             <p>Our local organizing is currently focused on pressuring U.S. officials to end aid to apartheid Israel, shining a light on the global military and economic infrastructure that facilitates the occupation, and maintaining the legal and social space for Palestinian solidarity organizing to continue without repression. 
             
-            <p>We hold working group meetings every 1-2 weeks.
+            <p>We hold working group meetings every two weeks.
             
             <p>To contact the Palestine Working Group, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question for Palestine Working Group">steering@bhamdsa.org</a>.
 
@@ -94,9 +98,9 @@ permalink: /our-work/
 
             <p>To contact the QUEERSOC Section, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for QUEERSOC Section">info@bhamdsa.org</a>.</p>.
 
-        <!-- INTERNAL COMMITTEES -->
-        <div class="contentSection" id="internalCommittees">
-            <h1>INTERNAL COMMITTEES</h1>
+        <!-- COMMITTEES -->
+        <div class="contentSection" id="Committees">
+            <h1>COMMITTEES</h1>
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
