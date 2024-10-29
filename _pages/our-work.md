@@ -24,7 +24,7 @@ permalink: /our-work/
         <a class="levelTwoLink" href="#steeringCommittee">Steering Committee</a><br />
         <a class="levelTwoLink" href="#communicationsCommittee">Communications Committee</a><br />
         <a class="levelTwoLink" href="#engagementCommittee">Engagement Committee</a><br />
-        <a class="levelTwoLink" href="#outreachSubcommittee">Outreach Committee</a><br />        
+        <a class="levelTwoLink" href="#outreachSubcommittee">Outreach Subcommittee</a><br />        
     </div>
     <div class="sectionedContent">
         <!-- WORKING GROUP -->
