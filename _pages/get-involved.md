@@ -10,6 +10,8 @@ permalink: /get-involved/
 
 <p><h5><b>Want to stay updated with what we're doing? Sign up for our <a href="https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form">email bulletin!</a>
 
+<p>
+
 <p><h5><b>Want to contact our...
 
 <p><h5><a href="mailto:steering@bhamdsa.org?subject=Question for Steering Committee">Steering Committee</a>?
