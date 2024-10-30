@@ -14,15 +14,23 @@ permalink: /get-involved/
 
 <p><h5><a href="mailto:steering@bhamdsa.org?subject=Question for Steering Committee">Steering Committee</a>?
 
-<p><h5><a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">AfroSocialists and Socialists of Color Member Section</a>?
+<p><h5><a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">AfroSocialists and Socialists of Color Section</a>?
 
 <p><h5><a href="mailto:info@bhamdsa.org?subject=Question for Comms Committee">Communications Committee</a>?
 
-<p><h5><a href="mailto:info@bhamdsa.org?subject=Question for Labor Committee">Labor Committee</a>?
+<p><h5><a href="mailto:info@bhamdsa.org?subject=Question for Electoral & Legislative Working Group">Electoral & Legislative Working Group</a>?
 
-<p><h5><a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Committee">Mutual Aid Committee</a>?
+<p><h5><a href="mailto:steering@bhamdsa.org?subject=Question for Engagement Committee">Engagement Committee</a>?
+
+<p><h5><a href="mailto:info@bhamdsa.org?subject=Question for Labor Working Group">Labor Working Group</a>?
+
+<p><h5><a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Working Group">Mutual Aid Working Group</a>?
+
+<p><h5><a href="mailto:steering@bhamdsa.org?subject=Question for Outreach Committee">Outreach Subcommittee</a>?
 
 <p><h5><a href="mailto:info@bhamdsa.org?subject=Question for Palestine Working Group">Palestine Working Group</a>?
+
+<p><h5><a href="mailto:info@bhamdsa.org?subject=Question for Save Our Libraries Working Group">Save Our Libraries Working Group</a>?
 
 <p><h5><a href="mailto:grievance@bhamdsa.org?subject=Question for Birmingham DSA Harassment Grievance Officers">Our Harassment Grievance Officers (HGOs)</a>?
 
