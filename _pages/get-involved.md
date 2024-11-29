@@ -28,11 +28,11 @@ permalink: /get-involved/
 
 <p><h5><a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Working Group">Mutual Aid Working Group</a>?
 
-<p><h5><a href="mailto:steering@bhamdsa.org?subject=Question for Outreach Committee">Outreach Subcommittee</a>?
+<p><h5><a href="mailto:steering@bhamdsa.org?subject=Question for Outreach Subcommittee">Outreach Subcommittee</a>?
 
 <p><h5><a href="mailto:info@bhamdsa.org?subject=Question for Palestine Working Group">Palestine Working Group</a>?
 
-<p><h5><a href="mailto:info@bhamdsa.org?subject=Question for Save Our Libraries Working Group">Save Our Libraries Working Group</a>?
+<p><h5><a href="mailto:queersoc@bhamdsa.org?subject=Question for QUEERSOC">Queer Socialists Section (QUEERSOC)</a>?
 
 <p><h5><a href="mailto:grievance@bhamdsa.org?subject=Question for Birmingham DSA Harassment Grievance Officers">Our Harassment Grievance Officers (HGOs)</a>?
 
