@@ -16,7 +16,7 @@ permalink: /get-involved/
 
 <p><h5><a href="mailto:steering@bhamdsa.org?subject=Question for Steering Committee">Steering Committee</a>?
 
-<p><h5><a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">AfroSocialists and Socialists of Color Section</a>?
+<p><h5><a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">AfroSocialists and Socialists of Color Section (AFROSOC)</a>?
 
 <p><h5><a href="mailto:info@bhamdsa.org?subject=Question for Comms Committee">Communications Committee</a>?
 
