@@ -16,7 +16,8 @@ permalink: /our-work/
 
         <!-- MEMBER SECTIONS -->
         <a class="levelOneLink" href="#memberSections">MEMBER SECTIONS</a><br />
-        <a class="levelTwoLink" href="#AFROSOC">AfroSocialists and Socialists of Color (AFROSOC)</a><br />
+        <a class="levelTwoLink" href="#AFROSOC">AfroSocialists and Socialists of Color (AFROSOC)</a>
+        <a class="levelTwoLink" href="#QUEERSOC">Queer Socialists Section (QUEERSOC)</a><br />
 
         <!-- COMMITTEES -->
         <a class="levelOneLink" href="#Committees">COMMITTEES</a><br />
@@ -79,7 +80,7 @@ permalink: /our-work/
             
             <p>We hold working group meetings every two weeks.
             
-            <p>To contact the Palestine Working Group, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question for Palestine Working Group">steering@bhamdsa.org</a>.
+            <p>To contact the Palestine Working Group, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Palestine Working Group">info@bhamdsa.org</a>.
 
         <!-- MEMBER SECTIONS -->
         <div class="contentSection" id="memberSections">
@@ -101,7 +102,7 @@ permalink: /our-work/
             <h2>Queer Socialists Section (QUEERSOC)</h2>
             <h5>Co-Chairs: Lillian C. (they/them) and Oliver O. (he/she/they)</h5>
             <hr>
-            <p>Birmingham DSA QUEERSOC Section serves as a formation to advocate and build power for our Queer-identifying members. 
+            <p>Birmingham DSA Queer Socialists Section (QUEERSOC) serves as a formation to advocate and build power for our Queer-identifying members. 
             
             <p>To pursue this mission, we affirm a collective gathering space for QUEERSOC socialists in Birmingham and Tuscaloosa to grow, find support, organize, and take action. 
             
