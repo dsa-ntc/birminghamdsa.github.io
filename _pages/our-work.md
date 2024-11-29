@@ -16,7 +16,7 @@ permalink: /our-work/
 
         <!-- MEMBER SECTIONS -->
         <a class="levelOneLink" href="#memberSections">MEMBER SECTIONS</a><br />
-        <a class="levelTwoLink" href="#AFROSOC">AfroSocialists and Socialists of Color (AFROSOC)</a>
+        <a class="levelTwoLink" href="#AFROSOC">AfroSocialists and Socialists of Color (AFROSOC)</a><br />
         <a class="levelTwoLink" href="#QUEERSOC">Queer Socialists Section (QUEERSOC)</a><br />
 
         <!-- COMMITTEES -->
