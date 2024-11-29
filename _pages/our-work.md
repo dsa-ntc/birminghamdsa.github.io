@@ -8,11 +8,10 @@ permalink: /our-work/
     <div class="scrollableSections">
         <!-- WORKING GROUPS -->
         <a class="levelOneLink" href="#workinggroups">WORKING GROUPS</a><br />
-        <a class="levelTwoLink" href="#electoralWG">Electoral Working Group</a><br />
+        <a class="levelTwoLink" href="#electoralWG">Electoral & Legislative Working Group</a><br />
         <a class="levelTwoLink" href="#laborWG">Labor Working Group</a><br />
         <a class="levelTwoLink" href="#mutualAidWG">Mutual Aid Working Group</a><br />
         <a class="levelTwoLink" href="#palestineWG">Palestine Working Group</a><br />
-        <a class="levelTwoLink" href="#saveOurLibrariesWG">Save Our Libraries Working Group</a><br />
 
 
         <!-- MEMBER SECTIONS -->
@@ -23,7 +22,7 @@ permalink: /our-work/
         <a class="levelOneLink" href="#Committees">COMMITTEES</a><br />
         <a class="levelTwoLink" href="#steeringCommittee">Steering Committee</a><br />
         <a class="levelTwoLink" href="#communicationsCommittee">Communications Committee</a><br />
-        <a class="levelTwoLink" href="#engagementCommittee">Engagement Committee</a><br />
+        <a class="levelTwoLink" href="#engagementSubcommittee">Engagement Subcommittee</a><br />
         <a class="levelTwoLink" href="#outreachSubcommittee">Outreach Subcommittee</a><br />        
     </div>
     <div class="sectionedContent">
@@ -33,6 +32,17 @@ permalink: /our-work/
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
+       <div class="contentSection" id="electoralWG">
+            <h2>Electoral & Legislative Working Group</h2>
+            <h5>Contact: Chris N. (he/him)</h5>
+            <hr>
+            <p>As Birmingham DSA's Electoral & Legislative Working Group, we aim to guide and inform electoral and legislative organizing within Birmingham DSA.
+
+            <p>Currently, we're developing an "Alabama Workers" platform, mapping our available resources (including the voting electorate), and much more. 
+            
+            <p>We hold monthly meetings as well as weekly discussions.
+            
+            <p>To contact the Electoral & Legislative Working Group, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Electoral & Legislative Working Group">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="laborWG">
             <h2>Labor Working Group</h2>
             <h5>Contact: Julian G. (he/him)</h5>
@@ -50,7 +60,7 @@ permalink: /our-work/
             <hr>
             <p>As Birmingham DSA's Mutual Aid Working Group, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
             
-            <p>To do this, we organize mutual aid programs like our Brake Light Clinics, where we repair the brake light bulbs and covers of our neighbors to minimize their interactions with police, and Street Solidarity, where we prepare and enjoy hot vegetarian meals with our neighbors. Both our Brake Light Clinics and Food Action are organized in their own sub working groups, which are subdivisions of the Mutual Aid Working Group.
+            <p>To do this, we organize mutual aid programs like our Brake Light & Fuse Replacement Clinics, where we repair the brake light bulbs, covers, and fuses of our neighbors' vehicles to minimize their interactions with police; and Street Solidarity, where we prepare meals, other material resources, and informational resources for our houseless and homeless neighbors twice a month. Both of these programs are organized in their own sub working groups, which are subdivisions of the Mutual Aid Working Group.
             
             <p>We also develop mutual-aid related educational opportunities; build relationships with existing regional mutual aid organizations like <a href="https://www.instagram.com/birminghammutualaid/?hl=en">Birmingham Mutual Aid</a>; and much more.
             
@@ -59,7 +69,7 @@ permalink: /our-work/
             <p>To contact the Mutual Aid Working Group, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Working Group">mutualaid@bhamdsa.org</a>.
             <div class="contentSection" id="palestineWG">
             <h2>Palestine Working Group</h2>
-            <h5>Co-Chairs: Haneen M., Colin R.</h5>
+            <h5>Co-Chairs: Lauren B. (she/her or they/them), Chris I. (he/him), Colin R. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Palestine Working Group, we aim to organize Birminghamians and Tuscaloosans into solidarity actions with Palestine. We aim to form a structured coalition with other local organizations who have been focused on Palestine work and demonstrations. 
             
@@ -88,7 +98,8 @@ permalink: /our-work/
 
             <p>To contact Birmingham DSA's AFROSOC Section, e-mail <a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">afrosoc@bhamdsa.org</a>.
              <div class="contentSection" id="QUEERSOC">
-            <h2>QueerSocialists (QUEERSOC)</h2>
+            <h2>Queer Socialists Section (QUEERSOC)</h2>
+            <h5>Co-Chairs: Lillian C. (they/them) and Oliver O. (he/she/they)</h5>
             <hr>
             <p>Birmingham DSA QUEERSOC Section serves as a formation to advocate and build power for our Queer-identifying members. 
             
@@ -96,7 +107,7 @@ permalink: /our-work/
             
             <p>Any person in the Birmingham and Tuscaloosa metropolitan areas who self-identify as queer can become a voting member of QUEERSOC. Birmingham DSA and/or DSA membership is not required to be a voting member of QUEEROSOC.
 
-            <p>To contact the QUEERSOC Section, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for QUEERSOC Section">info@bhamdsa.org</a>.</p>.
+            <p>To contact the QUEERSOC Section, e-mail <a href="mailto:queersoc@bhamdsa.org?subject=Question for QUEERSOC">queersoc@bhamdsa.org</a>.</p>.
 
         <!-- COMMITTEES -->
         <div class="contentSection" id="Committees">
@@ -126,3 +137,15 @@ permalink: /our-work/
            <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. 
 
            <p>To contact the Communications Committee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Comms Committee">info@bhamdsa.org</a>.
+        <div class="contentSection" id="engagementSubcommittee">
+            <h2>Engagement Subcommittee</h2>
+            <hr>
+           <p>The Engagement Subcommittee is a subdivision of Birmingham DSA's Communications Committee. It guides and informs how Birmingham DSA engages with new, prospective, and existing members.
+
+           <p>To contact the Engagement Subcommittee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Engagement Subcommittee">info@bhamdsa.org</a>.
+        <div class="contentSection" id="outreachSubcommittee">
+            <h2>Outreach Subcommittee</h2>
+            <hr>
+           <p>The Outreach Subcommittee is a subdivision of Birmingham DSA's Communications Committee. It guides and informs how Birmingham DSA engages with people who are not in the chapter's existing network. 
+
+           <p>To contact the Outreach Subcommittee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Outreach Subcommittee">info@bhamdsa.org</a>.
