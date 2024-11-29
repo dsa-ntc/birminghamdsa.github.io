@@ -12,13 +12,12 @@ permalink: /our-work/
         <a class="levelTwoLink" href="#laborWG">Labor Working Group</a><br />
         <a class="levelTwoLink" href="#mutualAidWG">Mutual Aid Working Group</a><br />
         <a class="levelTwoLink" href="#palestineWG">Palestine Working Group</a><br />
-
-
+        <br>
         <!-- MEMBER SECTIONS -->
         <a class="levelOneLink" href="#memberSections">MEMBER SECTIONS</a><br />
         <a class="levelTwoLink" href="#AFROSOC">AfroSocialists and Socialists of Color (AFROSOC)</a><br />
         <a class="levelTwoLink" href="#QUEERSOC">Queer Socialists Section (QUEERSOC)</a><br />
-
+        <br>
         <!-- COMMITTEES -->
         <a class="levelOneLink" href="#Committees">COMMITTEES</a><br />
         <a class="levelTwoLink" href="#steeringCommittee">Steering Committee</a><br />
