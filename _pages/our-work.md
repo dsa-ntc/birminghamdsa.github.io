@@ -71,7 +71,9 @@ permalink: /our-work/
             <h2>Palestine Working Group</h2>
             <h5>Co-Chairs: Lauren B. (she/her or they/them), Chris I. (he/him), Colin R. (he/him)</h5>
             <hr>
-            <p>As Birmingham DSA's Palestine Working Group, we aim to organize Birminghamians and Tuscaloosans into solidarity actions with Palestine. We aim to form a structured coalition with other local organizations who have been focused on Palestine work and demonstrations. 
+            <p><b>Our Palestine Working Group is currently organizing our chapter's <a href="https://www.dsausa.org/calendar/stop-fueling-genocide-campaign-launch/">"Stop Fueling Genocide" priority campaign</a>. E-mail them at <a href="mailto:info@bhamdsa.org?subject=Question for Stop Fueling Genocide campaign">info@bhamdsa.org</a> to learn more about this campaign.</b>
+            
+            As Birmingham DSA's Palestine Working Group, we aim to organize Birminghamians and Tuscaloosans into solidarity actions with Palestine. We aim to form a structured coalition with other local organizations who have been focused on Palestine work and demonstrations. 
             
             <p>Our core demands include an immediate and permanent end to Israel's genocidal violence across Palestine, an end to the apartheid system that is fundamental to the Israeli ethnostate, and an end to the Israeli occupation of historic Palestine.
 
