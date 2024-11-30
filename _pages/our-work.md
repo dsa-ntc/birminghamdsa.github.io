@@ -4,7 +4,6 @@ title: "Our Work"
 permalink: /our-work/
 ---
 
-    <h6><i>Last updated November 30, 2024</h6></i>
 <div class="mainContainer">
     <div class="scrollableSections">
         <!-- WORKING GROUPS -->
