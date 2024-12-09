@@ -11,8 +11,8 @@
 // import custom variables and mixins to extend BS4
 @import "lone-wolf-theme";
 
-// Import the ManifoldDSA Font
-@import "fonts/manifolddsa.scss";
+// Import the Georgia Font
+@import "fonts/georgia.scss";
 
 
 // DSA Related
@@ -66,6 +66,10 @@ ul {
 
 p {
     line-height: 200%;
+}
+
+footer.page-footer {
+    color: whitesmoke;
 }
 
 .page-footer-copyright {
