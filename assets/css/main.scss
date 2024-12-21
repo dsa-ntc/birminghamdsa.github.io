@@ -11,8 +11,8 @@
 // import custom variables and mixins to extend BS4
 @import "lone-wolf-theme";
 
-// Import the ManifoldDSA Font
-@import "fonts/manifolddsa.scss";
+// Import the Georgia Font
+@import "fonts/georgia.scss";
 
 
 // DSA Related
@@ -66,6 +66,10 @@ ul {
 
 p {
     line-height: 200%;
+}
+
+footer.page-footer {
+    color: whitesmoke;
 }
 
 .page-footer-copyright {
@@ -144,7 +148,7 @@ p {
 
 
 .scrollableSections a {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Georgia', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration: none;
     text-transform: uppercase;
     color: black;
@@ -173,7 +177,7 @@ p {
 
 
 .contentSection {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Georgia', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
