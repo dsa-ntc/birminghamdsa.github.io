@@ -27,7 +27,7 @@ There are currrently no new interest forms for this chapter.
 
 ## For New Members: WhatsApp Community
 
-Members in good standing have access to our WhatsApp Community, our central digital platform for our day-to-day organizing activities. If you're a member that would like to be added to or WhatsApp Community, email <a href="mailto:steering@bhamdsa.org?subject=Slack Access">steering {a} bhamdsa (dot) org</a>.
+Members in good standing have access to our WhatsApp Community, our central digital platform for our day-to-day organizing activities. If you're a member that would like to be added to or WhatsApp Community, email <a href="mailto:steering@bhamdsa.org?subject=WhatsApp Community Access">steering {a} bhamdsa (dot) org</a>.
 
 ## For New Members: Additional Resources
 
