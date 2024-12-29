@@ -9,7 +9,7 @@ permalink: /resources/
 
 ## Active Interest Forms
 
-There are currrently no new interest forms for this chapter. 
+[Stop Fueling Genocide: sign up here to learn more and get involved with our current priority campaign!](https://actionnetwork.org/forms/stop-fueling-genocide-birmingham-local-campaign-sign-up)
 
 ## For New Members: The Basics
 
