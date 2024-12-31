@@ -152,5 +152,5 @@ permalink: /our-work/
            <p>The Outreach Subcommittee is a subdivision of Birmingham DSA's Communications Committee. It guides and informs how Birmingham DSA engages with people who are not in the chapter's existing network. 
 
            <p>To contact the Outreach Subcommittee, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Outreach Subcommittee">info@bhamdsa.org</a>.
-
+<p>
            <i>This page was last updated on November, 30, 2024.</i>
