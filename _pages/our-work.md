@@ -34,7 +34,7 @@ permalink: /our-work/
         </div>
        <div class="contentSection" id="electoralWG">
             <h2>Electoral & Legislative Working Group</h2>
-            <h5>Contact: Chris N. (he/him)</h5>
+            <h5>Chair: Chris N. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Electoral & Legislative Working Group, we aim to guide and inform electoral and legislative organizing within Birmingham DSA.
 
@@ -45,7 +45,7 @@ permalink: /our-work/
             <p>To contact the Electoral & Legislative Working Group, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Electoral & Legislative Working Group">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="laborWG">
             <h2>Labor Working Group</h2>
-            <h5>Contact: Julian G. (he/him)</h5>
+            <h5>Chair: Julian G. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Labor Working Group, we aim to guide labor organizing within Birmingham DSA, educate Birmingham DSA members on workplace organizing strategies and history, strengthen relationships with existing labor organizations, and build worker power within the greater Birmingham area.
 
@@ -56,7 +56,7 @@ permalink: /our-work/
             <p>To contact the Labor Working Group, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Labor Working Group">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="mutualAidWG">
             <h2>Mutual Aid Working Group</h2>
-            <h5>Contact: Jason K. (he/him)</h5>
+            <h5>Chair: Taylor W. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Mutual Aid Working Group, we aim to guide mutual aid organizing within Birmingham DSA, educate Birmingham DSA members on mutual aid organizing, strengthen relationships with existing mutual aid organizations, and more.
             
@@ -91,6 +91,7 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="AFROSOC">
             <h2>AfroSocialists and Socialists of Color (AFROSOC)</h2>
+            <h5>Contact: Jason K. (he/him)</h5>
             <hr>
             <p>Birmingham DSA AFROSOC Section’s mission is to end racism and capitalism, also known as racial capitalism. We recognize that racial capitalism has evolved from colonialism and imperialism, and further enables the ruling class’s exploitation of all life on this planet and the planet itself. 
             
