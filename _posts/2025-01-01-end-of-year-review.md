@@ -15,7 +15,7 @@ Come review our 2024 with us!
 
 Our [AfroSocialists & Socialists of Color Section (AFROSOC)](https://bhamdsa.org/our-work/#AFROSOC), alongside other chapter members, kicked off our 2024 by showing up, tabling, and speaking at a Martin Luther King Jr. Day rally with former DSA honorary chair Cornel West! AFROSOC continued the year with monthly meetings and bimonthly game nights, affirming a space for our BIPOC-identifying members to build power in Birmingham DSA and their communities.
 
-<img src="/assets/images/2025-01-01-B1.jpg" width="50%" height="50%"><img src="/assets/images/2025-01-01-B2.jpg" width="50%" height="50%">
+<img src="/assets/images/2025-01-01-B1.png" width="50%" height="50%"><img src="/assets/images/2025-01-01-B2.jpg" width="50%" height="50%">
 
 In February, we approved our Save Our Libraries campaign! With our comrades at [North Alabama DSA](https://actionnetwork.org/groups/north-alabama-dsa), we pushed back against the censorship of LGBTQIA+ and racial justice materials in Alabama's public libraries, speaking in opposition to far-right groups at board meetings for North Shelby Library and the Alabama Public Library Service (APLS). We also organized “write-ins” in Shelby County and Tuscaloosa and online to overwhelm the APLS with anti-censorship letters.
 
