@@ -11,7 +11,7 @@ image_caption: ""
 
 Come review our 2024 with us!
 
-<img src="assets/images/2025-01-01-A.jpg">
+<img src="/assets/images/2025-01-01-A.jpg" width="50%" height="50%">
 
 Our [AfroSocialists & Socialists of Color Section (AFROSOC)](https://bhamdsa.org/our-work/#AFROSOC), alongside other chapter members, kicked off our 2024 by showing up, tabling, and speaking at a Martin Luther King Jr. Day rally with former DSA honorary chair Cornel West! AFROSOC continued the year with monthly meetings and bimonthly game nights, affirming a space for our BIPOC-identifying members to build power in Birmingham DSA and their communities.
 
