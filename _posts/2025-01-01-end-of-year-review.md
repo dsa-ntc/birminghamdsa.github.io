@@ -3,7 +3,7 @@ layout: post
 title: "Our 2024 in review"
 permalink: /2025-01-01-end-of-year-review/
 tag: 
-short_description: ""
+short_description: "Here's some of the things we did in 2024."
 image: "assets/images/2025-01-01-end-of-year-review.png"
 image_alt: "Our 2024 In Review"
 image_caption: ""
