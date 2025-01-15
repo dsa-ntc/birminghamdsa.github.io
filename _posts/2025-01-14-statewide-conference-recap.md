@@ -3,10 +3,10 @@ layout: post
 title: "No Impostors Allowed" 
 permalink: /2025-01-14-statewide-conference-recap/
 tag: 
-short_description: "A recap of "No Impostors!", the first-ever Alabama DSA and YDSA statewide conference."
+short_description: "A recap of 'No Impostors!', the first-ever Alabama DSA and YDSA statewide conference."
 image: "assets/images/2025-01-14-group-pic.jpg"
-image_alt: "DSA and YDSA members from Alabama and Mississippi pose with fists raised behind a banner with a Palestinian flag that reads "Birmingham Against Genocide, Birmingham Against Apartheid, Birmingham Against Occupation, Birmingham Democratic Socialists of America." Behind them is a red DSA flag."
-image_caption: "DSA and YDSA members from Alabama and Mississippi pose with fists raised following "No Impostors!", the first-ever Alabama DSA and YDSA statewide conference."
+image_alt: "DSA and YDSA members from Alabama and Mississippi pose with fists raised behind a banner with a Palestinian flag that reads 'Birmingham Against Genocide, Birmingham Against Apartheid, Birmingham Against Occupation, Birmingham Democratic Socialists of America.' Behind them is a red DSA flag."
+image_caption: "DSA and YDSA members from Alabama and Mississippi pose with fists raised following 'No Impostors!', the first-ever Alabama DSA and YDSA statewide conference."
 ---
 
 How do we further the power of working-class Alabamians? On Saturday, January 4, 2025, over 35 DSA and YDSA members from Birmingham, [North Alabama](https://actionnetwork.org/groups/north-alabama-dsa)], Montgomery, Mobile, [Tuscaloosa](https://www.instagram.com/ualeftists/), and even Jackson, Mississippi, came together at Saturn in Birmingham for [No Impostors!](https://www.facebook.com/share/p/18oiAbtjK3/), the first-ever Alabama DSA/YDSA statewide conference, to answer this question.
