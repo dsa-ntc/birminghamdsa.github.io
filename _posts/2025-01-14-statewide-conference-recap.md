@@ -9,7 +9,7 @@ image_alt: "DSA and YDSA members from Alabama and Mississippi pose with fists ra
 image_caption: "DSA and YDSA members from Alabama and Mississippi pose with fists raised following 'No Impostors!', the first-ever Alabama DSA and YDSA statewide conference."
 ---
 
-How do we further the power of working-class Alabamians? On Saturday, January 4, 2025, over 35 DSA and YDSA members from Birmingham, [North Alabama](https://actionnetwork.org/groups/north-alabama-dsa)], Montgomery, Mobile, [Tuscaloosa](https://www.instagram.com/ualeftists/), and even Jackson, Mississippi, came together at Saturn in Birmingham for [No Impostors!](https://www.facebook.com/share/p/18oiAbtjK3/), the first-ever Alabama DSA/YDSA statewide conference, to answer this question.
+How do we further the power of working-class Alabamians? On Saturday, January 4, 2025, over 35 DSA and YDSA members from Birmingham, [North Alabama](https://actionnetwork.org/groups/north-alabama-dsa), Montgomery, Mobile, [Tuscaloosa](https://www.instagram.com/ualeftists/), and even Jackson, Mississippi, came together at Saturn in Birmingham for [No Impostors!](https://www.facebook.com/share/p/18oiAbtjK3/), the first-ever Alabama DSA/YDSA statewide conference, to answer this question.
 
 A few opening remarks from Birmingham DSA co-chair Jason K. were followed by keynote speaker, [RWDSU](https://www.rwdsu.org/) organizer, and former BAmazon Union worker-organizer Isaiah Thomas. In his speech, Isaiah discussed how an organizer is not just a leader leading the people out of capitalism...but a person bringing the power of labor together for everyone to move forward. 
 
