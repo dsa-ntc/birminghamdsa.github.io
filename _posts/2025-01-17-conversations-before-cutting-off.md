@@ -22,9 +22,10 @@ In the article A Time for Radical Empathy - Transforming Society, Terri E. Given
 <li>Opening yourself to the experiences of others.
 <li>Practicing empathy.
 <li>Taking action.
-<li>Creating change and building trust.
+<li>Creating change and building trust.</li>
 </ol>
- I find implementing these steps incredibly useful when engaging with people across the political aisle, because building a mass movement and changing hearts and minds will require talking to the people you disagree with. The goal of the capitalist machine is to divide us and pit us against each other – so to fight it, we must strive to do the opposite. We have to bring people in and create the community we want not only with people who already think like us but with people who are already right next to us. 
+
+I find implementing these steps incredibly useful when engaging with people across the political aisle, because building a mass movement and changing hearts and minds will require talking to the people you disagree with. The goal of the capitalist machine is to divide us and pit us against each other – so to fight it, we must strive to do the opposite. We have to bring people in and create the community we want not only with people who already think like us but with people who are already right next to us. 
 
 <h3>Meeting People Where They’re At</h3>
 
