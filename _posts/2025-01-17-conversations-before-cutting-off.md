@@ -15,13 +15,13 @@ If you’re reading this, then you’re probably worried about how the next four
 
 Many people are saying it’s time to cut off and go no-contact with Trump supporters. I don’t entirely disagree with that sentiment. There is some value in shaming those who won't listen to logic, empathy, or reason – but only when efforts of logic, empathy, and reason have been exhausted. 
 
-In the article A Time for Radical Empathy - Transforming Society, Terri E. Givens says radical empathy is “moving beyond walking in someone else’s shoes and requires taking actions that will not only help that person but will also improve our society.” He goes on to emphasize the importance of practicing empathy, not merely having it, and breaks down the path to gaining radical empathy into six steps:
+In the article [A Time for Radical Empathy - Transforming Society](https://www.transformingsociety.co.uk/2020/06/08/a-time-for-radical-empathy/#:~:text=Radical%20empathy%20is%20moving%20beyond,will%20also%20improve%20our%20society), Terri E. Givens says radical empathy is “moving beyond walking in someone else’s shoes and requires taking actions that will not only help that person but will also improve our society.” He goes on to emphasize the importance of practicing empathy, not merely having it, and breaks down the path to gaining radical empathy into six steps:
 <ol>
-<li>Willingness to be vulnerable.
-<li>Becoming grounded in who you are.
-<li>Opening yourself to the experiences of others.
-<li>Practicing empathy.
-<li>Taking action.
+<li>Willingness to be vulnerable.</li>
+<li>Becoming grounded in who you are.</li>
+<li>Opening yourself to the experiences of others.</li>
+<li>Practicing empathy.</li>
+<li>Taking action.</li>
 <li>Creating change and building trust.</li>
 </ol>
 
@@ -41,7 +41,7 @@ Meeting people where they’re at is the only way to change people's minds, and 
 
 <h3>Avoiding Jargon</h3>
 
-It is a known fact that there is a literacy problem in America, and with that comes a research problem. Not knowing how to properly research a topic or find credible sources leads people to fall down the alt-right pipeline. Sometimes teaching people how to do that is where the deconstruction work starts. This can range from showing people how to properly fact-check and spot AI-generated propaganda, to informing them of what an oligarchy in America looks like and the dangers of monopolization, to helping them find and discern reputable sources with something like a media bias chart. 
+It is a known fact that there is a literacy problem in America, and with that comes a research problem. Not knowing how to properly research a topic or find credible sources leads people to fall down the alt-right pipeline. Sometimes teaching people how to do that is where the deconstruction work starts. This can range from showing people how to properly fact-check and spot AI-generated propaganda, to informing them of what an oligarchy in America looks like and the dangers of monopolization, to helping them find and discern reputable sources with something like a [media bias chart](https://adfontesmedia.com/media-bias-chart-jan-2024/). 
 
 Not everyone is tuned into the same conversations we are – A lot of people are too busy to even be tuned into any conversation – and when we on the left use theory or academic words as shorthand for our ideas, the other person often has their own connotations surrounding those words. Using jargon around those who aren’t as tuned into our ideas often leads us to have to take time from the conversation to break down their misconceptions and lay out what we actually mean. Remember: we’re fighting against allegations of elitism on the left (that have a semblance of truth), as well as the effects of the 20th century communist/ socialist red scare and right wing propaganda against left wing ideals. 
 
@@ -69,5 +69,5 @@ The second floodgate is the implementation and enforcement of market regulations
 
 Which leads me to the third floodgate: the American dream itself. It’s a dream that's presented as achievable for everyone (though that has never been true). But the fact that even a handful can realize the “white picket fence” dream is enough to convince everyone else who can’t make it that they just aren’t working hard enough. The bootstraps mentality is a lot harder when you don’t have any boots or money to buy boots, or a store close enough to buy the boots even if you did have the money. Many people forget that the so-called “Golden Age”of the American middle class in the 1950’s occurred during a time when market regulations were strict and the wealth tax was high. However, doing those same things today is now considered radical. 
 
-When the gates of opportunity shrink down to the eye of a needle, the people are no longer complacent. We need to utilize this energy as an opportunity to bring people into the anti capitalist movement through radical empathy. The cracks in the dam’s foundation formed years ago; it’s only a matter of time before it breaks. We all just have to push. 
+When the gates of opportunity shrink down to the eye of a needle, the people are no longer complacent. We need to utilize this energy as an opportunity to bring people into the anti capitalist movement through radical empathy. The cracks in the dam’s foundation formed years ago; it’s only a matter of time before it breaks. We all just have to <i>push</i>. 
 
