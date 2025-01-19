@@ -7,6 +7,7 @@ short_description: "Advice on talking to conservatives as someone on the Left."
 image: "assets/images/2025-01-17-conversations-before-cutting-off.png"
 image_alt: "One hand-drawn person talks to another hand-drawn person about socialism, as represented by a pink speech bubble with a rose in it."
 
+
 ---
 
 <h5>By Mack K., Birmingham DSA</h5>
