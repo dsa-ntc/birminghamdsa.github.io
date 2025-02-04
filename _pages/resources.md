@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 ## Email Bulletin
 
-[Subscribe to our email bulletin here!](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
+[Subscribe to our email bulletin here!](https://actionnetwork.org/forms/birmingham-dsa-e-mail-bulletin-subscription-form/)
 
 ## Active Interest Forms
 
