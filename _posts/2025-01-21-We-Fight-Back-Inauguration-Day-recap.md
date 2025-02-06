@@ -4,7 +4,7 @@ title: "We Fought Back!"
 permalink: /2025-01-21-We-Fight-Back-Inauguration-Day-recap/
 tag: 
 short_description: "A recap of our Inauguration Day rally."
-image: "assets/images/2025-01-21.jpg"
+image: "assets/images/2025-01-21.png"
 image_alt: "Members of Birmingham DSA and the Birmingham branch of the Party for SOocialism & Liberation (PSL) pose in Linn Park in Birmingham, Alabama, following their Inauguration Day rally on Monday, January 20, 2025."
 image_caption: "Members of Birmingham DSA and the Birmingham branch of the Party for SOocialism & Liberation (PSL) pose in Linn Park in Birmingham, Alabama, following their Inauguration Day rally on Monday, January 20, 2025."
 
