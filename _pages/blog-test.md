@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Blog"
-permalink: /blog/
+title: "Blog Test"
+permalink: /blog-test/
 redirect_from: /statements/
 ---
 
