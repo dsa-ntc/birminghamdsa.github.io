@@ -16,7 +16,7 @@ On Saturday, January 25th, our Queer Socialists Member Section (QueerSoc) hosted
 
 Members from QueerSoc gave a presentation on how pinkwashing was a tool of colonial oppression. They also emphasized the need to center queer Palestinian voices, reject Israeli “savior” narratives, and connect the struggle to broader anti-colonial movements.
 
-Layla Amar, an Atlanta-based artist, and Jawahir Kamil delivered heartfelt testimony to the century-long oppression they and their families have faced in Israel’s ongoing attack on Palestine.
+[Layla Amar](https://laylaamar.com/about), an Atlanta-based artist, and [Jawahir Kamil](https://www.instagram.com/jawahir_kamil/) delivered heartfelt testimony to the century-long oppression they and their families have faced in Israel’s ongoing attack on Palestine.
 
 Artwork honoring the lived experience of Palestinian and Lebanese people lined the entryway of the venue, including antique garments dating back to the early 1900's.
 

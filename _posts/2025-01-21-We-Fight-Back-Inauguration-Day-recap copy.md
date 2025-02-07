@@ -12,7 +12,7 @@ image_caption: "Members of Birmingham DSA and the Birmingham branch of the Party
 
 <i>by Julian G., member of our [Steering Committee](https://bhamdsa.org/our-work/#steeringCommittee)</i>
 
-On Monday, January 20th, Birmingham DSA joined Palestinian Christians of Alabama (PCA), Young Palestinians of Birmingham (YPB), and the Birmingham branch of the Party for Socialism and Liberation (PSL) at Linn Park for “We Fight Back!”, an Inauguration Day rally in opposition to Trump’s ultra-right, billionaire agenda.
+On Monday, January 20th, Birmingham DSA joined Palestinian Christians of Alabama ([PCA](https://www.instagram.com/pca.bham/)), Young Palestinians of Birmingham ([YPB](https://www.instagram.com/yp.bham/)), and the [Birmingham branch of the Party for Socialism and Liberation](https://www.instagram.com/pslbirmingham/) (PSL) at Linn Park for “We Fight Back!”, an Inauguration Day rally in opposition to Trump’s ultra-right, billionaire agenda.
 
 Members from these organizations spoke on their organizing and issues that will be made worse with a second Trump administration.
 
