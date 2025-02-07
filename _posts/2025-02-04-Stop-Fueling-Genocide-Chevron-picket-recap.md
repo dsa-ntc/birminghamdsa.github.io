@@ -2,7 +2,7 @@
 layout: post 
 title: "'Stop Fueling Genocide' hits the gas for their first Chevron station picket'" 
 permalink: /2025-02-04-Stop-Fueling-Genocide-Chevron-picket-recap/
-tag: "
+tag: 
 short_description: "Holding signs and banners with the message “NO FUEL FOR GENOCIDE,” members of our Palestine Working Group led a series of two informational pickets on February 1st and 2nd at a busy Chevron station on Clairmont Avenue, telling drivers to buy their gas elsewhere."
 image: "assets/images/2025-02-04.png"
 image_alt: "Birmingham DSA members hold signs and banners in front of the Chevron station on Clairmont Avenue in Birmingham. This is part of the chapter's 'Stop Fueling Genocide' campaign to pressure Chevron into ending their business with Israel -- and complicity with the genocide in Gaza."
