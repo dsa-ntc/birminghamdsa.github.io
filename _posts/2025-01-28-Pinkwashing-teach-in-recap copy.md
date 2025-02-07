@@ -3,7 +3,7 @@ layout: post
 title: "For a Free Palestine: A recap of our pinkwashing awareness teach-in" 
 permalink: /2025-01-28-Pinkwashing-teach-in-recap/
 tag: 
-short_description: "On Saturday, January 25th, our Queer Socialists Member Section (QueerSoc) hosted a Pinkwashing Awareness teach-in at Red Bird Produce in the Avondale neighborhood of Birmingham.."
+short_description: "On Saturday, January 25th, our Queer Socialists Member Section (QueerSoc) hosted a Pinkwashing Awareness teach-in at Red Bird Produce in the Avondale neighborhood of Birmingham."
 image: "assets/images/2025-01-28.png"
 image_alt: "Members of Birmingham DSA's Queer Socialists Section pose for a picture with artists who presented works at QueerSoc's Pinkwashing Awareness teach-in."
 image_caption: "Members of Birmingham DSA's Queer Socialists Section pose for a picture with artists who presented works at QueerSoc's Pinkwashing Awareness teach-in."
