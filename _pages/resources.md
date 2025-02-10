@@ -11,7 +11,7 @@ permalink: /resources/
 
 [Stop Fueling Genocide: sign up here to learn more and get involved with our current priority campaign!](https://actionnetwork.org/forms/stop-fueling-genocide-birmingham-local-campaign-sign-up)
 
-## For New Members: The Basics
+## For New Members
 
 [What is DSA? An Introduction.](https://www.dsausa.org/organize/intro_to_dsa/)
 
