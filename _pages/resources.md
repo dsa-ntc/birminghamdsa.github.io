@@ -41,7 +41,16 @@ Frequently Asked Questions (coming soon)
 
 ## Mutual Aid Working Group Resources
 
+[From National DSA: Let's Organize to Stop Chevron Fueling Genocide](https://www.dsausa.org/democratic-left/lets-organize-to-stop-chevron-fueling-genocide/)
+
+[From US Campaign for Palestinian Rights (USCPR): Stop Gaza Genocide Action Toolkit](https://uscpr.org/stopgazagenocide/)
+
+[Palestinian Boycott, Divestment, and Sanctions (BDS) National Committee](https://bdsmovement.net)
+
+## Palestine Working Group Resources
+
 ['Know Your Rights If Police Pull You Over' printable cards](https://drive.google.com/file/d/1KyZB6f0ckAcGf3zVB_9mLcFjYDiOLK_Q/view)
+
 
 ## Housing Justice Working Group: Resources for Tenants/Renters in Birmingham
 
