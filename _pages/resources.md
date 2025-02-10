@@ -17,29 +17,21 @@ permalink: /resources/
 
 [Subscribe to our email bulletin here!](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
 
-## For New Members: Conduct
-
 [DSA Code of Conduct for Members](https://www.dsausa.org/dsa-code-of-conduct-for-members/) (adopted as Birmingham DSA's Code of Conduct by resolution in May 2022)
 
 [DSA Meeting Code of Conduct](https://www.dsausa.org/resources/harassment-and-grievance/dsa-meeting-code-of-conduct-4-7-2020/) (adopted as Birmingham DSA's Meeting Code of Conduct by resolution in May 2022)
 
 <b>Harassment Grievance Disclosure</b>: If you experience or witness harassment in any DSA space, you may report it to our chapter’s harassment grievance officers (HGOs) at <a href="mailto:grievance@bhamdsa.org">grievance [a] bhamdsa {dot} org</a>. All reports will remain confidential with our HGOs. The full text of our Harassment and Grievance Policy can be found in Section 11 of our [current bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing). <i>(Our chapter's current HGOs are Lauren B. and Anthony H.)</i>
 
-## For New Members: WhatsApp Community
-
 Members in good standing have access to our WhatsApp Community, our central digital platform for our day-to-day organizing activities. If you're a member that would like to be added to or WhatsApp Community, email <a href="mailto:steering@bhamdsa.org?subject=WhatsApp Community Access">steering {a} bhamdsa (dot) org</a>.
-
-## For New Members: Additional Resources
 
 [Birmingham DSA monthly local dues](https://donorbox.org/bham-dsa-monthly-dues) (these dues are currently optional for members)
 
-Frequently Asked Questions (coming soon)
-
-## Labor Working Group Resources
+## Labor Working Group
 
 [Scottsboro Starbucks Partners relief fund](https://www.gofundme.com/f/relief-fund-for-scottsboro-starbucks-partners)
 
-## Mutual Aid Working Group Resources
+## Palestine Working Group
 
 [From National DSA: Let's Organize to Stop Chevron Fueling Genocide](https://www.dsausa.org/democratic-left/lets-organize-to-stop-chevron-fueling-genocide/)
 
@@ -47,12 +39,12 @@ Frequently Asked Questions (coming soon)
 
 [Palestinian Boycott, Divestment, and Sanctions (BDS) National Committee](https://bdsmovement.net)
 
-## Palestine Working Group Resources
+## Mutual Aid Working Group
 
 ['Know Your Rights If Police Pull You Over' printable cards](https://drive.google.com/file/d/1KyZB6f0ckAcGf3zVB_9mLcFjYDiOLK_Q/view)
 
 
-## Housing Justice Working Group: Resources for Tenants/Renters in Birmingham
+## Housing Justice : Resources for Tenants/Renters in Birmingham
 
 [City of Birmingham Rental Assistance](https://www.birminghamal.gov/covidrent)
 
