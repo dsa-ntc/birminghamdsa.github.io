@@ -11,7 +11,8 @@ redirect_from: /statements/
 <script>
   window.SubstackFeedWidget = {
     substackUrl: "bhamdsa.substack.com",
-    posts: 3,
+    posts: 12,
+    filter: "top",
     hidden: ["author"],
     colors: {
       primary: "#231F20",
