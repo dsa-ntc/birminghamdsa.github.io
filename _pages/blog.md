@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog "
+title: "THE BLAST: The Blog of Birmingham DSA"
 permalink: /blog/
 redirect_from: /statements/
 ---
