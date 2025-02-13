@@ -15,4 +15,4 @@ redirect_from: /statements/
     hidden: ["author"]
   };
 </script>
-<script src="https://substackapi.com/embeds/feed.js" async></script> 
+<script src="https://substackapi.com/embeds/feed.js" async></script>
