@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "THE BLAST: The Blog of Birmingham DSA"
+title: "THE BLAST"
 permalink: /blog/
 redirect_from: /statements/
 ---
-
+<h5>The blog of Birmingham DSA.</h5>
 <div id="substack-feed-embed"></div>
 
 
