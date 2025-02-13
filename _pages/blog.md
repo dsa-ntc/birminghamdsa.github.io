@@ -11,7 +11,7 @@ redirect_from: /statements/
 <script>
   window.SubstackFeedWidget = {
     substackUrl: "bhamdsa.substack.com",
-    posts: 12,
+    posts: 11,
     hidden: ["author"]
   };
 </script>
