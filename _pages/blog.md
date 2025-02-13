@@ -18,14 +18,4 @@ redirect_from: /statements/
 <script src="https://substackapi.com/embeds/feed.js" async></script>
 
 
-<html>
-  <head>
-    <style>
-      h1 {text-align: center;}
-      p {text-align: center;}
-      div {text-align: center;}
-    </style>
-  </head>
-</html>
-
-<p>Find our past blog entries at our [Substack](https://bhamdsa.substack.com)</p>
+Find our past blog entries at our [Substack](https://bhamdsa.substack.com)
