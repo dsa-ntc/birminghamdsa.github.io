@@ -2,9 +2,8 @@
 layout: default
 ---
 
-{% assign about = site.data.copy.global[0] %}
-{% assign welcome = site.data.copy.global[1] %}
-
+{% assign about = site.data.copy.global[0] %} {% assign welcome =
+site.data.copy.global[1] %}
 
 <div class="container my-5">
   <div class="row">
@@ -18,13 +17,24 @@ layout: default
       <div class="col-md-6">
         <!-- RECENT UPDATES WIDGET -->
         <h2 class="my-5">Recent Updates</h2>
-        {% for post in site.posts limit:3 %}
+        <!-- {% for post in site.posts limit:3 %}
         <div class="col-12">
           <h6 class="my-0 text-black-tint-2">{{ post.date | date: "%b %-d, %Y" }}</h6>
           <a class="my-0 article-link" href="{{ post.url }}">{{ post.title }}</a>
           <p>{{ post.short_description }}</p>
         </div>
-        {% endfor %}
+        {% endfor %} -->
+        <!-- Get three most recent posts from bhamdsa Substack. -->
+        <div id="substack-feed-embed"></div>
+
+        <script>
+          window.SubstackFeedWidget = {
+            substackUrl: "bhamdsa.substack.com",
+            posts: 3,
+            hidden: ["image", "author", "premium", "comments", "reactions"],
+          };
+        </script>
+        <script src="https://substackapi.com/embeds/feed.js" async></script>
       </div>
       <div class="col-md-6">
         <!-- BAMAZON PICTURE -->
@@ -59,7 +69,6 @@ layout: default
             width: auto;
             height: auto;
             margin: auto !important;
-
           }
 
           .slideshow a.previous,
@@ -72,10 +81,7 @@ layout: default
             margin-top: -22px;
             color: white !important;
             /* 1px black text outline */
-            text-shadow:
-              -1px -1px 0 #000,
-              1px -1px 0 #000,
-              -1px 1px 0 #000,
+            text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
               1px 1px 0 #000;
             font-weight: bold;
             font-size: 2rem;
@@ -101,70 +107,70 @@ layout: default
         </style>
         <div class="slideshow">
           <div class="slide">
-            <img src="/assets/images/slideshow/1.webp">
+            <img src="/assets/images/slideshow/1.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/2.webp">
+            <img src="/assets/images/slideshow/2.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/3.webp">
+            <img src="/assets/images/slideshow/3.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/4.webp">
+            <img src="/assets/images/slideshow/4.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/5.webp">
+            <img src="/assets/images/slideshow/5.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/7.webp">
+            <img src="/assets/images/slideshow/7.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/8.webp">
+            <img src="/assets/images/slideshow/8.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/9.webp">
+            <img src="/assets/images/slideshow/9.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/11.webp">
+            <img src="/assets/images/slideshow/11.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/12.webp">
+            <img src="/assets/images/slideshow/12.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/13.webp">
+            <img src="/assets/images/slideshow/13.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/14.webp">
+            <img src="/assets/images/slideshow/14.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/15.webp">
+            <img src="/assets/images/slideshow/15.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/16.webp">
+            <img src="/assets/images/slideshow/16.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/17.webp">
+            <img src="/assets/images/slideshow/17.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/18.webp">
+            <img src="/assets/images/slideshow/18.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/19.webp">
+            <img src="/assets/images/slideshow/19.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/20.webp">
+            <img src="/assets/images/slideshow/20.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/21.webp">
+            <img src="/assets/images/slideshow/21.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/22.webp">
+            <img src="/assets/images/slideshow/22.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/23.webp">
+            <img src="/assets/images/slideshow/23.webp" />
           </div>
           <div class="slide">
-            <img src="/assets/images/slideshow/24.webp">
+            <img src="/assets/images/slideshow/24.webp" />
           </div>
           <a class="previous" onclick="plusSlides(-1)">❮</a>
           <a class="next" onclick="plusSlides(1)">❯</a>
@@ -174,18 +180,22 @@ layout: default
           showSlides(slideIndex);
 
           function plusSlides(n) {
-            showSlides(slideIndex += n);
+            showSlides((slideIndex += n));
           }
 
           function currentSlide(n) {
-            showSlides(slideIndex = n);
+            showSlides((slideIndex = n));
           }
 
           function showSlides(n) {
             let i;
             let slides = document.getElementsByClassName("slide");
-            if (n > slides.length) { slideIndex = 1 }
-            if (n < 1) { slideIndex = slides.length }
+            if (n > slides.length) {
+              slideIndex = 1;
+            }
+            if (n < 1) {
+              slideIndex = slides.length;
+            }
             for (i = 0; i < slides.length; i++) {
               slides[i].style.display = "none";
             }
