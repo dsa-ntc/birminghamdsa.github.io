@@ -17,28 +17,29 @@
                 </div>
                 <div class="col-md-2 col-sm-12">
                     <h4 class="text-red m-0">Socials</h3>
-                    <!-- Social media links -->
-                    <ul class="my-3">
-                        {% for so_link in social.social %}
-                        <li>
-                            {% if so_link.url %}
-                            <i class="{{ so_link.icon }}"></i><a href="{{ so_link.url }}">{{ so_link.label }}</a>
-                            {% else %}
-                            <strong>{{ so_link.label }}</strong>
-                            {% endif %}
-                        </li>
-                        {% endfor %}
-                    </ul>
+                        <!-- Social media links -->
+                        <ul class="my-3">
+                            {% for so_link in social.social %}
+                            <li>
+                                {% if so_link.url %}
+                                <i class="{{ so_link.icon }}"></i><a href="{{ so_link.url }}">{{ so_link.label }}</a>
+                                {% else %}
+                                <strong>{{ so_link.label }}</strong>
+                                {% endif %}
+                            </li>
+                            {% endfor %}
+                        </ul>
                 </div>
                 <div class="col-md-2 col-sm-12">
                     <h4 class="text-red m-0">Sitemap</h3>
-                    <ul class="my-3">
-                        {% for fd_link in feed.feed %}
-                        <li>
-                            <i class="{{ fd_link.icon }}"></i> <a href="{{ fd_link.url | relative_url }}">{{ fd_link.label }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
+                        <ul class="my-3">
+                            {% for fd_link in feed.feed %}
+                            <li>
+                                <i class="{{ fd_link.icon }}"></i> <a href="{{ fd_link.url | relative_url }}">{{
+                                    fd_link.label }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
                 </div>
             </div>
         </div>
@@ -48,4 +49,18 @@
             <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" height="32" width="32">
         </div>
     </div>
+    <!-- Default Statcounter code for Birmingham DSA https://bhamdsa.org/ -->
+    <script type="text/javascript">
+        var sc_project = 13098497;
+        var sc_invisible = 1;
+        var sc_security = "df8684fa"; 
+    </script>
+    <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+    <noscript>
+        <div class="statcounter"><a title="Web Analytics Made Easy -
+    Statcounter" href="https://statcounter.com/" target="_blank"><img class="statcounter"
+                    src="https://c.statcounter.com/13098497/0/df8684fa/1/" alt="Web Analytics Made Easy - Statcounter"
+                    referrerPolicy="no-referrer-when-downgrade"></a></div>
+    </noscript>
+    <!-- End of Statcounter Code -->
 </footer>
