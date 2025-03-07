@@ -41,7 +41,15 @@ Members in good standing have access to our WhatsApp Community, our central digi
 
 ## Mutual Aid Working Group
 
+[Brake Light & Fuse Replacement Clinic printable handbills (color)](https://drive.google.com/file/d/1i0H_jDxr_IonS8GO_Y8X1UxgrbIoT4MK/view?usp=sharing)
+(
+[Brake Light & Fuse Replacement Clinic printable handbills (black and white)](https://drive.google.com/file/d/1VozYZU_77biCPs_xWoYE4-Rq1V1fR1h8/view?usp=drive_link)
+
 ['Know Your Rights If Police Pull You Over' printable cards](https://drive.google.com/file/d/1KyZB6f0ckAcGf3zVB_9mLcFjYDiOLK_Q/view)
+
+[Street Solidarity printable handbills (color)](https://drive.google.com/file/d/17skIkCKnchRKWCcEzpaMqSyIr4XiOHjI/view?usp=sharing)
+
+[Street Solidarity printable handbills (black and white)](https://drive.google.com/file/d/1o80IsfPr4sq1FbjNGrQJ095dFuOtKIO1/view?usp=sharing)
 
 
 ## Housing Justice : Resources for Tenants/Renters in Birmingham
