@@ -7,7 +7,6 @@ redirect_from: /statements/
 <h5>The blog of Birmingham DSA.</h5>
 <div id="substack-feed-embed"></div>
 
-
 <script>
   window.SubstackFeedWidget = {
     substackUrl: ".substack.com",
