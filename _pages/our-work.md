@@ -69,7 +69,7 @@ permalink: /our-work/
             <p>To contact the Mutual Aid Working Group, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Working Group">mutualaid@bhamdsa.org</a>.
             <div class="contentSection" id="palestineWG">
             <h2>Palestine Working Group</h2>
-            <h5>Co-Chairs: Ryane B. (they/them) and Leon O. (he/him)</h5>
+            <h5>Co-Chairs: Ryane B. (they/them), Leon O. (he/him), and Colin R. (he/him)</h5>
             <hr>
             <p><b>Our Palestine Working Group is currently organizing our chapter's <a href="https://www.dsausa.org/calendar/stop-fueling-genocide-campaign-launch/">"Stop Fueling Genocide" priority campaign</a>. E-mail them at <a href="mailto:info@bhamdsa.org?subject=Question for Stop Fueling Genocide campaign">info@bhamdsa.org</a> to learn more about this campaign.</b>
             
