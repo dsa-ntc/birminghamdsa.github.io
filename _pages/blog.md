@@ -19,4 +19,4 @@ redirect_from: /statements/
 
 <script src="https://substackapi.com/embeds/feed.js" async></script>
 
-Read more articles at [our Substack page](https://bhamdsa.substack.com)
+<div style="text-align:center">Read more articles at [our Substack page](https://bhamdsa.substack.com).</div>
