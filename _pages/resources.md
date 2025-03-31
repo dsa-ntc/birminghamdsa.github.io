@@ -15,6 +15,10 @@ permalink: /resources/
 
 [What is DSA? An Introduction.](https://www.dsausa.org/organize/intro_to_dsa/)
 
+[Bham DSA's "What is Democratic Socialism?" trifold brochure (color)](https://drive.google.com/file/d/19tOiMHLT6owgvKPRcbur3-4NfpCAJagR/view?usp=sharing)
+
+[Bham DSA's "What is Democratic Socialism?" trifold brochure (black and white)](https://drive.google.com/file/d/19tOiMHLT6owgvKPRcbur3-4NfpCAJagR/view?usp=sharing)
+
 [Subscribe to our email bulletin here!](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
 
 [DSA Code of Conduct for Members](https://www.dsausa.org/dsa-code-of-conduct-for-members/) (adopted as Birmingham DSA's Code of Conduct by resolution in May 2022)
