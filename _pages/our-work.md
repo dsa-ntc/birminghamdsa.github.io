@@ -153,4 +153,4 @@ permalink: /our-work/
 
            <p>To contact the Outreach Subcommittee, e-mail <a href="mailto:comms@bhamdsa.org?subject=Question for Outreach Subcommittee">comms@bhamdsa.org</a>.
 <p>
-           <i>This page was last updated on November, 30, 2024.</i>
+           <i>This page was last updated on April 8, 2025.</i>
