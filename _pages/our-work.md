@@ -34,7 +34,6 @@ permalink: /our-work/
         </div>
        <div class="contentSection" id="electoralWG">
             <h2>Electoral & Legislative Working Group</h2>
-            <h5>Chair: Chris N. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Electoral & Legislative Working Group, we aim to guide and inform electoral and legislative organizing within Birmingham DSA.
 
@@ -91,7 +90,7 @@ permalink: /our-work/
         </div>
         <div class="contentSection" id="AFROSOC">
             <h2>AfroSocialists and Socialists of Color (AFROSOC)</h2>
-            <h5>Contact: Jason K. (he/him)</h5>
+            <h5>Chair: Stephen P. (he/him)</h5>
             <hr>
             <p>Birmingham DSA AFROSOC Section’s mission is to end racism and capitalism, also known as racial capitalism. We recognize that racial capitalism has evolved from colonialism and imperialism, and further enables the ruling class’s exploitation of all life on this planet and the planet itself. 
             
@@ -136,6 +135,7 @@ permalink: /our-work/
             <p>To contact the Birmingham DSA Steering Committee, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question for Steering">steering@bhamdsa.org</a>.
         <div class="contentSection" id="communicationsCommittee">
             <h2>Communications Committee</h2>
+           <h5>Chair: Jason K. (he/him)</h5>
             <hr>
            <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. 
 
