@@ -22,7 +22,7 @@ permalink: /our-work/
         <a class="levelOneLink" href="#Committees">COMMITTEES</a><br />
         <a class="levelTwoLink" href="#steeringCommittee">Steering Committee</a><br />
         <a class="levelTwoLink" href="#communicationsCommittee">Communications Committee</a><br />
-        <a class="levelTwoLink" href="#engagementSubcommittee">Engagement Subcommittee</a><br />
+        <a class="levelTwoLink" href="#engagementCommittee">Engagement Committee</a><br />
         <a class="levelTwoLink" href="#outreachSubcommittee">Outreach Subcommittee</a><br />        
     </div>
     <div class="sectionedContent">
@@ -143,7 +143,7 @@ permalink: /our-work/
         <div class="contentSection" id="engagementCommittee">
             <h2>Engagement Committee</h2>
             <hr>
-           <p>The Engagement Committee guides and informs how Birmingham DSA engages with new, prospective, and existing members.
+           <p>The Engagement Committee guides and informs how Birmingham DSA engages with new, prospective, and existing members. This includes organizing our Birmingham DSA 101 learning events, social events, and more.
 
            <p>To contact the Engagement Committee, e-mail <a href="mailto:engagement@bhamdsa.org?subject=Question for Engagement Committee">engagement@bhamdsa.org</a>.
         <div class="contentSection" id="outreachSubcommittee">
