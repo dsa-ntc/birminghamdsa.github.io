@@ -140,12 +140,12 @@ permalink: /our-work/
            <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. 
 
            <p>To contact the Communications Committee, e-mail <a href="mailto:comms@bhamdsa.org?subject=Question for Comms Committee">comms@bhamdsa.org</a>.
-        <div class="contentSection" id="engagementSubcommittee">
-            <h2>Engagement Subcommittee</h2>
+        <div class="contentSection" id="engagementCommittee">
+            <h2>Engagement Committee</h2>
             <hr>
-           <p>The Engagement Subcommittee is a subdivision of Birmingham DSA's Communications Committee. It guides and informs how Birmingham DSA engages with new, prospective, and existing members.
+           <p>The Engagement Committee guides and informs how Birmingham DSA engages with new, prospective, and existing members.
 
-           <p>To contact the Engagement Subcommittee, e-mail <a href="mailto:engagement@bhamdsa.org?subject=Question for Engagement Subcommittee">engagement@bhamdsa.org</a>.
+           <p>To contact the Engagement Committee, e-mail <a href="mailto:engagement@bhamdsa.org?subject=Question for Engagement Committee">engagement@bhamdsa.org</a>.
         <div class="contentSection" id="outreachSubcommittee">
             <h2>Outreach Subcommittee</h2>
             <hr>
