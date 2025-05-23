@@ -4,12 +4,12 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-- Add our <b>[Google Calendar](https://calendar.google.com/calendar/u/1?cid=Z3ZncjcxMjR2aWVkZ2t2a2hpZzY1dWw2cW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)</b> to yours.
+* Add our <b>[Google Calendar](https://calendar.google.com/calendar/u/1?cid=Z3ZncjcxMjR2aWVkZ2t2a2hpZzY1dWw2cW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)</b> to yours.
 
-- Become a <b>[dues-paying member](https://dsausa.org/join)</b> of Birmingham DSA today! We only want our members, not the ruling class, making and influencing our decisions. That's why we only want to take our members' money. Want to make and influence our decisions? [Join DSA today](https://dsausa.org/join). 
+* Become a <b>[dues-paying member](https://dsausa.org/join)</b> of Birmingham DSA today! We only want our members, not the ruling class, making and influencing our decisions. That's why we only want to take our members' money. Want to make and influence our decisions? [Join DSA today](https://dsausa.org/join). 
 
-- If you join, be sure to join at the <b>Monthly Solidarity Income Based Dues or Monthly Membership Movement Builder levels</b>. 
-    - This is so Bham DSA gets approximately 30% of your dues deposited directly into our checking account (this doesn't happen if you pay at the yearly or one-time levels).
+* If you join, be sure to join at the <b>Monthly Solidarity Income Based Dues or Monthly Membership Movement Builder levels</b>. 
+    * This is so Bham DSA gets approximately 30% of your dues deposited directly into our checking account (this doesn't happen if you pay at the yearly or one-time levels).
 
 - Pay dues yearly or one-time? Are you on a dues waiver? <b>[Switch to monthly dues today](https://dsausa.org/join)</b>. 
     - If you pay dues at the Monthly Solidarity Income Based Dues or Monthly Membership Movement Builder levels, 30% of your dues are deposited directly into Birmingham DSA's checking account. This doesn't happen if you pay at the yearly or one-time levels
