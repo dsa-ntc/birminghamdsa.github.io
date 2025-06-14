@@ -15,13 +15,15 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 lang: "en_US"
 title: "Birmingham DSA"
 description: "Homepage for the Birmingham Democratic Socialists of America"
+tagline: Homepage for the Birmingham Democratic Socialists of America"
 url: # site url e.g. "https://manid2.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 author: mani_d2
 twitter:
-  username: mani_d2 # should be site's username
+  username: bhamdsa # should be site's username
   card: summary
 logo: assets/images/smalllogo.png # PNG is SEO friendly
+image: assets/images/2024_Logo_Full_Color.png
 # use below when there are social links for site
 #social:
 #  name: Mani Kumar
@@ -52,6 +54,9 @@ atom_feed:
 search: # true, false (default)
 search_full_content: # true, false (default)
 search_provider: # google
+
+facebook:
+  publisher: https://www.facebook.com/BhamDSA
 
 google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
