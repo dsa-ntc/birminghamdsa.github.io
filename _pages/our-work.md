@@ -8,7 +8,6 @@ permalink: /our-work/
     <div class="scrollableSections">
         <!-- WORKING GROUPS -->
         <a class="levelOneLink" href="#workinggroups">WORKING GROUPS</a><br />
-        <a class="levelTwoLink" href="#electoralWG">Electoral & Legislative Working Group</a><br />
         <a class="levelTwoLink" href="#laborWG">Labor Working Group</a><br />
         <a class="levelTwoLink" href="#mutualAidWG">Mutual Aid Working Group</a><br />
         <a class="levelTwoLink" href="#palestineWG">Palestine Working Group</a><br />
@@ -22,8 +21,7 @@ permalink: /our-work/
         <a class="levelOneLink" href="#Committees">COMMITTEES</a><br />
         <a class="levelTwoLink" href="#steeringCommittee">Steering Committee</a><br />
         <a class="levelTwoLink" href="#communicationsCommittee">Communications Committee</a><br />
-        <a class="levelTwoLink" href="#engagementCommittee">Engagement Committee</a><br />
-        <a class="levelTwoLink" href="#outreachSubcommittee">Outreach Subcommittee</a><br />        
+        <a class="levelTwoLink" href="#membershipCommittee">Membership Committee</a><br />    
     </div>
     <div class="sectionedContent">
         <!-- WORKING GROUP -->
@@ -32,16 +30,6 @@ permalink: /our-work/
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
-       <div class="contentSection" id="electoralWG">
-            <h2>Electoral & Legislative Working Group</h2>
-            <hr>
-            <p>As Birmingham DSA's Electoral & Legislative Working Group, we aim to guide and inform electoral and legislative organizing within Birmingham DSA.
-
-            <p>Currently, we're developing an "Alabama Workers" platform, mapping our available resources (including the voting electorate), and much more. 
-            
-            <p>We hold monthly meetings as well as weekly discussions.
-            
-            <p>To contact the Electoral & Legislative Working Group, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Electoral & Legislative Working Group">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="laborWG">
             <h2>Labor Working Group</h2>
             <h5>Chair: Julian G. (he/him)</h5>
@@ -135,22 +123,16 @@ permalink: /our-work/
             <p>To contact the Birmingham DSA Steering Committee, e-mail <a href="mailto:steering@bhamdsa.org?subject=Question for Steering">steering@bhamdsa.org</a>.
         <div class="contentSection" id="communicationsCommittee">
             <h2>Communications Committee</h2>
-           <h5>Chair: Jason K. (he/him)</h5>
+           <h5>Chair: Jenny M. (she/her)</h5>
             <hr>
-           <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. 
+           <p>The Communications Committee assists the Communications Officer, who chairs the committee, in managing the chapter's external and internal communications. The Communications Committee also currently guides Birmingham DSA's outreach to people not in our known network.
 
            <p>To contact the Communications Committee, e-mail <a href="mailto:comms@bhamdsa.org?subject=Question for Comms Committee">comms@bhamdsa.org</a>.
-        <div class="contentSection" id="engagementCommittee">
-            <h2>Engagement Committee</h2>
+        <div class="contentSection" id="membershipCommittee">
+            <h2>Membership Committee</h2>
             <hr>
-           <p>The Engagement Committee guides and informs how Birmingham DSA engages with new, prospective, and existing members. This includes organizing our Birmingham DSA 101 learning events, social events, and more.
+           <p>The Membership Committee guides and informs how Birmingham DSA engages with new, prospective, and existing members. This includes organizing our Birmingham DSA 101 learning events, social events, and more.
 
-           <p>To contact the Engagement Committee, e-mail <a href="mailto:engagement@bhamdsa.org?subject=Question for Engagement Committee">engagement@bhamdsa.org</a>.
-        <div class="contentSection" id="outreachSubcommittee">
-            <h2>Outreach Subcommittee</h2>
-            <hr>
-           <p>The Outreach Subcommittee is a subdivision of Birmingham DSA's Communications Committee. It guides and informs how Birmingham DSA engages with people who are not in the chapter's existing network. 
-
-           <p>To contact the Outreach Subcommittee, e-mail <a href="mailto:comms@bhamdsa.org?subject=Question for Outreach Subcommittee">comms@bhamdsa.org</a>.
+           <p>To contact the Membership Committee, e-mail <a href="mailto:engagement@bhamdsa.org?subject=Question for Membership Committee">engagement@bhamdsa.org</a>.
 <p>
-           <i>This page was last updated on April 8, 2025.</i>
+           <i>This page was last updated on June 23, 2025.</i>
