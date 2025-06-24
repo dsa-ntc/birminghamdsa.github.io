@@ -157,6 +157,6 @@ permalink: /our-work/
             <hr>
            <p>The Membership Committee guides and informs how Birmingham DSA engages with new, prospective, and existing members. This includes organizing our Birmingham DSA 101 learning events, social events, and more.
 
-           <p>To contact the Membership Committee, e-mail <a href="mailto:engagement@bhamdsa.org?subject=Question for Membership Committee">engagement@bhamdsa.org</a>.
+           <p>To contact the Membership Committee, e-mail <a href="mailto:membership@bhamdsa.org?subject=Question for Membership Committee">membership@bhamdsa.org</a>.
 <p>
            <i>This page was last updated on June 23, 2025.</i>
