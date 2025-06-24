@@ -8,6 +8,7 @@ permalink: /our-work/
     <div class="scrollableSections">
         <!-- WORKING GROUPS -->
         <a class="levelOneLink" href="#workinggroups">WORKING GROUPS</a><br />
+        <a class="levelTwoLink" href="immigrationWG">Immigration Working Group</a><br />
         <a class="levelTwoLink" href="#laborWG">Labor Working Group</a><br />
         <a class="levelTwoLink" href="#mutualAidWG">Mutual Aid Working Group</a><br />
         <a class="levelTwoLink" href="#palestineWG">Palestine Working Group</a><br />
@@ -15,6 +16,7 @@ permalink: /our-work/
         <!-- MEMBER SECTIONS -->
         <a class="levelOneLink" href="#memberSections">MEMBER SECTIONS</a><br />
         <a class="levelTwoLink" href="#AFROSOC">AfroSocialists and Socialists of Color (AFROSOC)</a><br />
+        <a class="levelTwoLink" href="#DSS">Disabled Socialists Section (DSS)</a><br />
         <a class="levelTwoLink" href="#QUEERSOC">Queer Socialists Section (QUEERSOC)</a><br />
         <br>
         <!-- COMMITTEES -->
@@ -30,6 +32,17 @@ permalink: /our-work/
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
+       <div class="contentSection" id="immigrationWG">
+            <h2>Immigration Working Group</h2>
+            <h5>Co-Chairs: Madeleine F. (she/her) and River R. (xe/xir/xirs)</h5>
+            <hr>
+            <p>As Birmingham DSA's Immigration Working Group, we aim to to work in solidarity with immigrant communities in the greater Birmingham area by providing education, resources, and direct support.
+            
+            <p> We aim to address unmet needs within the existing economic, governmental, and social systems by building community power and advocating for immigrant rights. This includes through organizing events, providing transportation assistance, supporting language learning, and collaborating with other immigrant rights organizations. We also aim to make Birmingham DSA more welcoming and accessible to working-class Central Alabamians who speak a language other than English.
+            
+            <p>We hold biweekly meetings.
+            
+            <p>To contact the Immigration Working Group, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Immigration Working Group">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="laborWG">
             <h2>Labor Working Group</h2>
             <h5>Chair: Julian G. (he/him)</h5>
@@ -87,9 +100,19 @@ permalink: /our-work/
             <p>Any person in the Birmingham and Tuscaloosa metropolitan areas who self-identify as BIPOC can become a voting member of AFROSOC. Birmingham DSA and/or DSA membership is not required to be a voting member of AFROSOC.
 
             <p>To contact Birmingham DSA's AFROSOC Section, e-mail <a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">afrosoc@bhamdsa.org</a>.
+            <div class="contentSection" id="DSS">
+            <h2>Disabled Socialists Section (DSS)</h2>
+            <h5>Chairs: Ace H. (he/him) and Kris T. (he/him)</h5>
+            <hr>
+            <p>The mission of Birmingham DSA's Disabled Socialists Section (DSS) is to end ableism and capitalism, as well as to provide a safe space for disabled socialists to organize around issues of their designation. We recognize ableist capitalism has evolved from colonialism and imperialism and further enables the ruling class’s exploitation of all life on this planet. To pursue this mission, we affirm a collective gathering space for disabled socialists in Birmingham and Tuscaloosa to grow, find support, organize, and take action by empowering disabled socialists in and outside of their local communities. 
+
+           <p> We aim to do this through regular meetings, electing officers, and promoting/organizing events through common channels. 
+            
+            <p>Any person in the Birmingham and Tuscaloosa metropolitan areas who self-identifies as disabled can become a voting member of DSS. Birmingham DSA and/or DSA membership is not required to be a voting member of DSS.
+
+            <p>To contact DSS, e-mail <a href="mailto:dss@bhamdsa.org?subject=Question for DSS">dss@bhamdsa.org</a>.
              <div class="contentSection" id="QUEERSOC">
             <h2>Queer Socialists Section (QUEERSOC)</h2>
-            <h5>Co-Chairs: Lillian C. (they/them) and Oliver O. (he/she/they)</h5>
             <hr>
             <p>Birmingham DSA Queer Socialists Section (QUEERSOC) serves as a formation to advocate and build power for our Queer-identifying members. 
             
