@@ -71,7 +71,7 @@ permalink: /our-work/
             <h2>Palestine Working Group</h2>
             <h5>Co-Chairs: Ryane B. (they/them), Leon O. (he/him), and Colin R. (he/him)</h5>
             <hr>
-            <p><b>Our Palestine Working Group is currently organizing our chapter's <a href="https://www.dsausa.org/calendar/stop-fueling-genocide-campaign-launch/">"Stop Fueling Genocide" priority campaign</a>. E-mail them at <a href="mailto:info@bhamdsa.org?subject=Question for Stop Fueling Genocide campaign">info@bhamdsa.org</a> to learn more about this campaign.</b>
+            <p><i>Our Palestine Working Group is currently organizing around their <a href="https://www.dsausa.org/calendar/stop-fueling-genocide-campaign-launch/">"Stop Fueling Genocide" campaign</a>. E-mail them at <a href="mailto:info@bhamdsa.org?subject=Question for Stop Fueling Genocide campaign">info@bhamdsa.org</a> to learn more about this campaign.</i>
             
             <p>As Birmingham DSA's Palestine Working Group, we aim to organize Birminghamians and Tuscaloosans into solidarity actions with Palestine. We aim to form a structured coalition with other local organizations who have been focused on Palestine work and demonstrations. 
             
@@ -114,6 +114,7 @@ permalink: /our-work/
              <div class="contentSection" id="QUEERSOC">
             <h2>Queer Socialists Section (QUEERSOC)</h2>
             <hr>
+            <p><i>QUEERSOC is currently organizing around a "Trans Sanctuary" campaign</a>. E-mail them at <a href="mailto:queersoc@bhamdsa.org?subject=Question for Trans Sanctuary campaign">queersoc@bhamdsa.org</a> to learn more about this campaign.</i>
             <p>Birmingham DSA Queer Socialists Section (QUEERSOC) serves as a formation to advocate and build power for our Queer-identifying members. 
             
             <p>To pursue this mission, we affirm a collective gathering space for QUEERSOC socialists in Birmingham and Tuscaloosa to grow, find support, organize, and take action. 
