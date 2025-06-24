@@ -8,7 +8,7 @@ permalink: /our-work/
     <div class="scrollableSections">
         <!-- WORKING GROUPS -->
         <a class="levelOneLink" href="#workinggroups">WORKING GROUPS</a><br />
-        <a class="levelTwoLink" href="immigrationWG">Immigration Working Group</a><br />
+        <a class="levelTwoLink" href="#immigrationWG">Immigration Working Group</a><br />
         <a class="levelTwoLink" href="#laborWG">Labor Working Group</a><br />
         <a class="levelTwoLink" href="#mutualAidWG">Mutual Aid Working Group</a><br />
         <a class="levelTwoLink" href="#palestineWG">Palestine Working Group</a><br />
