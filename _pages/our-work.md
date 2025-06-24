@@ -32,7 +32,7 @@ permalink: /our-work/
             <hr>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eveniet, voluptatem dignissimos hic ipsam itaque ab provident? Repellat, eius dolorem asperiores quibusdam minus, magnam cum consequuntur quasi perspiciatis illum nostrum.</p> -->
         </div>
-       <div class="contentSection" id="immigrationWG">
+       <div class="contentSection" id="immigrationWG"> 
             <h2>Immigration Working Group</h2>
             <h5>Co-Chairs: Madeleine F. (she/her) and River R. (xe/xir/xirs)</h5>
             <hr>
@@ -102,7 +102,7 @@ permalink: /our-work/
             <p>To contact Birmingham DSA's AFROSOC Section, e-mail <a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">afrosoc@bhamdsa.org</a>.
             <div class="contentSection" id="DSS">
             <h2>Disabled Socialists Section (DSS)</h2>
-            <h5>Chairs: Ace H. (he/him) and Kris T. (he/him)</h5>
+            <h5>Co-Chairs: Ace H. (he/him) and Kris T. (he/him)</h5>
             <hr>
             <p>The mission of Birmingham DSA's Disabled Socialists Section (DSS) is to end ableism and capitalism, as well as to provide a safe space for disabled socialists to organize around issues of their designation. We recognize ableist capitalism has evolved from colonialism and imperialism and further enables the ruling class’s exploitation of all life on this planet. To pursue this mission, we affirm a collective gathering space for disabled socialists in Birmingham and Tuscaloosa to grow, find support, organize, and take action by empowering disabled socialists in and outside of their local communities. 
 
