@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bulletin
+title: Stand by to be redirected to our e-mail bulletin signup form...
 permalink: /bulletin/
 ---
 
