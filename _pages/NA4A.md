@@ -13,7 +13,7 @@ Being Apartheid-Free may look a little different for each business, but at a min
 <ul>
     <li>Pledge not to sell the products targeted by this boycott.</li>
     <li>Pledge not to use boycott target products at your business.</li>
-    <li>Publicly declare yourself Apartheid-Free. We will provide you with a sign for your space, a logo for your website or social media accounts, and will add you to our list of Apartheid-Free Zones. </li>
+    <li>Publicly declare yourself Apartheid-Free. We will provide you with a sign for your space, a logo for your website or social media accounts, and will add you to our [list of Apartheid-Free Zones.](bhamdsa.org/apartheidfreezones)</li>
 </ul>
 
 You can decide how you want to participate beyond that, including:
@@ -24,9 +24,9 @@ You can decide how you want to participate beyond that, including:
 
 ## What products are we boycotting?
 
-The BDS movement focuses on targeted boycotts inspired by the South African anti-apartheid movement, the US Civil Rights movement, the Indian anti-colonial struggle, and others. We follow the [BDS movement’s](https://bdsmovement.net/BDS-Guide-Strategic-Campaigning) lead in strategically focusing on a small number of companies and products for maximum impact. We need to target companies that play a clear and direct role in Israel’s crimes and where there is real potential for impact.
+The BDS movement focuses on targeted boycotts inspired by the South African anti-apartheid movement, the US Civil Rights movement, the Indian anti-colonial struggle, and others. We follow the [BDS movement’s](https://bdsmovement.net/BDS-Guide-Strategic-Campaigning) lead in strategically focusing on a small number of companies and products for maximum impact. [We need to target companies that play a clear and direct role in Israel’s crimes and where there is real potential for impact.](https://www.bdsmovement.net/Guide-to-BDS-Boycott)
 
-The BDS movement targets [complicity, not identity.](https://www.bdsmovement.net/Guide-to-BDS-Boycott)
+(List of boycott targets.)[bhamdsa.org/na4atargets)
 
 ## What happens after I sign the pledge?
 
@@ -34,7 +34,7 @@ If you’re a business owner, we’ll follow up with you soon after you sign to 
 
 ## Resources
 
-[Apartheid-Free Zones within Birmingham](bhamdsa.org/na4abusiness)
+[Apartheid-Free Zones within Birmingham](bhamdsa.org/apartheidfreezones)
 
 [No Appetite for Apartheid](na4a.org)
 
