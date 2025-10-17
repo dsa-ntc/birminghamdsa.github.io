@@ -11,11 +11,9 @@ img src="BDS_targets.png" alt="BDS targets"
 ## What products are we boycotting? 
 [List from NA4A campaign website.](https://na4a.org)
 
-<ul>
-    <li>__Sabra__:founded by Strauss group, sponsor of the IOF and “authorized supplier” to the “defense ministry” and now owned by PepsiCo (also on the BDS list!)</li>
-   <li>__Israeli wines__: wineries often operate in illegal settlements or use settlement-grown grapes.</li>
-    <li>__Sadaf__: USPCN has called for a boycott of this brand, who masquerade as “Middle Eastern” to infiltrate and profit off Palestinian & Arab communities while materially supporting Zionist settler economies and lobbying.</li>
-</ul>
++ __Sabra__:founded by Strauss group, sponsor of the IOF and “authorized supplier” to the “defense ministry” and now owned by PepsiCo (also on the BDS list!)
++ __Israeli wines__: wineries often operate in illegal settlements or use settlement-grown grapes.
++ __Sadaf__: USPCN has called for a boycott of this brand, who masquerade as “Middle Eastern” to infiltrate and profit off Palestinian & Arab communities while materially supporting Zionist settler economies and lobbying.
 
 Any produce labeled “Made In Israel” including:
 <ul>
