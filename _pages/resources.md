@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 ## Email Bulletin
 
-[Subscribe to our email bulletin here!](https://bhamdsa.org/blast)
+[Subscribe to our email bulletin here!](https://bhamdsa.org/blast) 
 
 ## Active Interest Forms
 
