@@ -4,10 +4,6 @@ title: "Birmingham Against Apartheid"
 permalink: /NA4A/
 ---
 
-<picture>
-   <img src="/assets/images/NA4A-Website-Banner.png" alt="NA4A Banner" />
-</picture>
-
 No Appetite for Apartheid is a national boycott campaign launched by the Palestine Solidarity Working Group and powered by a growing number of local grassroots coalitions. 
 
 Birmingham DSA is canvassing local stores in our community and asking them to pledge to become Apartheid-Free Zones by dropping food products and companies that are complicit in the colonization of Palestine from their shelves. We are asking consumers to boycott the products on our target list, and to support local Apartheid Free Stores.
