@@ -4,11 +4,8 @@ title: "Birmingham Against Apartheid"
 permalink: /NA4A/
 ---
 
-![NA4A Banner](/blob/014fe0750faea92e50df48c5176d0c70b0cba87d/assets/images/NA4A-Website-Banner.png)
-
 <picture>
-   <source media="(min-width: 768px)" srcset="NA4A-Website-Banner.png" />
-   <source media="(min-width: 500px)" srcset="NA4A-Website-Banner.png" />
+   <source media="(max-width: 500px)" srcset="NA4A-Website-Banner.png" />
    <img src="/assets/images/NA4A-Website-Banner.png" alt="Banner image" />
 </picture>
 
