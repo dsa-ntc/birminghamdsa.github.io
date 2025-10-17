@@ -13,7 +13,7 @@ Birmingham DSA is canvassing local stores in our community and asking them to pl
 Being Apartheid-Free may look a little different for each business, but at a minimum we ask that you:
 + Pledge not to sell the products targeted by this boycott.
 + Pledge not to use boycott target products at your business.
-+ Publicly declare yourself Apartheid-Free. We will provide you with a sign for your space, a logo for your website or social media accounts, and will add you to our list of [Apartheid-Free Zones](https://bhamdsa.org/na4atargets).
++ Publicly declare yourself Apartheid-Free. We will provide you with a sign for your space, a logo for your website or social media accounts, and will add you to our list of [Apartheid-Free Zones](https://bhamdsa.org/apartheidfreezones).
 
 You can decide how you want to participate beyond that, including:
 + Providing flyers for your customers that link to our educational materials. 
