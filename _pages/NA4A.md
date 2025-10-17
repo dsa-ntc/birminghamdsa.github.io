@@ -13,7 +13,7 @@ Being Apartheid-Free may look a little different for each business, but at a min
 <ul>
     <li>Pledge not to sell the products targeted by this boycott.</li>
     <li>Pledge not to use boycott target products at your business.</li>
-    <li>Publicly declare yourself Apartheid-Free. We will provide you with a sign for your space, a logo for your website or social media accounts, and will add you to our [list of Apartheid-Free Zones.](https://bhamdsa.org/apartheidfreezones)</li>
+    <li>Publicly declare yourself Apartheid-Free. We will provide you with a sign for your space, a logo for your website or social media accounts, and will add you to our [list of Apartheid-Free Zones](https://bhamdsa.org/apartheidfreezones). </li>
 </ul>
 
 You can decide how you want to participate beyond that, including:
