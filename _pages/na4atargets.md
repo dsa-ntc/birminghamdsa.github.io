@@ -6,8 +6,6 @@ permalink: /na4atargets/
 
 We follow the BDS movement’s lead in strategically focusing on a small number of companies and products for maximum impact. For more information, see the [Guide to BDS Boycott and Pressure Corporate Priority Targetting](https://www.bdsmovement.net/Guide-to-BDS-Boycott) from the BDS Movement.
 
-![BDS Targets](/assets/images/BDS-Targets.png)
-
 ## What products are we boycotting? 
 [List from NA4A campaign website.](https://na4a.org)
 
