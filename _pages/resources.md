@@ -33,9 +33,9 @@ Members in good standing have access to our WhatsApp Community, our central digi
 
 [Birmingham DSA monthly local dues](https://bhamdsa.org/localdues) (these dues are currently optional for members)
 
-[Facebook](https://bhamdsa.org/facebook)
+[Bham DSA on Facebook](https://bhamdsa.org/facebook)
 
-[Instagram](https://bhamdsa.org/instagram)
+[Bham DSA on Instagram](https://bhamdsa.org/instagram)
 
 ## Immigration Working Group
 
