@@ -5,7 +5,7 @@ permalink: /NA4A/
 ---
 No Appetite for Apartheid is a national boycott campaign launched by the Palestine Solidarity Working Group and powered by a growing number of local grassroots coalitions. 
 
-Birmingham DSA is canvassing local stores in our community and asking them to pledge to become Apartheid Free Zones by dropping food products and companies that are complicit in the colonization of Palestine from their shelves. We are asking consumers to boycott the products on our target list, and to support local Apartheid Free Stores.
+Birmingham DSA is canvassing local stores in our community and asking them to pledge to become Apartheid-Free Zones by dropping food products and companies that are complicit in the colonization of Palestine from their shelves. We are asking consumers to boycott the products on our target list, and to support local Apartheid Free Stores.
 
 ## What does it mean to be an Apartheid-Free Business?
 
@@ -24,9 +24,9 @@ You can decide how you want to participate beyond that, including:
 
 ## What products are we boycotting?
 
-The BDS movement focuses on targeted boycotts inspired by the South African anti-apartheid movement, the US Civil Rights movement, the Indian anti-colonial struggle, and others. We follow the BDS movement’s lead in strategically focusing on a small number of companies and products for maximum impact. We need to target companies that play a clear and direct role in Israel’s crimes and where there is real potential for impact.
+The BDS movement focuses on targeted boycotts inspired by the South African anti-apartheid movement, the US Civil Rights movement, the Indian anti-colonial struggle, and others. We follow the [BDS movement’s](https://bdsmovement.net/BDS-Guide-Strategic-Campaigning) lead in strategically focusing on a small number of companies and products for maximum impact. We need to target companies that play a clear and direct role in Israel’s crimes and where there is real potential for impact.
 
-The BDS movement targets complicity, not identity.
+The BDS movement targets [complicity, not identity.](https://www.bdsmovement.net/Guide-to-BDS-Boycott)
 
 ## What happens after I sign the pledge?
 
@@ -34,6 +34,9 @@ If you’re a business owner, we’ll follow up with you soon after you sign to 
 
 ## Resources
 
-[National No Appetite for Apartheid Campign Website](na4a.org)
+[Apartheid-Free Zones within Birmingham](bhamdsa.org/na4abusiness)
+
+[No Appetite for Apartheid](na4a.org)
+
 
 
