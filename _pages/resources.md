@@ -5,9 +5,11 @@ permalink: /resources/
 ---
 ## Email Bulletin
 
-[Subscribe to our email bulletin here!](https://actionnetwork.org/forms/birmingham-dsa-e-mail-bulletin-subscription-form/)
+[Subscribe to our email bulletin here!](https://bhamdsa.org/blast)
 
 ## Active Interest Forms
+
+[Bham Migra Watch interest form](https://actionnetwork.org/forms/ice-watch-interest-form)
 
 [Stop Fueling Genocide: sign up here to learn more and get involved with our current priority campaign!](https://actionnetwork.org/forms/stop-fueling-genocide-birmingham-local-campaign-sign-up)
 
@@ -19,29 +21,31 @@ permalink: /resources/
 
 [Bham DSA's "What is Democratic Socialism?" trifold brochure (black and white)](https://drive.google.com/file/d/1eQnEjbi4a8pWfZ_-rb2wwpFEXRvZMT1p/view?usp=sharing)
 
-[Subscribe to our email bulletin here!](https://actionnetwork.org/forms/birmingham-dsa-biweekly-bulletin-subscription-form)
+[Subscribe to our email bulletin here!](https://bhamdsa.org/blast)
 
 [DSA Code of Conduct for Members](https://www.dsausa.org/dsa-code-of-conduct-for-members/) (adopted as Birmingham DSA's Code of Conduct by resolution in May 2022)
 
 [DSA Meeting Code of Conduct](https://www.dsausa.org/resources/harassment-and-grievance/dsa-meeting-code-of-conduct-4-7-2020/) (adopted as Birmingham DSA's Meeting Code of Conduct by resolution in May 2022)
 
-<b>Harassment Grievance Disclosure</b>: If you experience or witness harassment in any DSA space, you may report it to our chapter’s harassment grievance officers (HGOs) at <a href="mailto:grievance@bhamdsa.org">grievance [a] bhamdsa {dot} org</a>. All reports will remain confidential with our HGOs. The full text of our Harassment and Grievance Policy can be found in Section 11 of our [current bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing). <i>(Our chapter's current HGOs are Lauren B. and Anthony H.)</i>
+<b>Harassment Grievance Disclosure</b>: If you experience or witness harassment in any DSA space, you may report it to our chapter’s harassment grievance officers (HGOs) at <a href="mailto:grievance@bhamdsa.org">grievance [a] bhamdsa {dot} org</a>. All reports will remain confidential with our HGOs. The full text of our Harassment and Grievance Policy can be found in Section 11 of our [current bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing). <i>(Our chapter's current HGO is Lauren B.)</i>
 
 Members in good standing have access to our WhatsApp Community, our central digital platform for our day-to-day organizing activities. If you're a member that would like to be added to or WhatsApp Community, email <a href="mailto:steering@bhamdsa.org?subject=WhatsApp Community Access">steering {a} bhamdsa (dot) org</a>.
 
-[Birmingham DSA monthly local dues](https://donorbox.org/bham-dsa-monthly-dues) (these dues are currently optional for members)
+[Birmingham DSA monthly local dues](https://bhamdsa.org/localdues) (these dues are currently optional for members)
+
+[Facebook](https://bhamdsa.org/facebook)
+
+[Instagram](https://bhamdsa.org/instagram)
+
+## Immigration Working Group
+
+[Bham Migra Watch interest form](https://actionnetwork.org/forms/ice-watch-interest-form)
+
+[Letter to Altec CEO](https://docs.google.com/document/d/17h8JeSDqkDjoIZop31b_urJ9vX3o8cv3KseTa1nf0e0/edit?tab=t.0)
 
 ## Labor Working Group
 
 [Scottsboro Starbucks Partners relief fund](https://www.gofundme.com/f/relief-fund-for-scottsboro-starbucks-partners)
-
-## Palestine Working Group
-
-[From National DSA: Let's Organize to Stop Chevron Fueling Genocide](https://www.dsausa.org/democratic-left/lets-organize-to-stop-chevron-fueling-genocide/)
-
-[From US Campaign for Palestinian Rights (USCPR): Stop Gaza Genocide Action Toolkit](https://uscpr.org/stopgazagenocide/)
-
-[Palestinian Boycott, Divestment, and Sanctions (BDS) National Committee](https://bdsmovement.net)
 
 ## Mutual Aid Working Group
 
@@ -55,6 +59,15 @@ Members in good standing have access to our WhatsApp Community, our central digi
 
 [Street Solidarity printable handbills (black and white)](https://drive.google.com/file/d/1o80IsfPr4sq1FbjNGrQJ095dFuOtKIO1/view?usp=sharing)
 
+## Palestine Working Group
+
+[Stop Fueling Genocide: sign up here to learn more and get involved with our current priority campaign!](https://actionnetwork.org/forms/stop-fueling-genocide-birmingham-local-campaign-sign-up)
+
+[From National DSA: Let's Organize to Stop Chevron Fueling Genocide](https://www.dsausa.org/democratic-left/lets-organize-to-stop-chevron-fueling-genocide/)
+
+[From US Campaign for Palestinian Rights (USCPR): Stop Gaza Genocide Action Toolkit](https://uscpr.org/stopgazagenocide/)
+
+[Palestinian Boycott, Divestment, and Sanctions (BDS) National Committee](https://bdsmovement.net)
 
 ## Housing Justice : Resources for Tenants/Renters in Birmingham
 
@@ -70,12 +83,12 @@ Members in good standing have access to our WhatsApp Community, our central digi
 
 ## Miscellaneous Resources
 
-[Birmingham DSA Bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing)
+[Birmingham DSA Bylaws](https://bhamdsa.org/bylaws)
 
 [Check your DSA membership status](https://proof.dsausa.org) 
 
 [DSA Political Education Resources](https://education.dsausa.org/resources/)
 
-[Reimbursement Request Form](https://forms.gle/365iJLQL7Ctb5yYr7)
+[Reimbursement Request Form](https://bhamdsa.org/reimbursementform)
 
 [Tutorial for Digitally Setting Up Chapter Events](https://docs.google.com/document/d/1ajOgPUpSbHnrB1xi82deD2dhX0f53tlrWx6G0ScxGqM/edit?usp=sharing)
