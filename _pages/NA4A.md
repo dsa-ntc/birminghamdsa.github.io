@@ -5,8 +5,7 @@ permalink: /NA4A/
 ---
 
 <picture>
-   <source media="(max-width: 500px)" srcset="NA4A-Website-Banner.png" />
-   <img src="/assets/images/NA4A-Website-Banner.png" alt="Banner image" />
+   <img src="/assets/images/NA4A-Website-Banner.png" alt="NA4A Banner" />
 </picture>
 
 No Appetite for Apartheid is a national boycott campaign launched by the Palestine Solidarity Working Group and powered by a growing number of local grassroots coalitions. 
