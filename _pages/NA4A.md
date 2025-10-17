@@ -10,17 +10,13 @@ Birmingham DSA is canvassing local stores in our community and asking them to pl
 ## What does it mean to be an Apartheid-Free Business?
 
 Being Apartheid-Free may look a little different for each business, but at a minimum we ask that you:
-<ul>
-    <li>Pledge not to sell the products targeted by this boycott.</li>
-    <li>Pledge not to use boycott target products at your business.</li>
-    <li>Publicly declare yourself Apartheid-Free. We will provide you with a sign for your space, a logo for your website or social media accounts, and will add you to our list of Apartheid-Free Zones (see below). </li>
-</ul>
++ Pledge not to sell the products targeted by this boycott.
++ Pledge not to use boycott target products at your business.
++ Publicly declare yourself Apartheid-Free. We will provide you with a sign for your space, a logo for your website or social media accounts, and will add you to our list of [Apartheid-Free Zones](https://bhamdsa.org/na4atargets).
 
 You can decide how you want to participate beyond that, including:
-<ul>
-    <li>Providing flyers for your customers that link to our educational materials. </li>
-    <li>Hosting educational or social events related to the campaign at your business. </li>
-</ul>
++ Providing flyers for your customers that link to our educational materials. 
++ Hosting educational or social events related to the campaign at your business. 
 
 ## What products are we boycotting?
 
@@ -35,6 +31,8 @@ If you’re a business owner, we’ll follow up with you soon after you sign to 
 ## Resources
 
 [Apartheid-Free Zones within Birmingham](https://bhamdsa.org/apartheidfreezones/)
+
+[Boycott Targets](https://bhamdsa.org/na4atargets)
 
 [No Appetite for Apartheid](https://na4a.org)
 
