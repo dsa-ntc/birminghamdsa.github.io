@@ -4,7 +4,7 @@ title: "Birmingham Against Apartheid"
 permalink: /NA4A/
 ---
 
-<img src="https://github.com/dsa-ntc/birminghamdsa.github.io/blob/014fe0750faea92e50df48c5176d0c70b0cba87d/assets/images/NA4A-Website-Banner.png">
+![NA4A Website Banner](/assets/images/NA4A-Website-Banner.png)
 
 No Appetite for Apartheid is a national boycott campaign launched by the Palestine Solidarity Working Group and powered by a growing number of local grassroots coalitions. 
 
