@@ -1,0 +1,9 @@
+---
+layout: page
+title: "Apartheid-Free Zones in Birmingham"
+permalink: /apartheidfreezones/
+---
+
+As businesses within the Birmingham community commit to being Apartheid-Free Zones, they will be added below!
+
+[Back to NA4A](https://bhamdsa.org/NA4A/)
