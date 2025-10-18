@@ -41,7 +41,7 @@ Members in good standing have access to our WhatsApp Community, our central digi
 
 [Bham Migra Watch interest form](https://actionnetwork.org/forms/ice-watch-interest-form)
 
-[Letter to Altec CEO](https://docs.google.com/document/d/17h8JeSDqkDjoIZop31b_urJ9vX3o8cv3KseTa1nf0e0/edit?tab=t.0)
+[Tell Altec: No Profiteering off Racist Abductions!](https://bhamdsa.org/altec)
 
 ## Labor Working Group
 
