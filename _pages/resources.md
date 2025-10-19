@@ -11,7 +11,9 @@ permalink: /resources/
 
 [Bham Migra Watch interest form](https://actionnetwork.org/forms/ice-watch-interest-form)
 
-[Stop Fueling Genocide: sign up here to learn more and get involved with our current priority campaign!](https://actionnetwork.org/forms/stop-fueling-genocide-birmingham-local-campaign-sign-up)
+[Stop Fueling Genocide: sign up here to learn more and get involved with this campaign!](https://actionnetwork.org/forms/stop-fueling-genocide-birmingham-local-campaign-sign-up)
+
+[No Appetite for Apartheid: pledge to support Apartheid-Free businesses and get involved with the campaign!](https://actionnetwork.org/forms/sign-the-pledge-to-join-the-campaign-and-support-apartheid-free-businesses/)
 
 ## For New Members
 
@@ -61,13 +63,19 @@ Members in good standing have access to our WhatsApp Community, our central digi
 
 ## Palestine Working Group
 
+[Birmingham Against Apartheid: Our No Appetite for Apartheid campaign](https://bhamdsa.org/NA4A/)
+
+[No Appetite for Apartheid: pledge to support Apartheid-Free businesses and get involved with the campaign!](https://actionnetwork.org/forms/sign-the-pledge-to-join-the-campaign-and-support-apartheid-free-businesses/)
+
 [Stop Fueling Genocide: sign up here to learn more and get involved with our current priority campaign!](https://actionnetwork.org/forms/stop-fueling-genocide-birmingham-local-campaign-sign-up)
+
+[Pledge to boycott Chevron here!](https://actionnetwork.org/letters/boycottchevron?source=direct_link&referrer=group-dsa-international-committee)
 
 [From National DSA: Let's Organize to Stop Chevron Fueling Genocide](https://www.dsausa.org/democratic-left/lets-organize-to-stop-chevron-fueling-genocide/)
 
 [From US Campaign for Palestinian Rights (USCPR): Stop Gaza Genocide Action Toolkit](https://uscpr.org/stopgazagenocide/)
 
-[Palestinian Boycott, Divestment, and Sanctions (BDS) National Committee](https://bdsmovement.net)
+[Palestinian Boycott, Divestment, and Sanctions (BDS) National Committee](https://bdsmovement.net/Guide-to-BDS-Boycott)
 
 ## Housing Justice : Resources for Tenants/Renters in Birmingham
 
