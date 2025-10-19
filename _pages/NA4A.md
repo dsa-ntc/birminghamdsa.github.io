@@ -3,6 +3,9 @@ layout: page
 title: "Birmingham Against Apartheid"
 permalink: /NA4A/
 ---
+
+[Sign the Pledge (For Businesses)](https://actionnetwork.org/forms/no-appetite-for-apartheid-business-pledge-2/) | [Sign the Pledge (For Consumers)](https://actionnetwork.org/forms/sign-the-pledge-to-join-the-campaign-and-support-apartheid-free-businesses/)
+
 Birmingham DSA is an autonomous and democratically organized chapter of the Democratic Socialists of America. The No Appetite for Apartheid campaign is being led locally by our Palestine Working Group, where we are encouraging local grocers to pledge to become Apartheid-Free Stores by dropping food products and companies that are complicit in the Israeli colonization of Palestine from their shelves. 
 
 We are asking consumers to boycott the products on our target list and to support [local Apartheid-Free Stores](https://bhamdsa.org/apartheidfreezones). [No Appetite for Apartheid](https://na4a.org/) is a national boycott campaign launched by the [Palestine Solidarity Working Group](https://palestineswg.org/) and powered by a growing number of local grassroots coalitions (now including Birmingham DSA!)
@@ -37,6 +40,8 @@ We will follow up with you soon after you [sign the pledge](https://actionnetwor
 ### Resources
 
 [Sign the Pledge (For Businesses)](https://actionnetwork.org/forms/no-appetite-for-apartheid-business-pledge-2/)
+
+[Sign the Pledge (For Consumers)](https://actionnetwork.org/forms/sign-the-pledge-to-join-the-campaign-and-support-apartheid-free-businesses/)
 
 [Apartheid-Free Zones within Birmingham](https://bhamdsa.org/apartheidfreezones/)
 
