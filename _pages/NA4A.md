@@ -4,9 +4,9 @@ title: "Birmingham Against Apartheid"
 permalink: /NA4A/
 ---
 
-Birmingham DSA is an autonomous and democratically organized chapter of the Democratic Socialists of America. The No Appetite for Apartheid campaign is being led locally by our Palestine Working Group, where we are encouraging local grocers to pledge to become Apartheid-Free Stores by dropping food products and companies that are complicit in the Israeli colonization of Palestine from their shelves. 
+__Sign the Pledge [(For Businesses)](https://actionnetwork.org/forms/no-appetite-for-apartheid-business-pledge-2/) & [(For Consumers)](https://actionnetwork.org/forms/sign-the-pledge-to-join-the-campaign-and-support-apartheid-free-businesses/)__
 
-### Sign the Pledge [(For Businesses)](https://actionnetwork.org/forms/no-appetite-for-apartheid-business-pledge-2/) [(For Consumers)](https://actionnetwork.org/forms/sign-the-pledge-to-join-the-campaign-and-support-apartheid-free-businesses/)
+Birmingham DSA is an autonomous and democratically organized chapter of the Democratic Socialists of America. The No Appetite for Apartheid campaign is being led locally by our Palestine Working Group, where we are encouraging local grocers to pledge to become Apartheid-Free Stores by dropping food products and companies that are complicit in the Israeli colonization of Palestine from their shelves. 
 
 We are asking consumers to boycott the products on our target list and to support [local Apartheid-Free Stores](https://bhamdsa.org/apartheidfreezones). [No Appetite for Apartheid](https://na4a.org/) is a national boycott campaign launched by the [Palestine Solidarity Working Group](https://palestineswg.org/) and powered by a growing number of local grassroots coalitions (now including Birmingham DSA!)
 
@@ -29,13 +29,11 @@ The BDS movement focuses on targeted boycotts inspired by the South African anti
 
 [List of boycott targets.](https://bhamdsa.org/na4atargets)
 
-## How do I commit to my business being an Apartheid-Free Zone?
-
-[Sign the pledge!](https://actionnetwork.org/forms/no-appetite-for-apartheid-business-pledge-2/)
-
 ## What happens after I sign the pledge?
 
-We will follow up with you soon after you [sign the pledge](https://actionnetwork.org/forms/no-appetite-for-apartheid-business-pledge-2/) to provide you with a sticker/poster for your business and a logo for your website, then we'll add you to our list of businesses that have joined the campaign!
+If you're a business owner, we will follow up with you soon after you [sign the pledge](https://actionnetwork.org/forms/no-appetite-for-apartheid-business-pledge-2/) to provide you with a sticker/poster for your business and a logo for your website, then we'll add you to our list of businesses that have joined the campaign!
+
+If you're a consumer, support [local Apartheid-Free businesses](https://bhamdsa.org/apartheidfreezones/)! If you indicated on your pledge that you were interested in volunteering with the No Appetite for Apartheid campaign, we will follow up with you soon to help you get involved. In the meantime, keep an eye on our [calendar](https://bhamdsa.org/calendar/) for the next Palestine Working Group meeting!
 
 ## Resources
 
