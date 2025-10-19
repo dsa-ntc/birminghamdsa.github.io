@@ -69,15 +69,13 @@ permalink: /our-work/
             <p>To contact the Mutual Aid Working Group, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Working Group">mutualaid@bhamdsa.org</a>.
             <div class="contentSection" id="palestineWG">
             <h2>Palestine Working Group</h2>
-            <h5>Co-Chairs: Ryane B. (they/them), Leon O. (he/him), and Colin R. (he/him)</h5>
+            <h5>Co-Chairs: Leon O. (he/him), and Daniel D. (he/him)</h5>
             <hr>
-            <p><i>Our Palestine Working Group is currently organizing around their <a href="https://www.dsausa.org/calendar/stop-fueling-genocide-campaign-launch/">"Stop Fueling Genocide" campaign</a>. E-mail them at <a href="mailto:info@bhamdsa.org?subject=Question for Stop Fueling Genocide campaign">info@bhamdsa.org</a> to learn more about this campaign.</i>
+            <p><i>Our Palestine Working Group is currently organizing around their <a href="https://bhamdsa.org/NA4A/">"No Appetite for Apartheid"</a> and <a href="https://www.dsausa.org/calendar/stop-fueling-genocide-campaign-launch/">"Stop Fueling Genocide"</a> campaigns. E-mail them at <a href="mailto:info@bhamdsa.org?subject=Question for Palestine Working Group">info@bhamdsa.org</a> to learn more about their campaigns.</i>
             
             <p>As Birmingham DSA's Palestine Working Group, we aim to organize Birminghamians and Tuscaloosans into solidarity actions with Palestine. We aim to form a structured coalition with other local organizations who have been focused on Palestine work and demonstrations. 
-            
-            <p>Our core demands include an immediate and permanent end to Israel's genocidal violence across Palestine, an end to the apartheid system that is fundamental to the Israeli ethnostate, and an end to the Israeli occupation of historic Palestine.
 
-            <p>Our local organizing is currently focused on pressuring U.S. officials to end aid to apartheid Israel, shining a light on the global military and economic infrastructure that facilitates the occupation, and maintaining the legal and social space for Palestinian solidarity organizing to continue without repression. 
+            <p>Our core demands include an immediate and permanent end to Israel's genocidal violence across Palestine, an end to the apartheid system that is fundamental to the Israeli ethnostate, and an end to the Israeli occupation of historic Palestine. Our local organizing is currently focused on <a href="https://bdsmovement.net/Guide-to-BDS-Boycott">BDS (Boycott Divestment and Sactions) movement</a> campaigns, pressuring U.S. officials to end aid to apartheid Israel, shining a light on the global military and economic infrastructure that facilitates the occupation, and maintaining the legal and social space for Palestinian solidarity organizing to continue without repression. 
             
             <p>We hold working group meetings every two weeks.
             
