@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stand by to be redirected...
+title: Stand by to be redirected to our reimbursement form...
 permalink: /reimbursementform/
 ---
 
