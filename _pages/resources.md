@@ -45,6 +45,12 @@ Members in good standing have access to our WhatsApp Community, our central digi
 
 [Tell Altec: No Profiteering off Racist Abductions!](https://bhamdsa.org/altec)
 
+[Printable bilingual flyer for Bham Migra Watch](https://bhamdsa.org/bhammigrawatchflyer) <i>(Courtesy of [Bham Migra Watch](https://www.instagram.com/bhammigrawatch/))</i>
+
+[Printable bilingual "Know Your Rights" red card](https://bhamdsa.org/knowyourrightscard) <i>(Courtesy of Alabama Coalition for Immigrant Justice, or [ACIJ](https://www.acij.org/))</i>
+
+[Printable bilingual "Know Your Rights" flyer](https://bhamdsa.org/knowyourrightsflyer) <i>(Courtesy of Alabama Coalition for Immigrant Justice, or [ACIJ](https://www.acij.org/))</i>
+
 ## Labor Working Group
 
 [Scottsboro Starbucks Partners relief fund](https://www.gofundme.com/f/relief-fund-for-scottsboro-starbucks-partners)
