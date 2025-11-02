@@ -6,17 +6,9 @@ redirect_from: /statements/
 ---
 <h5>The blog of Birmingham DSA.</h5>
 
-<div id="substack-feed-embed"></div>
-
-
-<script>
-  window.SubstackFeedWidget = {
-    substackUrl: "bhamdsa.substack.com",
-    posts: 12,
-    hidden: ["author"]
-  };
-</script>
-
-<script src="https://substackapi.com/embeds/feed.js" async></script>
+ <div data-key="Masonry Substack Feed" class="ft" id="ft95shzm">
+ </div>
+ <script src="https://wdg.fouita.com/widgets/0x33501d.js"></script>
+ 
 
 <i>Read more articles at [our Substack page](https://bhamdsa.substack.com).</i>
