@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stay Updated
+title: Stand by to be redirected...
 permalink: /stay-updated/
 ---
 
