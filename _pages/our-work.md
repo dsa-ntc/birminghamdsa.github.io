@@ -34,7 +34,7 @@ permalink: /our-work/
         </div>
        <div class="contentSection" id="immigrationWG"> 
             <h2>Immigration Working Group</h2>
-            <h5>Co-Chairs: Madeleine F. (she/her) and River R. (xe/xir/xirs)</h5>
+            <h5>Co-Chairs: Madeleine F. (she/her), Diana I. (she/her), and Jonathan L. (he/him)</h5>
             <hr>
             <p>As Birmingham DSA's Immigration Working Group, we aim to to work in solidarity with immigrant communities in the greater Birmingham area by providing education, resources, and direct support.
             
@@ -45,7 +45,7 @@ permalink: /our-work/
             <p>To contact the Immigration Working Group, e-mail <a href="mailto:info@bhamdsa.org?subject=Question for Immigration Working Group">info@bhamdsa.org</a>.</p>
         <div class="contentSection" id="laborWG">
             <h2>Labor Working Group</h2>
-            <h5>Chair: Julian G. (he/him)</h5>
+            <h5>Chair: Stephen M. (he/him) and Naomi W. (she/her)</h5>
             <hr>
             <p>As Birmingham DSA's Labor Working Group, we aim to guide labor organizing within Birmingham DSA, educate Birmingham DSA members on workplace organizing strategies and history, strengthen relationships with existing labor organizations, and build worker power within the greater Birmingham area.
 
@@ -69,7 +69,7 @@ permalink: /our-work/
             <p>To contact the Mutual Aid Working Group, e-mail <a href="mailto:mutualaid@bhamdsa.org?subject=Question for Mutual Aid Working Group">mutualaid@bhamdsa.org</a>.
             <div class="contentSection" id="palestineWG">
             <h2>Palestine Working Group</h2>
-            <h5>Co-Chairs: Leon O. (he/him), and Daniel D. (he/him)</h5>
+            <h5>Co-Chairs: Daniel D. (he/him) and Leon O. (he/him)</h5>
             <hr>
             <p><i>Our Palestine Working Group is currently organizing around their <a href="https://bhamdsa.org/NA4A/">"No Appetite for Apartheid"</a> and <a href="https://www.dsausa.org/calendar/stop-fueling-genocide-campaign-launch/">"Stop Fueling Genocide"</a> campaigns. E-mail them at <a href="mailto:info@bhamdsa.org?subject=Question for Palestine Working Group">info@bhamdsa.org</a> to learn more about their campaigns.</i>
             
@@ -100,7 +100,7 @@ permalink: /our-work/
             <p>To contact Birmingham DSA's AFROSOC Section, e-mail <a href="mailto:afrosoc@bhamdsa.org?subject=Question for AFROSOC">afrosoc@bhamdsa.org</a>.
             <div class="contentSection" id="DSS">
             <h2>Disabled Socialists Section (DSS)</h2>
-            <h5>Co-Chairs: Ace H. (he/him) and Kris T. (he/him)</h5>
+            <h5>Chair: Kris T. (he/him)</h5>
             <hr>
             <p>The mission of Birmingham DSA's Disabled Socialists Section (DSS) is to end ableism and capitalism, as well as to provide a safe space for disabled socialists to organize around issues of their designation. We recognize ableist capitalism has evolved from colonialism and imperialism and further enables the ruling class’s exploitation of all life on this planet. To pursue this mission, we affirm a collective gathering space for disabled socialists in Birmingham and Tuscaloosa to grow, find support, organize, and take action by empowering disabled socialists in and outside of their local communities. 
 
@@ -111,6 +111,7 @@ permalink: /our-work/
             <p>To contact DSS, e-mail <a href="mailto:dss@bhamdsa.org?subject=Question for DSS">dss@bhamdsa.org</a>.
              <div class="contentSection" id="QUEERSOC">
             <h2>Queer Socialists Section (QUEERSOC)</h2>
+            <h5>Co-Chairs: Minh V. and Lynn W.</h5>
             <hr>
             <p><i>QUEERSOC is currently organizing around a "Trans Sanctuary" campaign</a>. E-mail them at <a href="mailto:queersoc@bhamdsa.org?subject=Question for Trans Sanctuary campaign">queersoc@bhamdsa.org</a> to learn more about this campaign.</i>
             <p>Birmingham DSA Queer Socialists Section (QUEERSOC) serves as a formation to advocate and build power for our Queer-identifying members. 
@@ -152,6 +153,7 @@ permalink: /our-work/
            <p>To contact the Communications Committee, e-mail <a href="mailto:comms@bhamdsa.org?subject=Question for Comms Committee">comms@bhamdsa.org</a>.
         <div class="contentSection" id="membershipCommittee">
             <h2>Membership Committee</h2>
+            <h5>Chair: Colin R. (he/him)</h5>
             <hr>
            <p>The Membership Committee guides and informs how Birmingham DSA engages with new, prospective, and existing members. This includes organizing our Birmingham DSA 101 learning events, social events, and more.
 
