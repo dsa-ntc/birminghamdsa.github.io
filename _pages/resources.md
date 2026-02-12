@@ -19,9 +19,7 @@ permalink: /resources/
 
 [What is DSA? An Introduction.](https://www.dsausa.org/organize/intro_to_dsa/)
 
-[Bham DSA's "What is Democratic Socialism?" trifold brochure (color)](https://drive.google.com/file/d/19tOiMHLT6owgvKPRcbur3-4NfpCAJagR/view?usp=sharing)
-
-[Bham DSA's "What is Democratic Socialism?" trifold brochure (black and white)](https://drive.google.com/file/d/1eQnEjbi4a8pWfZ_-rb2wwpFEXRvZMT1p/view?usp=sharing)
+[Bham DSA's "What is Democratic Socialism?" trifold brochure (color)](https://drive.google.com/file/d/1iJTjCMR0xOCvf-bbKk2z-WLIVWoDzRPR/view?usp=sharing)
 
 [Subscribe to our email bulletin here!](https://bhamdsa.org/blast)
 
