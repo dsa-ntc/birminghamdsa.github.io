@@ -27,7 +27,9 @@ permalink: /resources/
 
 [DSA Meeting Code of Conduct](https://www.dsausa.org/resources/harassment-and-grievance/dsa-meeting-code-of-conduct-4-7-2020/) (adopted as Birmingham DSA's Meeting Code of Conduct by resolution in May 2022)
 
-<b>Harassment Grievance Disclosure</b>: If you experience or witness harassment in any DSA space, you may report it to our chapter’s harassment grievance officers (HGOs) at <a href="mailto:grievance@bhamdsa.org">grievance [a] bhamdsa {dot} org</a>. All reports will remain confidential with our HGOs. The full text of our Harassment and Grievance Policy can be found in Section 11 of our [current bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing). <i>(Our chapter's current HGO is Lauren B.)</i>
+[DSA Unified Grievance Policy](https://docs.google.com/document/d/e/2PACX-1vSr1uVIK1YAz4K1XetliUw8r94WugTUZeIwDGAngtt2AXRCV0uktNq_qgXqRuGKT-w_J889iQJBI3b-/pub)
+
+<b>Harassment Grievance Disclosure</b>: If you experience or witness harassment in any DSA space, you may report it to our chapter’s harassment grievance officers (HGOs) at <a href="mailto:grievance@bhamdsa.org">grievance [a] bhamdsa {dot} org</a>. All reports will remain confidential with our HGOs. The full text of our Harassment and Grievance Policy can be found in Section 11 of our [current bylaws](https://docs.google.com/document/d/1bCHmNySr400hc7KN5xE4JOXYeaiOMRjOs1jGMIfEx40/edit?usp=sharing). <i>(Our chapter's current HGO is Michaela S.)</i>
 
 Members in good standing have access to our WhatsApp Community, our central digital platform for our day-to-day organizing activities. If you're a member that would like to be added to or WhatsApp Community, email <a href="mailto:steering@bhamdsa.org?subject=WhatsApp Community Access">steering {a} bhamdsa (dot) org</a>.
 
